@@ -501,13 +501,13 @@ Krezke Abatas baigė savo paties prototipą: pabaisišką **mėsos golemą**, ku
 
 Abato kapų plėšikavimui intensyvėjant, Kazimieras bandė pasiekti Gintaro Šventyklą, tačiau buvo atmuštas Tsolenkos perėjos **vrokų** ties <span class="citation">T2. Demon Statues (p. 157)</span>. Sužeistas ir prislėgtas, Kazimieras grįžo į prieblandos elfų gyvenvietę apmąstyti tolesnių žingsnių.
 ## Strahdo Rūstybė
-Devyniasdešimt dienų po Rahadino paskelbimo Strahdo nemirusiųjų armija galiausiai buvo baigta. Jis paleido zombių ordą prieš Barovijos kaimą – o Doru, kad nubaustų, nusiuntė į Barovijos bažnyčią kankinti savo tėvo, kunigo Donaviciaus.
+Devyniasdešimt dienų po Rahadino paskelbimo Strahdo nemirusiųjų armija galiausiai buvo baigta. Jis paleido zombių ordą prieš Barovijos kaimą – o Doru, kad nubaustų, nusiuntė į Barovijos bažnyčią kankinti savo tėvo, kunigo Donavičiaus.
 
 Zombių apgultis kaimą siaubia jau šešias dienas, nemirėliams naktis po nakties triuškinant grubius kaimo įtvirtinimus. Jau žuvo dešimtys gyvybių, o daugelis likusiųjų nusigręžė nuo Ismarko, kaltindami jį dėl to, kad prieš kelias savaites atkalbėjo juos bėgti į saugumą. Ismarkas – pavadintas savo protėvio „Ismarko Didžiojo" garbei – dabar tyčiojantis vadinamas „Ismarku Mažuoju".
 
 Tuo tarpu, Strahdo tarnams sklindant po slėnį, vėl paklusniems vampyro valiai, žemę grįžta niokoti šliaužianti tamsa. Šešėliai tyko kiekviename kampe, o Rūkai tylomis stebi, kaip skleidžiasi siaubai.
 
-Tuo tarpu, tolimoje žemėje anapus slėnio, keli keliautojai atvyksta į Kalavijo Brastos miestą, nė nenutuokdami apie išbandymus, kurių jų laukia . . .
+Tuo tarpu, tolimoje žemėje anapus slėnio, keli keliautojai atvyksta į Daggerfordo miestą, nė nenutuokdami apie išbandymus, kurių jų laukia . . .
 # Projektavimo Pastabos: Barovijos Istorija
 ***Slėnio Kilmė.*** „Pirmoji Tauta" yra išplėtota originaliame modulyje minimų senovinių druidų ir kalnų genčių interpretacija. Fanų Ponios, kaip ir patys Fanai, yra 3.5 leidimo modulio *Expedition to Castle Ravenloft* lorų perkūrimas, pridėtas prie *Strahdo Prakeiksmo: Perkurto* siekiant suteikti Strahdui aktyvesnį tikslą (t. y. pabėgimą iš Barovijos) ir sujungti kelis pasakojimo elementus, įskaitant vilkolakius, varnalakius, vyninės užburtus brangakmenius bei Ponios Evos dievišką sandorį.
 

@@ -204,7 +204,7 @@ Jei personažas Barovijoje nukrenta iki 0 gyvybės taškų, turėdamas savo *gin
 ![[Angel's Feather.png]]
 Žaidėjas, siekiantis **atpirkimo**, kampaniją pradeda su *angelo plunksna* — didele, sniego baltumo plunksna. Žiūrint į ją ryto saulės šviesoje, plunksnos akuotai švyti tarsi auksu.
 
-Žaidėjui nežinant, *angelo plunksna* kadaise priklausė Ithuriel, **devai**, tarnaujančiai dievui Lathanderiui, savo pasekėjų vadinamam Rytmečio Valdovu. Ithuriel yra tikrasis Abato vardas — jis gyvena Šventosios Markovijos Abatijoje Barovijoje. Kai plunksna pajunta Mirties Namų artumą, ją nuneša nematomas vėjas, jos akuotams švytint auksine šviesa, kol galiausiai ji nusileidžia ant Namų slenksčio.
+Žaidėjui nežinant, *angelo plunksna* kadaise priklausė Ithuriel, **devai**, tarnaujančiai dievui Lathanderiui, savo pasekėjų vadinamam Ryto Valdovu. Ithuriel yra tikrasis Abato vardas — jis gyvena Šventosios Markovijos Abatijoje Barovijoje. Kai plunksna pajunta Mirties Namų artumą, ją nuneša nematomas vėjas, jos akuotams švytint auksine šviesa, kol galiausiai ji nusileidžia ant Namų slenksčio.
 
 Žaidėjas, turintis *angelo plunksną*, turėtų turėti stiprias, ryškias priežastis tikėti, kad plunksna vieną dieną atves jį prie atpirkimo už padarytas nuodėmes.
 
@@ -233,7 +233,7 @@ Jei žaidėjas padeda susigrąžinti Argynvosto kaukolę ir sugrąžinti ją į 
 ![[Electrum Coin.png]]
 Žaidėjas, siekiantis **turto**, kampaniją pradeda su sena, aplūžusia *elektro moneta*, pažymėta išdidaus, tačiau šalto žvilgsnio didiko profiliu. Tam tikroje šviesoje didiko veido išraiška tarsi pasikeičia iš tvirtos, aristokratiškos panieklios grimasos į žvėrišką, pabaisišką iššiepimą.
 
-Žaidėjui nežinant, ant *elektro monetos* atspaustas veidas priklauso Strahdui von Zarovichui — nemirstančiam Barovijos valdovui. Moneta buvo nukalta seniai, tačiau vagies pagrobta iš Strahdo iždo trumpai prieš Barovijai pradingstant miglose. Kai moneta pajunta Mirties Namų artumą, ji nukrenta ant briaunos ir ima riedėti žeme Namų link, kol pasiekia jų laiptų papėdę.
+Žaidėjui nežinant, ant *elektro monetos* atspaustas veidas priklauso Strahdui von Zarovičiui — nemirstančiam Barovijos valdovui. Moneta buvo nukalta seniai, tačiau vagies pagrobta iš Strahdo iždo trumpai prieš Barovijai pradingstant miglose. Kai moneta pajunta Mirties Namų artumą, ji nukrenta ant briaunos ir ima riedėti žeme Namų link, kol pasiekia jų laiptų papėdę.
 
 Žaidėjas, turintis *elektro monetą*, turėtų turėti stiprias, ryškias priežastis tikėti, kad moneta kadaise atkeliavo iš stebuklingo lobių skliauto — užkariautojo lobyno — ir kad vieną dieną ji ves jį pasisavinti neįsivaizduojamus turtus.
 
@@ -273,7 +273,7 @@ Kai žaidėjas pirmą kartą įžengia į stačiųjų akmenų ratą Kalno Fanoje
 ![[Tattered Banner.png]]
 Žaidėjas, siekiantis **ambicijos**, kampaniją pradeda su *suplyšusia vėliava* — sena, aplūžusia raudona vėliava su varno prieš skydą heraldika. Varno sparnai plačiai išskleisti, o skydo viršuje įrėžtas pilies bokšto atvaizdas. Kartais, kai vėliavą laiko Tvarkos linkmės būtybė, iš pilies bokšto viršūnės tarsi sušvinta purpurinė šviesa, o tolumoje pasigirsta žygiuojančių kareivių garsas.
 
-Žaidėjui nežinant, vėliavą kadaise plėtojo karvedys Strahdas von Zarovichas dienomis prieš tapdamas vampyru ir įkalintas Barovijos miglose. Kai ji pajunta Mirties Namų artumą, jos laikytojo ausis prisipildo tolimo karo būgnų garso, o vėliava plaikstosi nematomame vėjyje, traukdama Namų kryptimi.
+Žaidėjui nežinant, vėliavą kadaise plėtojo karvedys Strahdas von Zarovičius dienomis prieš tapdamas vampyru ir įkalintas Barovijos miglose. Kai ji pajunta Mirties Namų artumą, jos laikytojo ausis prisipildo tolimo karo būgnų garso, o vėliava plaikstosi nematomame vėjyje, traukdama Namų kryptimi.
 
 Žaidėjas, turintis *suplyšusią vėliavą*, turėtų turėti stiprias, ryškias priežastis tikėti, kad vėliava kadaise buvo galingo užkariautojo simbolis — ir kad, sekdamas to užkariautojo pėdomis, jis vieną dieną pasieks didybę, šlovę ir teisę valdyti.
 
@@ -286,11 +286,11 @@ Jei žaidėjas parodo vėliavą Strahdui, jis žvelgia į ją su šiltu apmąsty
 ![[Sunrise Medallion.png]]
 Žaidėjas, siekiantis **tikėjimo**, kampaniją pradeda su *aušros medalionu* — bronziniu disku, įrėžtu tekančios saulės atvaizdu. Diskas švyti tarsi auksu, kai jį paliečia aušros šviesa, o Gėrio linkme prilygstanti būtybė, jį palietusi, pajunta trumpalaikį pagarbos, teisumo ir ramybės jausmą.
 
-Žaidėjui nežinant, medalionas kadaise priklausė Sergei von Zarovichui — Strahdo von Zarovicho broliui ir Rytmečio Valdovo Bažnyčios akolitui, kadaise turėjusiam tapti jos Aukščiausiuoju Kunigu. Kai medalionas pajunta Mirties Namų artumą, jis šviečia šiltu, auksiniu švytėjimu, o iš įrėžtos saulės sklindantys spinduliai rodo Namų kryptį.
+Žaidėjui nežinant, medalionas kadaise priklausė Sergejui von Zarovičiui — Strahdo von Zarovičiaus broliui ir Ryto Valdovo Bažnyčios akolitui, kadaise turėjusiam tapti jos Aukščiausiuoju Kunigu. Kai medalionas pajunta Mirties Namų artumą, jis šviečia šiltu, auksiniu švytėjimu, o iš įrėžtos saulės sklindantys spinduliai rodo Namų kryptį.
 
 Žaidėjas, turintis *aušros medalioną*, turėtų turėti stiprias, ryškias priežastis tikėti, kad jis stiprins ar ves jį tikėjime, ir kad tam tikri dieviški ženklai atves jį prie tų, kuriems reikia išgelbėjimo ir išganymo.
 
-***Įvykiai.*** Kai žaidėjas pirmą kartą prisiartina prie Šventojo Andralo Bažnyčios [[Arc D - St. Andral's Feast]] metu, *aušros medalionas* sušvinta ir šviečia bažnyčios durų kryptimi. Jei žaidėjas parodo *aušros medalioną* tėvui Donavičiui ar Lucianui, jie atpažįsta jį kaip Rytmečio Valdovo Bažnyčios simbolį ir tampa šiltesni bei draugiškesni tam žaidėjui.
+***Įvykiai.*** Kai žaidėjas pirmą kartą prisiartina prie Šventojo Andralo Bažnyčios [[Arc D - St. Andral's Feast]] metu, *aušros medalionas* sušvinta ir šviečia bažnyčios durų kryptimi. Jei žaidėjas parodo *aušros medalioną* kunigui Donavičiui ar Lucianui, jie atpažįsta jį kaip Ryto Valdovo Bažnyčios simbolį ir tampa šiltesni bei draugiškesni tam žaidėjui.
 ## Harmonija — Akmens Herbas
 ![[Stone Crest.png]]
 Žaidėjas, siekiantis **harmonijos**, kampaniją pradeda su *akmens herbu* — plokščiu, apvaliu akmeniu, įrėžtu trikampės žvaigždės atvaizdu. Jaunaties naktimis žvaigždė tarsi sušvinta smaragdine šviesa.
@@ -306,7 +306,7 @@ Jei žaidėjas parodo *akmens herbą* Kavanui [[Arc J - The Stolen Gem]] metu ar
 ![[Broken Blade.png]]
 Žaidėjas, siekiantis **teisingumo**, kampaniją pradeda su *sulaužyta geležte* — sudužusiu elfų ilgojo kalavijo smaigaliu. Ašmenys įrėžti riaumojančio liūto ženklu, kuris tarsi suriaumoja, kai jį paliečia sutemų šviesa.
 
-Žaidėjui nežinant, ašmenys kadaise priklausė Erevanui — sutemų elfų princui. Erevanas, meistriškas geležtės dainininkas (bladesinger), praktikavo liūto stilių, kurį naudojo ir kaip savo asmeninį ženklą. Tačiau Erevanas atsisakė mokėti duoklę karaliui Barovui von Zarovichui — galingam karvedžiui ir Strahdo von Zarovicho tėvui.
+Žaidėjui nežinant, ašmenys kadaise priklausė Erevanui — sutemų elfų princui. Erevanas, meistriškas geležtės dainininkas (bladesinger), praktikavo liūto stilių, kurį naudojo ir kaip savo asmeninį ženklą. Tačiau Erevanas atsisakė mokėti duoklę karaliui Barovui von Zarovičiui — galingam karvedžiui ir Strahdo von Zarovičiaus tėvui.
 
 Rahadinas, sutemų elfas, atsisakęs paklusti Erevano valdžiai, padėjo karaliui Barovui užkariauti sutemų elfų karalystę. Tuomet Rahadinas sulaužė Erevano ašmenis ir asmeniškai įvykdė mirties bausmę Erevanui bei jo šeimai už jo nepaklusnumą. Kai ašmenys pajunta Mirties Namų artumą, jie skleidžia aukšto tono dūzgimą ir ima smarkiai virpėti, sukdamiesi kaip kompaso rodyklė Namų kryptimi.
 

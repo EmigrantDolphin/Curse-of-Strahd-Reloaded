@@ -9,7 +9,7 @@ Kaip Džentelmenas, Strahdas turėtų glostyti žaidėjus savo susidomėjimu ir 
 
 Džentelmenas vengia konfliktų kiek tik įmanoma, ramiai priimdamas bet kokį žaidėjų grubumą ar nepaklusnumą. Jei jį spausi, jis gali nusiųsti savo pavaldinius sustabdyti žaidėjo fizinių išpuolių, tačiau tik kaip paskutinę priemonę.
 ## Tironas
-Kai jis sužino, kad žaidėjai iš naujo uždegė Argynvostholto švyturį, baigiantis ***R Arkai: Argynvostholto Švyturiui***, Strahdas tampa Tironu – griežtas, stačiokiškas ir šiek tiek žiaurus. Jis išlaiko savo šaltą ir atsietą laikyseną, tačiau elgiasi su žaidėjais ne kaip su svečiais, o labiau kaip su nuviliančiais mokiniais. Jo tikslas – privesti žaidėjus prie jų ribų, išbandant jų atsparumą ir įvertinant jų kompetenciją.
+Kai jis sužino, kad žaidėjai iš naujo uždegė Argynvostholto švyturį, baigiantis ***Arc R: The Beacon of Argynvostholt***, Strahdas tampa Tironu – griežtas, stačiokiškas ir šiek tiek žiaurus. Jis išlaiko savo šaltą ir atsietą laikyseną, tačiau elgiasi su žaidėjais ne kaip su svečiais, o labiau kaip su nuviliančiais mokiniais. Jo tikslas – privesti žaidėjus prie jų ribų, išbandant jų atsparumą ir įvertinant jų kompetenciją.
 
 Kaip Tironas, Strahdas turėtų užgauti žaidėjus savo įžeidinėjimais ir žeminimu, bei sukelti jiems pasibjaurėjimą savo panieka žmogaus gyvybei.
 
@@ -17,7 +17,7 @@ Kaip Tironas, Strahdas turėtų užgauti žaidėjus savo įžeidinėjimais ir ž
 
 Tironas niekada nepuola pirmas – tačiau iššaukia nepaklusnius žaidėjus paremti savo žodžius veiksmais. Jei žaidėjas atsitraukia, Strahdas pašiepia jo ryžtą ir gebėjimus. Tačiau bet kuris žaidėjas, jį puolantis, sulaukia greito ir negailestingo atsako – nors niekada mirtino.
 ## Pabaisa
-Kai jis pirmą kartą sužino, kad žaidėjai atkūrė *Saulės Ašmens* geležtę ***V Arkoje: Saulės Ašmuo***, Strahdas atsisako bet kokio pretekstavimo ir tampa Pabaisa – šaltu, bejausmiu sociopatu, plačiau aprašytu **Roleplaying Strahd** (p. 10). Jo tikslas – pasiekti savo tikslus, kad ir kokia būtų kaina.
+Kai jis pirmą kartą sužino, kad žaidėjai atkūrė *Saulės Ašmens* geležtę ***Arc V: The Sunsword***, Strahdas atsisako bet kokio pretekstavimo ir tampa Pabaisa – šaltu, bejausmiu sociopatu, plačiau aprašytu **Roleplaying Strahd** (p. 10). Jo tikslas – pasiekti savo tikslus, kad ir kokia būtų kaina.
 
 Kaip Pabaisa, Strahdas turėtų sukelti žaidėjams pasibjaurėjimą savo visišku abejingumu gyvybei ir mirčiai, sukelti gailestį dėl jo negebėjimo jausti laimę ar meilę, bei erzinti žaidėjus savo atsisakymu bet kada prarasti šaltakraujiškumą.
 
