@@ -45,7 +45,7 @@ Strahdas turi sudėtingą santykių tinklą su Barovijos gyventojais, kurių dau
 
 ***Vakarykščioji Kalva.*** Strahdas žvelgia į Miško Žmones su panieka ir tam tikru pramoga. Jam jų pamišęs garbinimas atrodo labiau erzinantis nei malonus, o šiuolaikinę kartą jis laiko blanku savo garbingesnių protėvių šešėliu. Vis dėlto jis laiko juos naudingais įrankiais ir žino, kad jų „tikėjimas" yra būtinas blogis, užtikrinantis jų tęstinę ištikimybę.
 
-***Krezko Kaimas.*** Strahdas menkai domisi baronu Dmitrijumi Krezkovu ar Krezko žmonėmis. Jį prajuokina Abato nuosmukis į beprotybę ir iškrypimą. Jis ketina laikinai „žaisti kartu" su Abato pastangomis pastatyti **mėsos golemo** nuotaką jam, tačiau neturi jokio rimto ketinimo priimti Vasilką, kai ji bus baigta.
+***Krezko Kaimas.*** Strahdas menkai domisi baronu Dmitrijumi Krezkovu ar Krezko žmonėmis. Jį prajuokina Abato nuosmukis į beprotybę ir sugedimą. Jis ketina laikinai „žaisti kartu" su Abato pastangomis pastatyti **mėsos golemo** nuotaką jam, tačiau neturi jokio rimto ketinimo priimti Vasilką, kai ji bus baigta.
 
 ***Vilkolakių Guolis.*** Strahdas laiko Kirilą Stojanovičių naudingu ir ištikimu tarnu, nors šiek tiek grubiu ir nerafinuotu. Jis ketina laikyti Emilį Toranesku, buvusį gaujos vadą, kaliniu savo požemiuose, kol Emilis bus pakankamai pamišęs nuo bado, kad būtų „prijaukintas".
 
@@ -65,7 +65,7 @@ Nugalėdami jo tarnus ir sustabdydami jų sumanymus, žaidėjai gali atimti iš 
 ## Slėnio Atsikovojimas
 Kai Strahdas pabudo iš savo šimtmetį trukusio miego, jis rado, kad daug kas pasikeitė.
 
-Barovijos žmonės buvo pamiršę, kodėl jo bijojo, o jų burmistrai jam nebetarnavo ištikimai. Jo tarnai ir sugulovai buvo pasklidę po slėnį, siekdami savų sumanymų ir užgaidų, o pačios laukinės vietos kažkaip nuvalė iškrypimo dėmę.
+Barovijos žmonės buvo pamiršę, kodėl jo bijojo, o jų burmistrai jam nebetarnavo ištikimai. Jo tarnai ir sugulovai buvo pasklidę po slėnį, siekdami savų sumanymų ir užgaidų, o pačios laukinės vietos kažkaip nuvalė korupcijos dėmę.
 
 Tai, jis žinojo, reikia ištaisyti.
 
