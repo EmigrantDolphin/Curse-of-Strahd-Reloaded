@@ -88,19 +88,8 @@ Jei vienas ar daugiau jūsų žaidėjų naudoja [[Running the Adventure#Nuotykio
 ### Įėjimas
 <span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
 
-Perskaitykite visiems žaidėjams šį tekstą:
-
-<div class=description>
-<p>Priešais jus stovi didingas dvaras – keturi aukštai šalto, suodžiais nusėto akmens, aukšti siauri langai ir statūs smailūs stogai, sudarantys atšiaurios, šiurpinančios didybės vaizdą. Viduryje aukštyje iš trečiojo aukšto styro siauras balkonas, siūlantis niūrią vietą aplinkinei valdai apžvelgti.</p>
-<p>Šio įspūdingo fasado centrinė dalis – portikas, akmeninė arka, stovinti sargyboje priešais namo ąžuolines duris. Šią arką užpildo kalto geležies vartai, kurių surūdiję vyriai girgžda, jiems siūbuojant vėjyje.</p>
-<p>Abipus vartų nuo grandinių kabo alyvos lempos, jų šviesa blausi ir mirganti, metanti ligotą švytėjimą, vos prasiskverbiantį pro aplinkinį rūką.</p>
-<p>Už vartų stovi tvirtos ąžuolinės durys, įrėmintos vartų ir lempų. Durys senos ir apdaužytos oro, jų mediena patamsėjusi nuo laiko, tačiau stovi tvirtai ir išdidžiai – nesvetingas įėjimas į namą anapus.</p>
-<p>Pro jus praūžia vėjo gūsis, atnešdamas šalto siaubo šnabždesį, nuo kurio per stuburą nubėga šiurpuliai.</p>
-</div>
-
-Bet kurie žaidėjai, pradėję su ***Barovian Relics*** užuomazga, dabar gali matyti žaidėjus, pradėjusius su ***Lost in the Mists*** užuomazga, ir atvirkščiai. (Jei kurios nors žaidėjų relikvijos nuskrido ar nuriedėjo prie Mirties Namų – kaip *klajoklio šalikas* ar *elektrumo moneta* – jos nusileidžia ant namo slenksčio, tiesiai už portiko.) Gatvė kitu atžvilgiu tuščia.
-
-Įėjimas už portiko kitu atžvilgiu yra toks, koks aprašytas <span class="citation">Entrance (p. 212)</span>.
+Ant sienos kabo dekoratyvinis skydas su malūno atvaizdu raudoname fone. Aplink šį šydą yra pakabinti įrėminti aristokratų portretai.
+Raudonmedžio durys veda į namo vidų 
 
 > [!lore]+ **Strahdas ir Kultas**
 >
@@ -112,14 +101,18 @@ Bet kurie žaidėjai, pradėję su ***Barovian Relics*** užuomazga, dabar gali 
 
 Kai žaidėjai peržengia Mirties Namų slenkstį, bet kurios jų nešamos Barovijos relikvijos nustoja veikti. (Pavyzdžiui, *saulėtekio medalionas* nustoja švytėti.)
 
-Pagrindinė salė iš esmės tokia, kokia aprašyta <span class="citation">Main Hall (p. 212)</span>, tačiau dabar joje yra senovinis laikrodis, pastatytas apskritoje erdvėje laiptų papėdėje.
+Raudono marmuro laiptai.
+Prie jo stovi senovinis didelis laikrodis
+Sienos padengtos medinėm panelėm kuriose išraižytoi vyjokliai, gėlytės, nimfos ir satyrai.
+Juodo marmuro žydinis. 
+**DC wisdom (perception) 12** - **nepastebimai išraižytos kaukoles ir gyvatės**
 
-Vietoj ilgojo kalavijo virš židinio dabar kabo Durstų šeimos portretas iš <span class="citation">Upper Hall (p. 213)</span>. Portrete Tornas laiko besišypsančią lėlę, vilkinčią geltona nėrinių suknele. Lentelė po portretu skelbia: *Ponas Gustavas ir ponia Elizabeta Durstai su savo dviem vaikais, Rozavalda ir Tornboltu.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+Virš židinio dabar kabo Durstų šeimos portretas. Portrete Tornas laiko besišypsančią lėlę, vilkinčią geltona nėrinių suknele. Lentelė po portretu skelbia: *Ponas Gustavas ir ponia Elizabeta Durstai su savo dviem vaikais, Rozavalda ir Tornboltu.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.png]]
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Netrukus po to, kai visi personažai įžengia į pagrindinę salę, priekinės durys užsitrenkia, užgesindamos visas šviesas name. Lietaus garsas lauke visiškai išnyksta, palikdamas namą šiurpiai tylų.
+Netrukus po to, kai visi personažai įžengia į pagrindinę salę, priekinės durys užsitrenkia, **užgesindamos visas šviesas name**. Lietaus garsas lauke visiškai išnyksta, palikdamas namą šiurpiai tylų.
 
 Tuomet ant pietinės sienos, tiesiai virš marmurinių laiptų, ima ryškėti kruvinos raidės. Jos skelbia:
 
@@ -173,7 +166,8 @@ Tuomet senovinis laikrodis išmuša šeštą valandą.
 ### Drabužinė
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-Žaidėjas, tiriantis drabužinę prie Pagrindinės Salės, gali pastebėti voką, kyšantį iš vieno apsiausto kišenės. Vokas, adresuotas lady Lovinai Wachter, turi viduje kvietimą. Jame parašyta:
+Paltai
+Žaidėjas, tiriantis drabužinę prie Pagrindinės Salės, gali pastebėti voką, kyšantį iš vieno apsiausto kišenės. Vokas, adresuotas lady **Lovinai Wachter**, turi viduje kvietimą. Jame parašyta:
 
 <div class="description" style="text-align:center; padding: 15px;">
 Maloniai kviečiame Jus prisijungti prie
@@ -196,9 +190,6 @@ Durstų Malūno pirmųjų metinių šventės.
 
 ### Vilkų Guolis
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
-
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Den of Wolves (p. 212)</span>. Žaidėjams įžengiant į šį kambarį, perskaitykite:
-
 <div class="description">
 <p>Praverdami šio kambario duris, jūs pagaunate žvilgsnį kažko laukinio anapus: gintarinės akies, blykstelėjusios tamsoje, ir žvėriškos snukio, sustingusios urzgime.</p>
 </div>
@@ -206,14 +197,14 @@ Durstų Malūno pirmųjų metinių šventės.
 Jei žaidėjai eina toliau, perskaitykite:
 
 <div class="description">
-<p>Durys prasiveria, atverdamos pilkakailį vilką, sustingusį vietoje. Praeina vos akimirka, kol suvokiate, kad jis nejuda – ir dar viena, kol suvokiate, kad jis ne vienas.</p>
-<p>Šis ąžuolo lentomis apkaltas kambarys atrodo kaip medžiotojo guolis. Virš židinio pakabinta elnio galva, o kambario pakraščiuose išdėstyti dar du iškamšiniai vilkai – didelis pilkas vilkas ir mažesnis rudas vilkas.</p>
+<p>Pravėrus duris pilnai - pastebite kad tai yra vilkas ir jis ne vienas. Po akimirkos suprantate kad šie vilkai nejuda, ir dar po akimirkos kad šie vilka yra iškamšos</p>
+<p>Šis kambarys atrodo kaip medžiotojo guolis. Vilkų iškamšos aplink, virš žydinio pakabinta elnio galva</p>
 <p>Dvi minkštos kėdės, apklotos gyvūnų kailiais, atsuktos į židinį, o tarp jų stovi ąžuolinis stalas su įvairiais daiktais. Virš audeklu užtiesto stalo, apsupto keturių kėdžių, kabo sietynas, o prie sienų stovi dvi spintelės. Po viena iš kėdžių, atrodo, buvo pamiršta pora nedidelių žaislų.</p>
 </div>
 
 Numesti žaislai yra maži, pliušiniai pilki vilkai, kurių apiplyšę kailiai rodo gausaus lopymo ir siuvinėjimo žymes. Nerangūs dygsniai ant jų pilvų skelbia atitinkamai ROUZĖ ir TORNAS.
-
-Be kito turinio, rytinėje spintelėje tarp kitų šešiasdešimties strėlių yra penkios sidabruotos arbaleto strėlės. Tuo tarpu šiaurinėje spintelėje taip pat yra įrėmintas vaikiškas siuvinys, vaizduojantis berniuką ir mergaitę, laikančius jaunos moters rankas, kartu su nerangiai išsiuvinėtais žodžiais PANELEI KLARAI. Jaunos moters veidas buvo perrėžtas ir iškirptas.
+****
+Be kito turinio, rytinėje spintelėje tarp kitų **šešiasdešimties strėlių yra penkios sidabruotos arbaleto strėlės**. Tuo tarpu šiaurinėje spintelėje taip pat yra **įrėmintas vaikiškas siuvinys**, vaizduojantis berniuką ir mergaitę, laikančius jaunos moters rankas, kartu su nerangiai išsiuvinėtais žodžiais PANELEI KLARAI. **Jaunos moters veidas buvo perrėžtas ir iškirptas**.
 
 Pirmą kartą, kai nė vienas žaidėjas į juos nežiūri, trys iškamšiniai vilkai pajuda. Kai žaidėjai kitą kartą į juos pažvelgia, didelis pilkas vilkas stovi šalia mažesnio rudo vilko, o pirmasis pilkas vilkas atsuko savo urzgimą į kitus.
 
@@ -221,7 +212,12 @@ Pirmą kartą, kai nė vienas žaidėjas į juos nežiūri, trys iškamšiniai v
 ### Valgomasis
 <span class="citation"><em>This scene takes place in Appendix B: Area 5.</em></span>
 
-Žaidėjai, priartėję prie šių durų, gali girdėti prislopintus gyvos vakarienės puotos garsus, įskaitant taurių skambėjimą, tylų juoką ir tolimą pokalbį. Tačiau jei žaidėjai atidaro duris ar į jas pasibeldžia, kambarys nutyla, palikdamas tik ramybę ir šaltą kambario didybę anapus.
+Žaidėjai, priartėję prie šių durų, gali girdėti prislopintus gyvos **vakarienės puotos garsus**, įskaitant **taurių skambėjimą**, **tylų juoką ir tolimą pokalbį**. Tačiau jei žaidėjai atidaro duris ar į jas pasibeldžia, kambarys nutyla, palikdamas tik ramybę ir šaltą kambario didybę anapus.
+
+Medinėse sienose išraižytas miškas su elniais tarp medžių
+Veikėjai, kurie apžiūrinėja sienas ieškodami slaptų durų ar kitaip tyrinėja dailylentes, sėkmingai atlikę **DC 12 Wisdom (Perception) check** patikrinimą, **medžių kamienuose įžvelgia išraižytus perkreiptus veidus**, o **tarp medžių– tykančius vilkus.**
+
+Langus dengia raudonos šilkinės užuolaidos, o nuo geležinio strypo, pritvirtinto prie pietinės sienos, kabo **gobelenas****, **vaizduojantis medžioklinius šunis ir raitus aristokratus, besivejančius vilką.****
 
 Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Dining Room (p. 213)</span>. Kai žaidėjai į jį įžengia, perskaitykite:
 
@@ -235,46 +231,47 @@ Pirmą kartą, kai nė vienas žaidėjas į juos nežiūri, trys iškamšiniai v
 ### Virtuvė ir Sandėliukas
 <span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Kitchen and Pantry (p. 213)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Jūs įžengiate į tvarkingą virtuvę, kurioje ant lentynų dailiai sudėti indai, prikaistuviai ir įrankiai. Ant darbastalio guli pjaustymo lentelė ir kočėlas. Prie rytinės sienos stovi akmeninė, kupolo formos krosnis, jos sulankstytas geležinis dūmtraukis jungiasi su anga lubose. Už krosnies ir į kairę – siauros durys.</p>
-<p>Priekiniame dešiniajame kambario kampe į sieną įtaisytos mažos medinės durelės.</p>
+<p>Ant lentynų dailiai sudėti indai, prikaistuviai ir įrankiai. Ant darbastalio guli pjaustymo lentelė ir kočėlas. Akmeninė kupolo formos krosnis, jos sulankstytas geležinis dūmtraukis jungiasi su anga lubose.</p>
 </div>
 
-Jei žaidėjai apžiūri virtuvės reikmenis, jie randa, kad trūksta didžiausio virtuvinio peilio.
+Jei žaidėjai apžiūri virtuvės reikmenis, jie randa, kad **trūksta didžiausio virtuvinio peilio**.
 
-Žaidėjas, įžengęs į sandėliuką, randa, kad vienoje iš lentynų stovi rinkinys gražių dekoratyvinių lėkščių, išpieštų vėjo malūnų paveikslėliais. Viena iš lėkščių, atrodo, buvo numušta nuo lentynos ir guli sudužusi ant grindų, palikdama tuščią vietą lėkščių eilėje.
 
-Kelis colius už tuščios vietos lentynoje stovi antikvarinis varinis puodas, jo dangtis šiek tiek pravertas. Iš po dangčio kyšo kamštis, panašus į vyno butelio kamštį.
+##### sandeliukas
+**vienoje iš lentynų stovi rinkinys gražių dekoratyvinių lėkščių, išpieštų vėjo malūnų paveikslėliais. Viena iš lėkščių, atrodo, buvo numušta nuo lentynos ir guli sudužusi ant grindų, palikdama tuščią vietą lėkščių eilėje.**
 
-Žaidėjas, atidaręs puodą, randa jame vyno butelį, sulankstytą subtilaus nėrinio gabalėlį, buteliuką rusvų džiovintų miltelių ir nuvytusių saulėgrąžų puokštę, pririštą prie mažo pergamento ritinėlio.
+**Kelis colius už tuščios vietos lentynoje stovi antikvarinis varinis puodas, jo dangtis šiek tiek pravertas. Iš po dangčio kyšo kamštis, panašus į vyno butelio kamštį.**
 
-* Vyno etiketė rodo, kad jis iš Vynų Vedlio vyninės, ir nurodo vyno pavadinimą: Champagne du le Stomp. (Žaidėjas, geriantis šį vyną, randa, kad jis pavirto actu, tarsi magiškai pasenęs šimtmečius per vos kelias akimirkas.)
+Žaidėjas, atidaręs puodą, randa jame vyno butelį, sulankstytą subtilaus nėrinio gabalėlį, buteliuką rusvų džiovintų miltelių ir nuvytusių saulėgrąžų puokštę, pririštą prie mažo  ritinėlio.
+
+* Vyno etiketė rodo, kad jis iš Wizard of Wines vyninės, ir nurodo vyno pavadinimą: Champagne du le Stomp. (Žaidėjas, geriantis šį vyną, randa, kad jis pavirto actu, tarsi magiškai pasenęs šimtmečius per vos kelias akimirkas.)
 * Nėrinio gabalėlis viename kampe turi išsiuvinėtą inicialą „K".
-* Sėkmingas DC 14 Intelligence (Nature) patikrinimas atpažįsta rudus miltelius kaip džiovintą silfijų – kontraceptinę žolelę.
+* Sėkmingas DC 14 Intelligence (Nature) patikrinimas atpažįsta rudus miltelius kaip džiovintus silfijus – kontraceptinę žolelę.
 * Pergamento ritinėlyje parašyta: „Mano gyvenimo šviesai. —G."
 
 Jei žaidėjai perskaito raštelį, vienas iš virtuvės peilių nulekia nuo lentynos ir įsminga į priešingą sieną.
+
+###### Dumbwaiter
+Behind a small door in the southwest corner of the kitchen is a dumbwaiter—a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to areas 7A (the servants' quarters) and 12A (the master bedroom). Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas.
+
+A **Small character** can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 ## A2c. Antrasis Aukštas
 ### Viršutinė Salė
 <span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Upper Hall (p. 213)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
-<p>Ant šios elegantiškos salės sienų sumontuotos neuždegtos alyvos lempos. Virš židinio atbrailos kabo ilgasis kalavijas su vėjo malūno kamėja, įkomponuota į rankeną.</p>
-<p>Stovintys šarvai flankuoja medines duris rytinėje ir vakarinėje sienose. Kiekvieni šarvai gniaužia ietį ir turi šalmą su antveidžiu, suformuotu kaip vilko galva. Durys tarp jų išraižytos šokančio jaunimo atvaizdais.</p>
+<p>Virš židinio kabo ilgas kalavijas (long sword) su vėjo malūno kamėja, įkomponuota į rankeną.</p>
+<p>Prie durų, tarsi saugo, stovi šarvai. Rankose turi po ietį o šalmas su antveidžiu primena vilko galvą. Ant durų išraižytas šokantis jaunimas.</p>
 <p>Raudono marmuro laiptai tęsia savo spiralę aukštyn į trečiąjį aukštą, o iš viršaus šnabžda šaltas skersvėjis.</p>
 </div>
-
+successful DC 12 Wisdom (Perception) check atskleidžia kad jie ne šoka o kovoja prieš gaujas šikšnosparnių
 ### Tarnų Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Servants' Room (p. 213)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Šiame nepuoštame miegamajame stovi pora lovų su šiaudais prikimštais čiužiniais. Kiekvienos lovos gale stovi uždaryta skrynia. Durys kairėje, atrodo, veda į spintą.</p>
+<p>Miegamasis, nepapuoštas, stovi pora lovų su šiaudiniais čiužiniais. Kiekvienos lovos gale stovi uždaryta skrynia. Durys kairėje veda į spintą</p>
 <p>Dešiniajame kampe stovi mažos medinės durelės, o šalia jų į sieną įtaisytas metalinis mygtukas. Šalia, atrodo, buvo paliktas krepšys, pilnas neišskalbtų skalbinių.</p>
 </div>
 
@@ -284,16 +281,19 @@ Krepšyje yra vyriški skalbiniai, įskaitant puošnius kostiumus, tunikas, kakl
 
 Žaidėjai, priartėję prie šių durų, gali girdėti silpną klavesino garsą, sklindantį iš anapus durų. Tačiau jei žaidėjai atidaro duris ar į jas pasibeldžia, muzika nutyla.
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Conservatory (p. 214)</span>. Kai žaidėjai į jį įžengia, perskaitykite:
 
 <div class="description">
-<p>Jūs įžengiate į elegantiškai įrengtą salę, kurios langus dengia permatomos užuolaidos. Nuo lubų kabo žalvariu dengtas sietynas, o palei sienas išrikiuotos apmuštos kėdės.</p>
-<p>Keli vitražiniai sieniniai pakabinimai vaizduoja gražius vyrus, moteris ir vaikus, dainuojančius bei grojančius instrumentais. Šiaurės vakarų kampe stovi klavesinas su suoleliu. Prie židinio stovi didelė stovinti arfa. Židinio atbrailą puošia alebastrinės gerai apsirengusių šokėjų figūrėlės.</p>
+<p>Elegantiškai įrengta salė, kurios langus dengia permatomos užuolaidos. Palei sienas išrikiuotos apmuštos kėdės.</p>
+<p>Ant sienų kabo keli paveikslai vaizduojantys gražius vyrus, moteris ir vaikus, dainuojančius bei grojančius instrumentais. 
+</p>
+<p>Stovi klavesinas su suoleliu. Prie židinio stovi didelė stovinti arfa. Židinio atbrailą puošia apsirengusių šokėjų figūrėlės.</p>
 </div>
 
-***Klavesinas.*** Žaidėjas, apžiūrintis klavesiną, randa, kad vienas iš klavišų, atrodo, visam laikui nuspaustas žemyn. Žaidėjas, tiriantis klavesino vidų, randa priežastį: susuktą pergamento gabalėlį, įkištą po viena iš stygų.
+Apžiūrėjus figūrėles iš arčiau pastebima kad kai kurios yra gerai aprengti skeletai.
 
-Pergamentas – ranka rašytos klavesino natos, pavadintos *Valsas Klarai*. Jei natos grojamos klavesinu, perskaitykite:
+***Klavesinas.*** Žaidėjas, apžiūrintis klavesiną, randa, kad vienas iš klavišų, atrodo, visam laikui nuspaustas žemyn. Žaidėjas, tiriantis klavesino vidų, randa priežastį: susuktą **pergamento gabalėlį, įkištą po viena iš stygų**.
+
+Pergamentas – ranka rašytos klavesino natos, pavadintos ***Valsas Klarai***. Jei natos grojamos klavesinu, perskaitykite:
 
 <div class="description">
 <p>Kai prispaudžiate pirštus prie klavišų, natos aidi, persekiojanti melodija užpildo tylų, dulkėtą kambarį. Jums grojant toliau, muzika tarsi įgauna savo gyvenimą, jūsų rankos juda klavišais nekviestos, tarsi vedamos nematomos jėgos.</p>
@@ -309,11 +309,10 @@ Pergamentas – ranka rašytos klavesino natos, pavadintos *Valsas Klarai*. Jei 
 ### Biblioteka
 <span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Library (p. 213-14)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Raudonos aksominės užuolaidos dengia šio kambario langus. Išskirtinis raudonmedžio rašomasis stalas ir prie jo derantis aukštos atkaltės krėslas atsukti į įėjimą ir židinį, virš kurio kabo įrėmintas vėjo malūno, stūksančio ant uolėtos atbrailos, paveikslas. Kambario kampuose įtaisytos dvi minkštai apmuštos kėdės.</p>
-<p>Palei pietinę sieną išrikiuotos nuo grindų iki lubų siekiančios knygų lentynos. Riedančios medinės kopėčios leidžia lengviau pasiekti aukštas lentynas.</p>
+<p>Raudonmedžio rašomasis stalas šiek tiek pasuktas į židinio pusę, virš kurio kabo paveikslas kuriame pavaizduotas ant uolėtos atbrailos stovintis vėjo malūnas.
+<p>Kambario kampuose įtaisytos dvi minkštai apmuštos kėdės.</p>
+<p>Palei pietinę (dešinę) sieną išrikiuotos nuo grindų iki lubų siekiančios knygų lentynos su įtaisytomis riedančiomis kopečiomis kurios leidžia lengviau pasiekti aukštas lentynas.</p>
 </div>
 
 ***Rašomasis Stalas.*** Ant stalo guli ranka rašytas raštelis. Jame parašyta:
@@ -329,27 +328,27 @@ Pergamentas – ranka rašytos klavesino natos, pavadintos *Valsas Klarai*. Jei 
 
 Viršutiniame stalo stalčiuje dabar yra keletas kvitų už žvakes, durklus ir smilkalus, o ne raktas nuo [[#Vaikų Kambarys]].
 
-Personažas, 1 minutę apieškantis kambarį ir sėkmingai atlikęs DC 15 Wisdom (Perception) patikrinimą, gali pamatyti mirgančią žvakės šviesą, sklindančią iš po slaptų durų.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+***Slaptos Durys.*** 
+Personažas, 1 minutę apieškantis kambarį ir sėkmingai atlikęs **DC 15 Wisdom** (Perception) patikrinimą, gali pamatyti mirgančią žvakės šviesą, sklindančią iš po slaptų durų.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+
+Arba jeigu specifiškai apieškai knygų lentynas tai gauni **13 DC Wisdom (Perception)** kad surastum raudoną išsikišusią knygą kuri atrodo ne vietoje.
+Patraukus šią knyga - knygų lentyna atsidaro kaip durys. Ji yra ant spyruoklės todėl ją reik prilaikyti kitaip užsidaro. Už jos yra medinė sieną su kurioje yra tuščiavidurė niša, tam tikros formos ir jis silpnai šviečia gintaro šviesa.
+
+(Durų negalima atidaryti, kol į nišą neįdedama gintaro skeveldra iš [[#Šeimininkų Apartamentai]]. Tuomet slaptos durys atsiveria, leisdamos žaidėjams įžengti į [[#Slaptas Kambarys]].)
 
 > [!info]+ **Kelių Ability Checks Atlikimas**
 >
 > Žaidėjams tyrinėjant Mirties Namus ir daugybę slaptų vietų Barovijos žemėje, nepamirškite **Multiple Ability Checks** taisyklės (<span class="citation">Dungeon Master's Guide, p. 237</span>). Pavyzdžiui, žaidėjas, apieškantis biblioteką, gali skirti 10 minučių ir automatiškai sėkmingai atlikti patikrinimą.
-
-***Slaptos Durys.*** Slaptos durys šiame kambaryje turi du komponentus. Pirma, žaidėjas turi patraukti svirtį, kaip aprašyta <span class="citation">Secret Door (p. 214)</span>. Tai padarius, knygų lentyna pasisuka į priekį, atverdama už jos esančią tuščią medinę sieną.
-
-Kai knygų lentyna pajudinta, žaidėjai gali pamatyti už jos mažą tamsios medienos plokštę, įtaisytą sienoje maždaug krūtinės aukštyje. Maža tuščiavidurė niša, dantyta ir netaisyklinga, yra plokštės centre ir skleidžia silpną gintaro švytėjimą.
-
-Durų negalima atidaryti, kol į nišą neįdedama gintaro skeveldra iš [[#Šeimininkų Apartamentai]]. Tuomet slaptos durys atsiveria, leisdamos žaidėjams įžengti į [[#Slaptas Kambarys]].
 ### Slaptas Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 9.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Secret Room (p. 214)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Šis mažas paslėptas kambarys prigrūstas knygų lentynų, linkstančių po senų ir grėsmingai atrodančių odiniais viršeliais įrištų tomų svoriu. Prie pietinės sienos stovi sunki medinė skrynia su nagais papuoštomis geležinėmis kojomis, jos dangtis pusiau uždarytas. Iš skrynios, šonkauliais ir galva įstrigęs po dangčiu, kyšo skeletas odiniais šarvais.</p>
+<p>Kambarys prigrūstas knygų lentynų, linkstančių nuo knygų grėsmingais viršeliais svorio. Dešiniau prie sienos stovi sunki medinė, pusiau atidaryta, skrynia. Iš skrynios, šonkauliais ir galva įstrigęs po dangčiu, kyšo skeletas odiniais šarvais.</p>
 </div>
 
-Skrynioje nebėra Senojo Kaulmalio nuosavybės akto. Be to, pakeiskite Strahdo laišką taip:
+Arčiau pažiūrėjus - skeletas yra žmogaus kuris pakliuvo į apnuodytų strėlių spastą, jo krūtinėje matosi įstrigusios trys strėlės. Spąstų mechanizmas jau nebeveikia. Vienoje rankoje jis laiko laišką su vaškiniu įspaudu kurį atrodo norėjo ištraukti iš skrynios.
+
+Knygų lentynos prikimštos temomis apie demonų iškvietimus, nekromantiškus ritualus kultos pavadinimu "Osybus kunigai". **1 val. skaitymas ir sėkmė ant 12 DC Intelligence (Arcana)** leidžia suprasti kad šie ritualai yra netikri.
 
 <div class="description">
 <p>Mano apgailėtiniausia tarnaite,</p>
@@ -361,26 +360,36 @@ Skrynioje nebėra Senojo Kaulmalio nuosavybės akto. Be to, pakeiskite Strahdo l
 
 Žaidėjai neatpažįsta vardo „Strahdas von Zarovičius".
 
-> [!design]- **Projektavimo Pastaba: Nuosavybės Akto Pašalinimas**
-> Žaidėjai, radę Senojo Kaulmalio nuosavybės aktą slaptoje skrynioje, dažnai prieina klaidingą išvadą, kad pasisavinę aktą jie tampa naujaisiais malūno savininkais. Tokie žaidėjai dėl to greičiausiai bandys tyrinėti vėjo malūną [[Act I - Into the Mists/Arc C - Into the Valley]] metu, sukeldami konfliktą su nakties raganų kuoku ir – ne dėl savo kaltės – tikėtiną TPK. Todėl aktas buvo pašalintas, siekiant padėti išvengti tokios baigties.
+##### Lobis
+Trys tuščios knygos su juodais odiniais viršeliais (25 gp each)
+Spell scrolls: Bless, Protection from Poison, Spiritual Weapon
+Namo nuosavybės dokumentas
+Pasirašytas testamentas - Pasirašyta Gustavo ir Elisabetos Durst, atiduoda namą, malūną ir visą kitą turtą Rosaveldai ir Thornboldtui Durst, jei tėvai mirs.
 
+(Išėjus iš namo daiktai pasensta, popierius pageltonėja bet išlieka)
 ## A2d. Trečiasis Aukštas
 Žaidėjams kopiant spiraliniais laiptais į trečiąjį aukštą, priminkite jiems, kad jie gali matyti laiptinės vidurį iki pat apatinio aukšto.
 ### Balkonas
 <span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Balcony (p. 214)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Jūs užkopiate raudono marmuro laiptais iki pat viršaus ir atsiduriate dulkėtame balkone. Oras čia sausas ir dvokiantis pelėsiais, tačiau su keistu, variniu prieskoniu.</p>
-<p>Prie vienos sienos stovi juodų plokštinių šarvų komplektas, apgaubtas voratinkliais ir paženklintas laiko. Ant išblukusių ąžuolo lentomis apkaltų sienų sumontuotos alyvos lempos, o sienos išraižytos miško scenomis su medžiais, krintančiais lapais ir mažais žvėreliais.</p>
+<p>Oras čia sausas ir dvokiantis pelėsiais, tačiau su keistu, variniu prieskoniu.</p>
+<p>Prie vienos sienos stovi juodų šarvų komplektas, apgaubtas voratinkliais. </p>
+<p>Išblukusios ąžuolo lentomis apkaltos sienos išraižytos miško scenomis su medžiais, krintančiais lapais ir mažais žvėreliais.</p>
 </div>
+
+12 DC Wisdom (Perception) kad pastebėtų jog nuo medžių kabo skeletai
+
+Šarvai užpuola jei prieinama per 5ft arba šarvus užpuola žaidėjas.
 
 Suaktyvinti **animuoti šarvai** naudos vieną ar abu savo **_multiattack_** išpuolius, bandydami nustumti žaidėją per turėklą naudodami ***shove*** išpuolį, arba bandys sugriebti (grapple) artimiausią taikinį, prieš parversdami jį prone.
 
 Jei šarvai numetami į pirmąjį aukštą, o žaidėjai neatskleidžia savo buvimo balkono viršuje, jie negali jų aptikti savo šešiasdešimties pėdų blindsight ir yra per kvaili, kad sugalvotų užlipti atgal.
 
 Būtybė, nustumta per balkono kraštą, krenta du aukštus, arba dvidešimt pėdų, ir patiria 2d6 bludgeoning damage. Ta būtybė turi sėkmingai atlikti DC 15 Dexterity (Acrobatics) patikrinimą arba nusileidžia prone.
+
+Shove: **The Roll:** You make a Strength (Athletics) check. The target contests it with their choice of Strength (Athletics) or Dexterity (Acrobatics).
+![[animated armor stats.png]]
 
 > [!combat]- **Combat - Animated Armor**  
 > **Kovos Lygis**: Mild
@@ -405,23 +414,19 @@ Būtybė, nustumta per balkono kraštą, krenta du aukštus, arba dvidešimt pė
 ### Šeimininkų Apartamentai
 <span class="citation"><em>This scene takes place in Appendix B: Area 12.</em></span>
 
-Kai žaidėjas pirmą kartą priartėja prie šių durų, perskaitykite:
+Dvigubos durys su vitražiniais stiklais. Vitražas primena vėjo malūną.
+
+Žiūrint pro stiklą nlb kas matosi nes tamsu, bet pastebi moters siluetą nusisukusį nuo durų.
+Po akimirkos tas siluetas pradeda labai lėtai sukti galvą į tave. Kol jos galva sukasi, tave surakina baimė, prarandi kvėpavimą, dingsta garsai ir paskendi tyloje, temperatūra nukrenta tiek kad net pajauti šaltį savo kauluose.
+O kai ji pagaliau atsisuka į tave, pažiūri į tave piktu žvilgsniu ir po akimirkos išsisklaido. Tave atrakina, temperatūra pakyla ir vėl gali girdėti tylius namo garsus ir savo kompanionus
 
 <div class="description">
-<p>Šios didingos durys stūkso aukštai, jų tamsios medienos rėmai gaubia porą dulkėtų vitražinių langų. Kiekvienas stiklas išgraviruotas sudėtingais raštais, primenančiais vėjo malūnus, jų kadaise ryškūs atspalviai dabar išblukę ir paslėpti po storu purvo šydu.</p>
-<p>Pro dulkėtą miglą, graužiančią jūsų akis, jūs pagaunate žvilgsnį kažko pro langus: silueto, stovinčio vos colius už stiklo, apšviesto iš užpakalio blausiu, gintariniu švytėjimu. Jis nejuda ir nekruta, tačiau vien jo vaizdas sugniaužia jūsų raumenis lyg replėmis, jūsų galūnėms atsisakant paklusti sąmoningam protui.</p>
-<p>Oras aplink jus tirštėja, jo temperatūra krenta iki kaulus veriančio šalčio. Jūsų kvėpavimas rasoja stiklus, o subtilus šerkšnas ropoja per juos, kol namo tolimi girgždesiai bei šnabždesiai paskęsta sunkioje tyloje.</p>
-<p>Šešėlis už durų beveik beformis – nemedžiagiškas – tačiau jo buvimas kelia pirmykštį siaubą giliai jūsų kauluose. Jūsų širdis plaka greičiau, prakaitas žliaugia kaktoje, pulsas lekia gyslomis. Lėtai siluetas ima sukti galvą jūsų link.</p>
-<p>Ir tada, taip pat staiga, kaip pasirodė, šešėlis išgaruoja. Kandantis šaltis atslūgsta, ir namo tylūs garsai vėl sugrįžta.</p>
-</div>
+<p> Šis kambarys yra gan dulkėtas, voratinkliais nusėtas, atrodo kaip šeimininkų miegamasis.
+</p>
+<p> Per vidurį stovi lovą, priešai kurią ant durų yra pakabintas aukštas veidrodis</p>
+<p>Kairėje, prie žydinio guli pūvantis tigro odos kilimas. Virš žydinio yra pakabintas vyro ir moters portretas, primenantis tuos iš primo aukšto. Prie jo tualetinis staliukas su veidrodėliu ir dėžute iš kurios sklinda silpna gintarinė šviesa</p>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Master Suite (p. 214)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
-<div class="description">
-<p>Jūs įžengiate į dulkėtą, voratinkliais nusėtą šeimininkų miegamąjį su bordo užuolaidomis, dengiančiomis langus. Prie centrinės sienos stovi keturkampė lova su išsiuvinėtomis užuolaidomis ir apiplyšusiais permatomais šydais.</p>
-<p>Ant durų, atsuktų į lovos galą, sumontuotas išblukęs viso ūgio veidrodis. Dešiniajame kambario kampe stovi mažos medinės durelės, jų paviršius pusiau supuvęs nuo laiko. Šalia jų į sieną įtaisytas aptemęs metalinis mygtukas.</p>
-<p>Ant grindų priešais židinį guli pūvantis tigro kailio kilimas, o virš židinio kabo dulkėmis padengtas vyro ir moters iš pirmojo aukšto portreto atvaizdas. Voratinkliais nusėtame salonėlyje pietvakarių kampe stovi dvi kėdės ir stalas su keliais daiktais, taip pat durys su tamsiu, purvu aptaškytu langu.</p>
-<p>Kambaryje taip pat yra pora vienodų spintų, minkšta kėdė ir tualetinis staliukas su mediniame rėme įtaisytu veidrodžiu bei sidabrine papuošalų dėžute. Iš po dėžutės dangčio sklinda švelnus gintarinis švytėjimas.</p>
+<p>Kambaryje taip pat yra pora vienodų spintų ir staliukas </p>
 </div>
 
 ***Lova.*** Žaidėjas, priartėjęs prie lovos, gali matyti, kad į vieną iš pagalvių įsmeigtas didelis, krauju suteptas virtuvinis peilis.
@@ -444,92 +449,101 @@ Daugiau informacijos apie gintaro skeveldrą žr. **Elizabetos Gintaro Skeveldra
 ### Vonios Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
-Šis kambarys toks, koks aprašytas <span class="citation">Bathroom (p. 215)</span>.
+Vonios kambarys
+Yra sutrūnijusi medinė vonia, prie jos krosnelė su virduliu ant viršaus ir dar yra bačka su kranu iš kurio ateina lietaus vanduo. Dabar neveikia.
 ### Sandėliavimo Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Storage Room (p. 215)</span>. Kai žaidėjai į jį įžengia, perskaitykite:
+Sandėliukas
 
 <div class="description">
 <p>Šio kambario sienas juosia dulkėtos lentynos. Ant kelių iš jų guli sulankstytos paklodės, antklodės ir seni muilo gabalai. Prie tolimosios sienos atremta voratinkliais apaugusi šluota.</p>
 </div>
 
-Kai žaidėjas pirmą kartą priartėja per 5 pėdas prie **animuotos puolančios šluotos**, ji puola netikėtai, vos tik jis nusuka akis ar atsigręžia, vieną kartą trenkdama jam per galvą. Tuomet ji iškart grįžta į savo pradinę padėtį – dabar be voratinklių. Vėlesnių ėjimų metu šluota naudoja savo **_multiattack_**, kad toliau pultų bet kurį į ją nežiūrintį žaidėją, likusį per 5 pėdas, atsisakydama opportunity attacks prieš atsitraukiančius žaidėjus.
+Kai žaidėjas pirmą kartą priartėja per 5 pėdas prie **animuotos puolančios šluotos**, ji puola netikėtai, vos tik jis nusuka akis ar atsigręžia, vieną kartą trenkdama jam per galvą. Tuomet ji iškart grįžta į savo pradinę padėtį – dabar be voratinklių. Vėlesnių ėjimų metu šluota naudoja savo **_multiattack_**, kad toliau pultų bet kurį į ją **nežiūrintį** žaidėją, likusį per 5 pėdas, atsisakydama opportunity attacks prieš atsitraukiančius žaidėjus.
+![[animated broom stats.png]]
 ### Auklės Apartamentai
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Nursemaid's Suite (p. 217)</span>. Kai žaidėjai į jį įžengia, perskaitykite:
-
 <div class="description">
-<p>Dulkės ir voratinkliai gaubia šį elegantiškai įrengtą miegamąjį. Prie tolimosios sienos stovi didelė lova, jos kadaise prabangūs užklotai dabar išblukę ir apiplyšę.</p>
-<p>Šalia lovos pelėsiais aptraukęs rankšluostis dengia didžiąją dalį dulkėtos pageltusios knygos ant vieno iš dviejų naktinių staliukų. Kitoje kambario pusėje matote dar porą vitražinių durų, jų langai aptaškyti purvu ir nešvarumais.</p>
-<p>Kairėje stovi tuščia spinta, jos durys šiek tiek pravertos. Šalia jos sumontuotas viso ūgio veidrodis, jo medinis rėmas išraižytas taip, kad primintų gebenę ir uogas. Dešinėje stovi uždarytos durys.</p>
-<p>Apžvelgdami kambarį pastebite, kad antklodės ant lovos šiek tiek pakyla nuo čiužinio, tarsi kažkas gulėtų ant čiužinio po jomis. Stebėdami matote, kaip užklotai beveik nepastebimai lėtai kyla ir leidžiasi su žemu, ritmingu šnaresiu.</p>
+<p>Elegantiškai įrengtas miegamasis, dulkėtas ir su voratinkliais. </p>
+<p>Lova - jos kadaise prabangūs užklotai dabar išblukę ir apiplyšę. Prie jos naktiniai staliukai, ant vieno guli rankšluostis apaugęs pelėsiais. Po juo matosi išsikišusi pageltusios knygos dalis</p>
+<p>Prieš lovą - spinta ir ant sienos sumontuotas veidrodis su gražiu rėmu, išraižytu gebenėmis ir uogomis.<p>
+<p>Pastebite, kad antklodė ant lovos pakylusi nuo čiužinio, tarsi kažkas gulėtų po jomis. Stebėdami matote kaip užklotai beveik nepastebimai lėtai kyla ir leidžiasi. </p>
 </div>
 
-***Lova.*** Žaidėjas, nutraukęs nuo lovos užklotus, randa, kad po jais nieko nėra. Vietoj to žaidėjas randa tik krauju suteptą čiužinį ir grubius rankų bei kojų pančius, pagamintus iš spygliuotos vielos, prikaltos prie keturių lovos rėmo stulpų.
+***Lova.*** Nutraukus užklotus nuo lovos, randi kad po jais nieko nėra. Vietoj to matai krauju suteptą čiužinį ir spygliuotos vielos pančius  prikabintus prie keturių lovos rėmo stulpų. 
 
 ***Durys.*** Žaidėjas, išėjęs iš miegamojo pro vitražines duris į balkoną, mato tik mėsingų čiuptuvų sieną, gaubiančią namo išorę. Čiuptuvai tokie, kokie aprašyti [[#Pagrindinė Salė]].
 
 ***Knyga.*** Knyga – voratinkliais aptrauktas nepadoraus meilės romano egzempliorius, pavadintas *Mėlynojo Kraujo Lūpos*. Jame pasakojama valstietės romano su turtingu kunigaikščiu istorija.
 
-***Vaikų Kambarėlis.*** Durys į vaikų kambarėlį uždarytos. Žaidėjas, priartėjęs prie durų, girdi tylų jaunos moters niūniavimą. (Žaidėjas, anksčiau skaitęs ar girdėjęs dainą [[#Muzikos Salonas]], atpažįsta melodiją kaip *Valsą Klarai*.)
+***Veidrodis.*** kai žaidėjas priartėja prie veidrodžio, jame pasirodo šmėkla.
 
-Jei žaidėjas įžengia į vaikų kambarėlį, niūniavimas staiga nutrūksta. Perskaitykite:
+Primena išbalusią, iki kaulų sulysusią jauną moterį, kuriai pašalinti visi rankų ir kojų pirštai, akys užsiūtos, o lūpos ir dantys išplėšti iš burnos. Daugybė plonyčių peilio randų vagoja visą jos kūną, įskaitant odą aplink riešus ir kulkšnis, o plaukai nerūpestingai nukapoti ir likę tik keli trumpi plaukeliai.
 
-<div class="description">
-<p>Oras šiame mažame vaikų kambarėlyje keistai šiltas ir su variniu prieskoniu. Kraujo raudonumo runos dengia sienas, išdėstytos koncentriniais ratais aplink lopšį centre, kurio šone, atrodo, išraižytas vardas. Aplink jį ant grindų retomis sankaupomis išaugo keisti, į mėsą panašūs augliai, kurie lėtai pulsuoja, tarsi kvėpuotų.</p>
-<p>Pažvelgę žemyn pastebite, kad po lopšiu, atrodo, nukrito mažas daiktas. Tolumoje vos girdimai skamba tylus kūdikio inkštimas.</p>
-</div>
-
-Daiktas – nupjautas žmogaus pirštas su keliais nuluptais mėsos gabalais. Aplink žaizdas matyti maži dantų žymės. DC 12 Wisdom (Medicine) patikrinimas atpažįsta pirštą kaip moters, o dantų žymes – kaip žmogaus vaiko.
-
-Vardas „Valteris" meiliai išraižytas lopšio galvūgalyje. Sėkmingas DC 14 Intelligence (Arcana) patikrinimas atpažįsta aplink jį esančias runas kaip tamsią nekromantinę magiją.
-
-***Veidrodis.*** Auklės **šmėkla** šiame kambaryje nepasirodo. Vietoj to, kai žaidėjas priartėja prie veidrodžio, auklės dvasia pasirodo kaip šmėkla stikle.
-
-Dvasia primena išbalusią, iki kaulų sulysusią jauną moterį, kuriai pašalinti visi rankų ir kojų pirštai, akys užsiūtos, o lūpos ir dantys išplėšti iš burnos. Nesuskaičiuojami plonyčiai peilio randai vagoja visą jos kūną, įskaitant odą aplink riešus ir kulkšnis, o plaukai nerūpestingai nukapoti iki strampų.
-
-Nors jos išvaizda trikdanti, dvasią stebintys žaidėjai jaučia, kad ji tiesiog stebi juos drovaus smalsumo kupina.
-
-Dvasia negali nei kalbėti garsiai, nei išeiti iš veidrodžio. Tačiau ji nerodo jokio priešiškumo žaidėjams ir gali atsakyti į paprastus klausimus linkčiodama ar purtydama galvą. Ji žino viską, ką auklė žinojo gyvenime. Ji rodo baimę paminėjus ponios Durst vardą, sielvartą paminėjus pono Dursto, melancholišką švelnumą paminėjus Rouzę ar Torną, ir neviltį paminėjus Valterį.
+* Stebi droviu smalsumu
+* Gali atsakyti į paprastus klausimus linkčiojant, negali kalbėti
+* Ji rodo baimę paminėjus ponios Durst vardą, sielvartą paminėjus pono Dursto, melancholišką švelnumą paminėjus Rouzę ar Torną, ir neviltį paminėjus Valterį.
 
 Jei žaidėjai paprašo dvasios pagalbos pasiekiant rūsį ar surandant „pabaisą", dvasia pasitraukia į šoną – išnykdama iš akių – ir slaptos durys už veidrodžio lėtai atsiveria. Dvasia nebegrįžta.
+
+A **secret door** behind the mirror can be found with a successful **DC 15 Wisdom (Perception)** check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
+
+***Vaikų Kambarėlis.*** Priartėjęs prie durų, girdi tylų jaunos moters niūniavimą. (Žaidėjas, anksčiau skaitęs ar girdėjęs dainą [[#Muzikos Salonas]], atpažįsta melodiją kaip *Valsą Klarai*.)
+
+Jei žaidėjas įžengia į vaikų kambarėlį, niūniavimas staiga nutrūksta.
+<div class="description">
+<p> Oras šiame kambarėlyje keistai šiltas ir su variniu prieskoniu. Sienos yra apdengtos kraujo raudonumo runos, išdėstytos aplink lopšį center, kurio šone, atrodo, išraižytas vardas. Aplink jį ant grindų išaugę keli keisti, į mėsą panašūs augliai, kurie lėtai pulsuoja, tarsi kvėpuotų.
+</p>
+<p>
+Po lopšiu guli kažkos mažas daiktas. Tolumoje girdisi tylus kūdikio inkštimas</p>
+</div>
+
+Daiktas – nupjautas žmogaus pirštas. Aplink pirštą matosi žaizdos, mažos dantų žymės. DC 12 Wisdom (Medicine) patikrinimas atpažįsta pirštą kaip moters, o dantų žymes – kaip žmogaus vaiko.
+
+**Vardas „Valteris"** meiliai išraižytas lopšio galvūgalyje. 
+
+Sėkmingas **DC 14 Intelligence (Arcana)** patikrinimas atpažįsta aplink jį esančias **runas kaip tamsią nekromantinę magiją.**
 ## A2e. Palėpė
 ### Palėpės Koridorius
 <span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
-
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Attic Hall (p. 215)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Šis tuščias koridorius pilnas dulkių ir voratinklių. Iš šio palėpės koridoriaus veda kelios durys, tarp jų ir spyna užrakintos durys.</p>
-<p>Orą perskrodžia žemas girgždesys, kai vienos iš neužrakintų durų lėtai atsiveria.</p>
+<p>Koridorius pilnas dulkių ir voratinklių. </p>
+<p>Kai pakylat išgirstat žemą girgždesį, ir pastebit kaip prasiveria durys (į atsarginį miegamajį)</p>
 </div>
 
 Durys veda į [[#Atsarginis Miegamasis]].
 ### Atsarginis Miegamasis
 <span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Spare Bedroom (p. 215)</span>. Lėlę iš Children's Room (p. 215-16) galima rasti čia. Kai žaidėjai pirmą kartą į jį įžengia, perskaitykite:
-
 <div class="description">
-<p>Šiame šaltame, dulkių prikimštame kambaryje stovi siaura lova, naktinis staliukas, maža geležinė krosnelė, rašomasis stalas su taburete, tuščia spinta ir supamoji kėdė. Susiraukusi lėlė nėriniuota geltona suknele sėdi šiaurinėje lango nišoje šalia aptemusios senos muzikinės dėžutės, o voratinkliai gaubia ją tarsi vestuvinis šydas.</p>
+<p>Šiame dulkėtame kambaryje yra siaura lova, naktinis staliukas, krosnelė, rašomasis stalas, spinta, supamoji kėdė ir ant palangės pliušinė lėlė ir aptemusi sena muzikinė dėžutė</p>
 </div>
 
-Žaidėjai gali atpažinti lėlę kaip tą pačią lėlę, kurią Tornas laikė šeimos portrete Pagrindinėje Salėje.
+**Lėlė** - Žaidėjai gali atpažinti lėlę kaip tą pačią lėlę, kurią Tornas laikė šeimos portrete Pagrindinėje Salėje.
 
-Muzikinėje dėžutėje yra surūdijęs, krauju suteptas odos lupimo peilis bei raktas nuo spynos ant Rouzės ir Torno miegamojo durų.
-
-Muzikinėje dėžutėje taip pat yra du susukti pergamento gabalėliai. Pirmame pergamente pavaizduotas paprastas planas, padalintas į tris stačiakampius, pažymėtus PATALPOS, ŠVENTOVĖ ir ALTORIUS. PATALPOS ir ŠVENTOVĖ viršuje sujungtos viena linija, o apačioje – dviguba linija, kuri abu jungia su ALTORIUMI. Antrame pergamente yra nepažįstamų vardų sąrašas po žodžiu VERBAVIMAS.
+**Muzikinė dėžutė** - Muzikinėje dėžutėje yra surūdijęs, krauju suteptas odos lupimo peilis bei raktas nuo spynos (ant Rouzės ir Torno miegamojo durų.)
+Du susukti pergamento gabalėliai.
+* planas
+* Sąrašas su nepažįstamais vardais. Titulas - VERBAVIMAS (recruitment)
 
 ![[Death House Dungeon Map.png]]
 <span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Žaidėjams išeinant iš kambario, supamoji kėdė ima tyliai suptis, o muzikinė dėžutė atsiveria ir ima groti. Ore dvi taktų dalis plaukioja motiniškas niūniavimas, tačiau jis ima klysti iš tono ir iškrypti, prieš sustodamas smarkiu, cypiančiu trūktelėjimu. Tuomet supamoji kėdė nustoja suptis.
+Žaidėjams išeinant iš kambario, supamoji kėdė pradeda suptis o muzikos dėžutė grotį melodiją. Pasigirsta motiniškas niūniavimas į taktą, bet po akimirkos tas niūniavimas nebepataiko į taktą, supyksta, pradeda rėkti ir viskas nutyla. Kėdė nebesisupa.
 ### Vaikų Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas **Children's Room** (p. 215-16).
+<div class="description">
+<p> Langai užbetonuoti plytomis. Dvi vaikų dydžio lovos. Prie durų stovi dėžė su žaislais, o prie jos namo kuriame dabar esate tobula replika. Viskas kambaryje paklota voratinkliais ir dulkėm. Vidury kambario guli du maži skeletai su jums gan pažįstamais rūbais.</p>
+</div>
+(The Durst children, [Rose](https://5e.tools/bestiary.html#rosavalda%20%22rose%22%20durst_cos) and [Thorn](https://5e.tools/bestiary.html#thornboldt%20%22thorn%22%20durst_cos), were neglected by their parents and locked in this room until they starved to death.)
+
+Paliečiant žaislų dėžę ar namo repliką atsiranda Rouzės su Torno vaiduokliai.
+"Ei, neliesk, čia mūsų"
+
+
 
 ![[Rose and Thorn.png]]
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -570,53 +584,54 @@ Muzikinėje dėžutėje taip pat yra du susukti pergamento gabalėliai. Pirmame 
 >
 > ***Ryšiai.*** Tornas yra Rouzės Durst jaunesnysis brolis, Valterio Dursto pusiau brolis ir jauniausias Elizabetos bei Gustavo Durstų vaikas.
 
-Gyvenime Rouzė buvo pradedančioji burtininkė, kuri savo tėvo bibliotekoje atrado mažą burtų knygą ir labai stropiai perrašė _mending_, _light_ ir _shocking grasp_ cantrips į savo dienoraštį.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+Gyvenime Rouzė buvo **pradedančioji burtinink**ė, kuri savo tėvo bibliotekoje atrado mažą burtų knygą ir labai stropiai perrašė _mending_, _light_ ir _shocking grasp_ cantrips į savo dienoraštį.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
-Vaiduokliams vaikams kalbantis su žaidėjais, Tornas pakelia vieną iš savo žaislų į orą, kuris nukrenta ir sudūžta. Rouzė greitai panaudoja savo _mending_ burtą, kad jį pataisytų. Jei apie jos magijos naudojimą užsimenama, ji drovi pasidalija savo dienoraščio vieta – jį galima rasti paslėptą voratinkliais apaugusiame pagalvės užvalkale ant jos lovos.
+Rouze ir Tornas gali paaiškinti kad juo tėvai **uždare čia kad apsaugotų nuo pabaisos rūsyje** ir jie čia mirė iš bado.
 
-Be savo cantrips, Rouzės pasenusiame ir išblukusiame dienoraštyje taip pat yra įrašų apie jos studijas, draugus, jaunesnįjį brolį, auklę („panelę Klarą") ir ginčus tarp motinos bei tėvo. (Rouzė nieko nežino apie tų ginčų turinį.)
+Vaiduokliams vaikams kalbantis su žaidėjais, Tornas pakelia vieną iš savo žaislų į orą, kuris nukrenta ir **sudūžta. Rouzė greitai panaudoja savo _mending_ burtą**, kad jį pataisytų. Jei apie jos magijos naudojimą užsimenama, ji drovi pasidalija savo dienoraščio vieta – jį galima rasti paslėptą voratinkliais apaugusiame pagalvės užvalkale ant jos lovos.
 
-Rouzė žino kelią žemyn į rūsį, tačiau „jai nevalia ten eiti". Jei grupė įtikina ją parodyti kelią, ji nukreipia juos prie lėlių namelio, atskleisdama slaptą įėjimą. Mainais ji prašo žaidėjų pasiimti jos ir Torno kaulus, kai jie bėgs, ir palaidoti juos sode lauke.
+**Rouzės dienoraštyje** - yra įrašų apie jos studijas, draugus, jaunesnįjį brolį, auklę („panelę Klarą") ir ginčus tarp motinos bei tėvo. (Rouzė nieko nežino apie tų ginčų turinį.)
 
-Lėlių namelyje yra mažos lėlės, vaizduojančios mažyčius, iškreiptus visų šiuo metu name matomų personažų ir būtybių atvaizdus. Lėlės pagamintos iš dažytos dervos. Bet kuris personažas, žvelgiantis į lėlių namelio vidų būdamas Rouzės ir Torno kambaryje, gali matyti atitinkamai išdėstytas visų dvare esančių gyvų būtybių lėles. Lėlių namelyje yra tik kambariai pačiame name, ir jis nevaizduoja požemio aukštų apačioje.
+**Rouzė žino kelią žemyn į rūsį**, tačiau „jai nevalia ten eiti". Jei grupė įtikina ją parodyti kelią, ji nukreipia juos prie lėlių namelio, atskleisdama slaptą įėjimą. **Mainais** ji prašo žaidėjų pasiimti jos ir Torno kaulus, kai jie bėgs, ir **palaidoti juos sode lauke**.
 
-Kai slaptos durys atskleidžiamos, Tornas drovi paklausia žaidėjų, ar jis ir Rouzė gali palydėti juos žemyn, kad padėtų, ir, jei leidžiama, bando apsėsti draugišką žaidėją. Kai Rouzė ar Tornas bando apsėsti žaidėją, apibūdinkite tai kaip „mažytę vaiko ranką, desperatiškai ieškančią kitos sielos prisilietimo".
+((((Lėlių namelyje yra mažos lėlės, vaizduojančios mažyčius, iškreiptus visų šiuo metu name matomų personažų ir būtybių atvaizdus. Lėlės pagamintos iš dažytos dervos. Bet kuris personažas, žvelgiantis į lėlių namelio vidų būdamas Rouzės ir Torno kambaryje, gali matyti atitinkamai išdėstytas visų dvare esančių gyvų būtybių lėles. Lėlių namelyje yra tik kambariai pačiame name, ir jis nevaizduoja požemio aukštų apačioje.))))
 
-Žaidėjas, apsėstas Rouzės, gali sukasti jos dienoraštyje esančius cantrips, o žaidėjas, apsėstas Torno, gali kaip action gauti _mage hand_ cantrip efektus, nenaudodamas komponentų. (Šmėkliška ranka yra nematoma.)
+**Kai slaptos durys atskleidžiamos**, Tornas droviai paklausia žaidėjų, ar jis ir Rouzė gali **palydėti juos žemyn**, kad padėtų, ir, jei leidžiama, bando apsėsti draugišką žaidėją. Kai Rouzė ar Tornas bando apsėsti žaidėją, apibūdinkite tai kaip „**mažytę vaiko ranką, desperatiškai ieškančią kitos sielos prisilietimo**".
+
+Žaidėjas, **apsėstas** **Rouzės**, gali sukasti jos dienoraštyje esančius cantrips ( _mending_, _light_ ir _shocking grasp_ cantrips), o žaidėjas, **apsėstas** **Torno**, gali kaip action gauti _mage hand_ cantrip efektus, nenaudodamas komponentų. (Šmėkliška ranka yra nematoma.)
 ### Sandėliavimo Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 18.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Storage Room (p. 215)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Ši dulkėta patalpa prigrūsta gumbuotų, žemų formų, apdengtų dulkėtomis baltomis paklodėmis. Prie dešiniosios sienos stovi sena geležinė krosnelė, o šalia jos – kažkas, kas atrodo kaip didelė skrynia, uždengta paklode.</p>
+<p>Ši patalpa prigrūsta daiktų, apdengtų dulkėtomis baltomis paklodėmis. Taip pat yra krosnelė prie kurios kažkas, kas atrodo kaip didelė skrynia, uždengta paklode.</p>
 </div>
 
-Auklės **šmėkla** šiame kambaryje nepasirodo. Vietoj to personažas, atidaręs skrynią, randa auklės lavoną su žaizdomis, atitinkančiomis matytas ant dvasios kūno **Auklės Apartamentuose**. DC 14 Wisdom (Medicine) patikrinimas atskleidžia, kad moteris mirė iš bado.
+Atidaręs skrynią, randa jaunos moters (auklės) lavoną su žaizdomis, kurias yra tokios pačios kurias matėt per veidrodį apačioje. DC 14 Wisdom (Medicine) patikrinimas atskleidžia, kad moteris mirė iš bado.
 
-Žaidėjas, apžiūrintis palaikus, pajunta šaltą kvėpavimą ant peties ir nenumaldomą stebimo jausmą. Tuo tarpu, jei kitas žaidėjas anksčiau nutraukė paklodę nuo netoliese esančio veidrodžio, tas žaidėjas gali matyti veidrodyje Elizabetos Durst šmėklą, spoksančią į žaidėją prie skrynios. Kai tik ji pastebima, šmėkla greitai išnyksta.
+(Kėdė, palto laikyklis, veidrodis, drabužių menekenai, staliukas, statinė)
+
+Žaidėjas, **apžiūrintis palaikus**, pajunta šaltą kvėpavimą ant peties ir atsiranda toks jausmas tarsi tave kažkas stebi. Tuo tarpu, jei kitas žaidėjas anksčiau nutraukė paklodę nuo netoliese esančio veidrodžio, tas žaidėjas gali matyti veidrodyje Elizabetos Durst šmėklą, spoksančią į žaidėją prie skrynios. Kai tik ji pastebima, šmėkla greitai išnyksta.
 ### Svečių Miegamasis
 <span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
 
-Šis kambarys toks, koks aprašytas <span class="citation">Spare Bedroom (p. 215)</span>.
+Lova, supamoji kėdė, krosnelė, spintelė (kelios lėkštės, puodeliai, kažkas supuvę kampe, ir šiek tiek pageltusio popieriaus)
 ### Slapti Laiptai
 <span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Secret Stairs (p. 217)</span>. Tačiau atidarius slaptas duris atsiveria tik akmens plokštė kitoje pusėje, į kurią maždaug krūtinės aukštyje įtaisyta maža bronzinė plokštelė. Maža tuščiavidurė niša, identiška tai, kuri yra bibliotekoje, yra plokštelės centre ir skleidžia silpną gintaro švytėjimą. Kai niša atidengiama, gintaro skeveldra iš [[#Šeimininkų Apartamentai]] silpnai sužimba ir siūbuoja ore jos link, tarsi laikoma nematomos jėgos.
-
-Kad akmens plokštė galėtų atsiverti ir atskleisti paslėptus laiptus kitoje pusėje, žaidėjai turi įdėti gintaro skeveldrą į nišą.
+Matosi šiek tiek išsikišusi plyta iš sienos.
+Kai ją išemi - viduje bronzinė plokštė su tuščiavidure niša centre, (identiška kaip bibliotekoje), švyti silpna gintarine šviesa. (Reik įdėti gintaro skeveldrą į nišą)
 
 Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
-<p>Slaptos durys atsiveria, atskleisdamos siaurus spiralinius laiptus, pastatytus iš senoviškai atrodančios medienos ankštame skiediniu suklijuoto akmens šulinyje. Storais voratinkliais užpildyti laiptai leidžiasi į tamsą apačioje.</p>
+<p>Slaptos durys atsiveria, o už jų siauri spiraliniai laiptai pastatyti iš senoviškos medienos. Kelyje pilna storų voratinklių.</p>
 </div>
 
 Žaidėjams leidžiantis laiptais, perskaitykite:
 
 <div class="description">
 <p>Suplėšyti voratinkliai aplink jus siūbuoja lyg permatomas vestuvinis šydas, viliodami jus pirmyn, kol senoviniai laiptai girgžda ir dejuoja po kojomis. Žiojėjanti laiptinės gerklė traukia jus vis gilyn, ryja jus, kol leidžiatės vis toliau į jos stemplę. Nusileidžiate vieną aukštą – du aukštus – tris.</p>
-<p>Akmeninio šulinio sienos siaurėja aplink jus, priversdamos susigūžti pečius ir įtraukti alkūnes, kad galėtumėte tęsti kelią žemyn. Tamsoje girdite tik savo kojų šlepsėjimą, dusinantį laiptų dejavimą ir kraujo tvinksėjimą ausyse.</p>
+<p>Leidžiantis, akmeninio šulinio sienos siaurėja aplink jus, priversdamos susigūžti pečius ir įtraukti alkūnes, kad galėtumėte tęsti kelią žemyn. Tamsoje girdite tik savo kojų šlepsėjimą, dusinantį laiptų dejavimą ir kraujo tvinksėjimą ausyse.</p>
 <p>Galiausiai, po to, kas atrodo lyg valandos, nusileidimas išsilygina, ir spiraliniai laiptai baigiasi patamsėjusia sutankintos žemės aikštele. Priešais jus driekiasi siauras tunelis, paremtas senoviniais medžio rėmais, o jo akmeninės sienos, atrodo, kraujuoja dryžuoto raudono molio sluoksniais. Už aštuonių pėdų tunelis išsišakoja į kairę ir į dešinę.</p>
 <p>Jūsų akims ir ausims prisitaikius prie šalto, požeminio koridoriaus, pastebite, kad tunelis nėra toks tylus kaip laiptinė aukščiau. Per erdvę aidi šiurpus, žemo tono garsas – ir netrukus atpažįstate jį kaip gilų, nepaliaujamą giedojimą.</p>
 </div>
