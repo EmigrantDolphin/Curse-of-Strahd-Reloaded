@@ -630,7 +630,7 @@ Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 Žaidėjams leidžiantis laiptais, perskaitykite:
 
 <div class="description">
-<p>Suplėšyti voratinkliai aplink jus siūbuoja lyg permatomas vestuvinis šydas, viliodami jus pirmyn, kol senoviniai laiptai girgžda ir dejuoja po kojomis. Žiojėjanti laiptinės gerklė traukia jus vis gilyn, ryja jus, kol leidžiatės vis toliau į jos stemplę. Nusileidžiate vieną aukštą – du aukštus – tris.</p>
+<p>Suplėšyti voratinkliai aplink jus siūbuoja lyg permatomas vestuvinis šydas, viliodami jus pirmyn, kol senoviniai laiptai girgžda ir dejuoja po kojomis. Žiojėjanti laiptinės gerklė traukia jus vis gilyn, ryja jus, kol leidžiatės vis toliau į jos skrandį. Nusileidžiate vieną aukštą – du aukštus – tris.</p>
 <p>Leidžiantis, akmeninio šulinio sienos siaurėja aplink jus, priversdamos susigūžti pečius ir įtraukti alkūnes, kad galėtumėte tęsti kelią žemyn. Tamsoje girdite tik savo kojų šlepsėjimą, dusinantį laiptų dejavimą ir kraujo tvinksėjimą ausyse.</p>
 <p>Galiausiai, po to, kas atrodo lyg valandos, nusileidimas išsilygina, ir spiraliniai laiptai baigiasi patamsėjusia sutankintos žemės aikštele. Priešais jus driekiasi siauras tunelis, paremtas senoviniais medžio rėmais, o jo akmeninės sienos, atrodo, kraujuoja dryžuoto raudono molio sluoksniais. Už aštuonių pėdų tunelis išsišakoja į kairę ir į dešinę.</p>
 <p>Jūsų akims ir ausims prisitaikius prie šalto, požeminio koridoriaus, pastebite, kad tunelis nėra toks tylus kaip laiptinė aukščiau. Per erdvę aidi šiurpus, žemo tono garsas – ir netrukus atpažįstate jį kaip gilų, nepaliaujamą giedojimą.</p>
@@ -641,130 +641,129 @@ Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 ### Šeimos Kriptos
 <span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
 
-Šios patalpos iš esmės tokios, kokios aprašytos **Family Crypts** (p. 217-18).
+DC 15 Strength (Athletics) check kad atidarytum akmenines kirptos duris (visur apart tuščios kriptos)
 
 Žaidėjams artėjant prie **Tuščios Kriptos** ir **Valterio Kriptos**, perskaitykite:
 
 <div class="description">
-<p>Šis šoninis koridorius vėl išsišakoja į kairę ir į dešinę. Abipus didelės stačios akmens plokštės buvo pastumtos į šalį ir atremtos į sienas, atveriant kelią į porą tamsių, tylių kriptų. Plokštė dešinėje išraižyta vardu „Valteris Durstas"; plokštė kairėje – tuščia.</p>
+<p>Plokštė dešinėje išraižyta vardu „Valteris Durstas"; plokštė kairėje – tuščia.</p>
 </div>
 
-Jei personažai įžengia į **Tuščią Kriptą**, perskaitykite:
+**Tuščia kripta** - tuščia
+
+ **Valterio Kriptą**, perskaitykite:
 
 <div class="description">
-<p>Jūs žvelgiate pro pasvirusią akmens plokštę ir matote tuščią žeminę kriptą.</p>
+<p>
+Šią kriptą dengia ištinusios, kruvinos cistos. Kartais jos supulsuoja ir sprogsta, o iš jų pasipila pūlių srovė. Kas kart kai tai įvyksta - girdite tylų kūdikio inkštimą, kurį greitai nutildo tolimo niūniavimo garsas (Valsas Klarai jei žino)
+</p>
 </div>
-
-Jei personažai įžengia į **Valterio Kriptą**, perskaitykite:
-
-<div class="description">
-<p>Ištinusios, kruvinos cistos dengia šios kriptos sienas tarsi navikai. Kartkartėmis jos pulsuoja ir sprogsta, pūlių srovelėms varvant žemyn ir kaupiantis ant grindų. Kaskart, kai tai įvyksta, girdite tylų kūdikio inkštimą, kurį greitai nutildo tolimo niūniavimo garsas.</p>
-</div>
-
-Žaidėjai, anksčiau skaitę ar girdėję dainą, atpažįsta niūniavimo melodiją kaip *Valsą Klarai.*
 
 Žaidėjams artėjant prie **Gustavo Kriptos** ir **Elizabetos Kriptos**, perskaitykite:
 
 <div class="description">
-<p>Šis šoninis koridorius vėl išsišakoja į kairę ir į dešinę. Didelės stačios akmens plokštės užsandarina įėjimus į tunelius abipus, užtverdamos kelią pirmyn. Plokštė kairėje išraižyta vardu „Gustavas Durstas"; plokštė dešinėje išraižyta vardu „Elizabeta Durst". Tunelis čia nenatūraliai tylus, o prie grindų glaudžiasi plonas rūkas.</p>
+<p>Didelės akmens plokštės užsandarina įėjimus į kriptų vidų. Plokštė kairėje išraižyta vardu „Gustavas Durstas"; plokštė dešinėje išraižyta vardu „Elizabeta Durst".</p>
 </div>
 
 Jei personažai įžengia į **Gustavo Kriptą**, perskaitykite:
 
 <div class="description">
-<p>Kriptoje už plokštės stovi akmeninis karstas, gulintis ant dulkėto akmeninio pakylos. Vienišą kamerą slegia sunki tyla.</p>
+<p> Viduje stovi akmeninis karstas, ir šią vienišą kamerą slegia sunki tyla.
+</p>
 </div>
 
 Jei personažai įžengia į **Elizabetos Kriptą**, perskaitykite:
 
 <div class="description">
-<p>Virš šios kriptos vidaus tvyro tirštas, aitrus miazmas; joje stovi iš akmens iškaltas karstas, ilsintis ant akmeninio pakylos. Grindys priešais jį nusėtos šimtų negyvų termitų kūneliais. Daugelis jų prilipę prie pailgo, ištinusio negyvos termitų karalienės kūno, o kiti, atrodo, mirė ant randuotų, sudarkytų keturių didesnių vabalų kūnų netoliese.</p>
+<p>Šioje kriptoje tvyro aštrus ir nemalonus, smirdintis garas; Viduje akmeninis karstas. Grindys aplink jį nusėtos šimtais negyvų termitų kūnais. Daugelis jų prilipę prie ištinusio negyvos termitų karalienės kūno.</p>
 </div>
 
 Žaidėjams artėjant prie **Rouzės Kriptos** ir **Torno Kriptos**, perskaitykite:
 
 <div class="description">
-<p>Šis šoninis koridorius vėl išsišakoja į kairę ir į dešinę. Didelės stačios akmens plokštės užsandarina įėjimus į tunelius abipus, užtverdamos kelią pirmyn. Plokštė kairėje išraižyta vardu „Rozavalda Durst"; plokštė dešinėje išraižyta vardu „Tornboltas Durstas". Kiekviena plokštė dvelkia užmiršto kapo tyla.</p>
+<p>Didelės  akmens plokštės užsandarina įėjimus į kriptų vidų. Plokštė kairėje išraižyta vardu „Rozavalda Durst"; plokštė dešinėje išraižyta vardu „Tornboltas Durstas". Kiekviena plokštė dvelkia užmiršto kapo tyla.</p>
 </div>
 
 Jei personažai įžengia į bet kurią kriptą, perskaitykite:
 
 <div class="description">
-<p>Šioje mažoje kameroje stovi akmeninis karstas, ilsintis ant akmeninio pakylos. Oras šioje kriptoje sunkus nuo sielvarto.</p>
+<p>Viduje stovi akmeninis karstas. Oras šioje kriptoje sunkus nuo sielvarto.</p>
 </div>
 
 Žaidėjai negali padėti Rouzės ar Torno vaiduokliams rasti ramybę, padėdami jų palaikus į karstus. Nei [[Non-Player Characters#Rosavalda "Rose" Durst|Rouzė]], nei [[Non-Player Characters#Thornboldt "Thorn" Durst|Tornas]] neranda šiose kriptose paguodos. Abu nori kuo greičiau išeiti.
 ### Kulto Naujokų Patalpos
 <span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Cult Initiates' Quarters (p. 218)</span>.
+Stalas ir šiaudiniai čiužiniai
 
 Personažams pajudėjus leistis į <span class="citation">Well and Cultist Quarters (p. 218)</span>, pasigirsta staigus pliuškenimo garsas – kuris tuomet greitai nutyla.
 ### Šulinys ir Kultistų Patalpos
 <span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Well and Cultist Quarters (p. 218)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
-<p>Šios tamsios, žeminės kameros lubos pakyla pėda aukščiau nei ankštas tunelis. Jas laiko storos medinės atramos ir skersiniai, supuvę nuo laiko ir nusėti giliomis skylėmis, bylojančiomis apie alkanus vabzdžius.</p>
-<p>Čia, kambario centre, stovi vienišas šulinys, iš trijų pusių apsuptas kelių mažesnių, nišas primenančių kamerų, iškaltų sienose. Senos pėdos kryžiuojasi ant grindų, vesdamos į nišas, aplink šulinį, aukštyn laiptais kitame kambario gale ir atgal į viršų tuo keliu, kuriuo atėjote.</p>
-<p>Sena kanapinė virvė, pritvirtinta prie surūdijusio skridinio, leidžiasi pro šulinio angą, švelniai siūbuodama stovinčiame ore, tarsi ką tik palikta nematomo gyventojo.</p>
+<p>Šio kambario lubos yra pėda aukštesnės negu iš ten kur atėjote. Jas laiko storos medinės atramos ir skersiniai. Jie yra supuvę nuo laiko ir turi daug gilių skylių kurias atrodo išvalgė vabalai.</p>
+<p>Kambario centre šulinys, aplink jį sienose iškaltos nišos su šiek tiek geresniais čiužiniais negu šiaudiniais. Ant grindų matosi senso pėdos vedančios į nišą, aplink šulinį ir iš šio kambario per abu išėjimus.</p>
+<p>Virš šulinio prie surūdijusio skridinio prikabinta sena virvė, ant jos kabo medinis kibiras ir ji šiek tiek siūbuojasi tarsi ją ką tik kažkas paliko.</p>
 </div>
 
-Šulinį sudaro 4 pėdų skersmens šachta su 3 pėdų aukščio akmeniniu apvadu, ir jis leidžiasi 30 pėdų žemyn iki vandens pripildytos cisternos. Nuo virvės ir skridinio mechanizmo, prisukto prie skersinių virš šulinio, kabo medinis kibiras. Šachtos vidus padengtas pelenų juodumo grybelio rūšimi.
+
+**Šulinys** - Šulinį sudaro 4 pėdų skersmens šachta su 3 pėdų aukščio akmeniniu apvadu, ir jis leidžiasi 30 pėdų žemyn iki vandens (bet šiaip vanduo nesimato). Šachtos vidus padengtas pelenų juodumo grybelių.
 
 Jei žaidėjai numeta daiktą į šulinį ir tuomet nusisuka, jie išgirsta garsų pliuškenimą ir plėšymo garsus, sklindančius iš apačios. Kai atsigręžia, daiktas sudraskytas į gabalus, o didelių dalių trūksta.
 
-Pakeiskite sidabruotą trumpąjį kalaviją skrynioje **25E** knyga, įrišta purvinu juodu odiniu viršeliu. Šiame dienoraštyje, pasirašytame Drašos, yra vardų sąrašas ir su kiekvienu vardu susieti fiziniai aprašymai. Kiekviename įraše yra šiurpių detalių, aprašančių aukos paaukojimą, tokių kaip „smarkiai priešinosi" ar „raminamųjų neduota",<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> ir jis baigiasi fraze „Atiduotas Valteriui."
+Skrynios gali būti atidarytos su thieves tools ir DC 15 Dex check.
+**Daiktai skryniuose**
+25A - 11g ir 60sp maišelyje iš žmogaus odos
+25B - 3 samaniniai agatai (10gp each)
+25C - juodas odinis akies raištis su įsiutu karleonu jame (50gp)
+25D - šukos su sidabriniais spygliukais (25 gp)
+25E - Knyga purvinu juodu odiniu viršeliu. Pasirašytas dienoraštis "Draša" vardu. Jame vardų sąrašas su aprašymais kas įvyko jo aukojimo metu. "smarkiai priešinosi", "raminamųjų neduota" ir visi baigiasi fraze "Atiduotas Valteriui"
 
 
 ### Paslėpta Duobė su Smaigais
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Hidden Spiked Pit (p. 218)</span>. Jei personažai patenka į šią vietą iš [[#Šulinys ir Kultistų Patalpos]], perskaitykite:
-
 <div class="description">
-<p>Laiptai veda į tylią aikštelę. Priekyje laiptai tęsiasi aukštyn ir dingsta už posūkio. Dešinėje aikštelė tęsiasi tiesiai į vienišą koridorių. Šis tunelio koridorius atrodo stebėtinai švarus ir be šiukšlių; jo tolimajame gale dar vieni žeminiai laiptai leidžiasi į tamsą.</p>
-<p>Nepaliaujamas giedojimas, užpildęs šio požeminio komplekso orą, stiprėja link tolimojo šio koridoriaus galo. Jo šaltinis, atrodo, yra už besileidžiančių laiptų.</p>
+<p>Šio koridoriaus tunelis atrodo stebėtinai švarus</p>
 </div>
 
-Jei personažai patenka į šią vietą iš [[#Valgykla]], perskaitykite:
+**Giedojimas** - stipresnis iš laiptų vedančių į žemesnį aukštą 
 
-<div class="description">
-<p>Laiptai leidžiasi į tylią aikštelę. Priekyje laiptai tęsia nusileidimą, atsiverdami į platesnę kamerą. Kairėje aikštelė tęsiasi tiesiai į vienišą koridorių. Šis tunelio koridorius atrodo stebėtinai švarus ir be šiukšlių; jo tolimajame gale dar vieni žeminiai laiptai leidžiasi į tamsą.</p>
-<p>Nepaliaujamas giedojimas, užpildęs šio požeminio komplekso orą, stiprėja link tolimojo šio koridoriaus galo.</p>
-</div>
+**DC 15 Wisdom (Perception)** - pastebi kad šio koridoriaus grindyse nėra jokių senų pėdų pėdsakų.
 
-Jei personažai patenka į šią vietą iš [[#Gūlų Susidūrimas]], perskaitykite:
-
-<div class="description">
-<p>Laiptai leidžiasi į tylią aikštelę. Kairėje laiptai tęsia nusileidimą, apsukdami posūkį prieš dingdami tamsoje. Nepaliaujamas giedojimas, užpildęs šio požeminio komplekso orą, atrodo, aidi iš apačios.</p>
-<p>Dešinėje aikštelė tęsiasi tiesiai į vienišą koridorių. Šis tunelio koridorius atrodo stebėtinai švarus ir be šiukšlių; jo tolimajame gale koridorius išsišakoja į kairę ir į dešinę.</p>
-</div>
+**Jeigu apieško grindis** - Po dulkių sluoksniu surandi sutrūnijusias lentas uždarančias duobę. 5-ft ilgio, 10-ft gilio, apačioje mediniai aštrūs spygliai.
+**Jeigu įkrenta** - krenti 10-ft ant aštrių medinių spyglių. 1d6 nuo kritimo, 2d10 nuo spyglių. Esi prone.
 
 ### Valgykla
 <span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Dining Hall (p. 218)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Šiame kambaryje stovi paprastas medinis stalas, iš šonų apsuptas ilgų suolų. Ant purvinų grindų išmėtyti supelijusiais humanoidų kaulais. Kamerą užpildo tirštas puvėsių ir kraujo dvokas, toks varinis nuo kraujo, kad jaučiate jį ant liežuvio.</p>
-<p>Keliasdešimt supelijusių kaulų sukrauti į groteskišką ir iškreiptą piramidę tamsioje nišoje pietuose.</p>
+<p>Šiame kambaryje stovi paprastas medinis stalas, iš šonų apsuptas ilgų suolų. Ant purvinų grindų išmėtyti supelyję humanoidų kaulai. Šį kambarį užpildo tirštas puvėsių ir kraujo dvokas, toks kad jaučiate jį ant liežuvio.</p>
+<p>
+Kambario gale, nišoje, yra sukrauta krūva supelyjusių kaulų. Tiek daug kad sukuria kaulų piramidę</p>
 </div>
 
 ### Maisto Sandėlis
 <span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
 
-Ši vieta iš esmės tokia, kokia aprašyta <span class="citation">Larder (p. 218)</span>.
+<div class="description">
+DC 17 Wisdom (Perception) check leidžia pastebėti šį lavoną prieš įeinant.
+<p>Priėjus prie šios nišos ir bandant apžiūrėti kaulus, ant taves nukrenta kūnas. (tas kūnas yra Gustavo Dursto ir nuo jo yra nulupta visa jo oda). 
+</p>
 
-**Grick** šioje nišoje – iškreipti nulupto Gustavo Dursto lavono likučiai – susirangęs ant lubų ir nukrenta ant savo aukos, kai ji įžengia. DC 17 Wisdom (Perception) patikrinimas leidžia žaidėjui nustatyti jo buvimą prieš įžengiant.
+</div>
+
 
 Jei žaidėjai sutrikdo gricką, perskaitykite:
 
 <div class="description">
-<p>Nuo lubų nukrenta siaubinga būtybė – ilgas, į mėsą panašus kirminas, žmogaus vyro pločio ir ilgio, jo liemuo primena humanoido kūną su prie torso prisiūtomis rankomis ir sykiu susiūtomis abiem kojomis. Jo nulupti raumenys prasiveria, atskleisdami plazdantį, žiojėjantį nasrą, apjuostą šimtais mažyčių, į žmogaus panašių dantų, ir griežiantį, kaulinį snapą.</p>
-<p>Jis paleidžia aukšto tono, gargiantį spiegimą, mesdamasis pirmyn, o besirangantys, sausgysles primenantys čiuptuvai kerta jūsų veidų link.</p>
+<p>Nuo lubų nukrenta mėsos gabalas. Bet po akimirkos ta mėsa atsistoja. Iš tiesų tai yra susiųtas raumenų rinkinys – panašus į kirminą, žmogaus vyro pločio ir ilgio, jo liemuo primena humanoido kūną. Jo uodega yra susiūtos žmogiškos kojos. Iš kaklo styro keturi čiuptuvai su begale žmogiškų dantų juose, o vietoj galvos ilgas kaulėtas snapas
+</p>
+<p>Jis paleidžia aukšto tono, gargiantį spiegimą, metasi į jus.</p>
 </div>
+
+**Jei nepastebėjo** - jei turite mažiau 12 passive Perception -> surprised -> disadvantage on initiative roll
 
 > [!combat]- **Combat - Grick**
 > **Kovos Lygis**: Bruising
@@ -786,6 +785,7 @@ Jei žaidėjai sutrikdo gricką, perskaitykite:
 > | 4 | <ul><li>Sumažinkite gricko hit points iki 22</li><li>Sumažinkite jo tentacles išpuolį iki 7 (2d6) damage</li><li>Sumažinkite jo beak išpuolį iki 4 (1d8) damage</li></ul> |
 > | 6 | <ul><li>Padidinkite gricko hit points iki 32</li><li>Padidinkite jo tentacles išpuolį iki 11 (2d8+2)</li><li>Padidinkite jo bite išpuolį iki 6 (1d8+2)</li></ul> |
 
+![[grick stats.png]]
 ![[Durst_Grick_Transparent.png]]
 
 <span class="credit">"The Grick" by Cuddly Kraken. Support them <a href="https://cuddlykraken.carrd.co/">here!</a></span>
@@ -793,14 +793,14 @@ Jei žaidėjai sutrikdo gricką, perskaitykite:
 ### Gūlų Susidūrimas
 <span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
 
-Ši vieta iš esmės tokia, kokia aprašyta <span class="citation">Ghoulish Encounter (p. 218)</span>. Kai žaidėjai pirmą kartą priartėja prie šios vietos, perskaitykite:
+Primink kad giedojimas garsesnis iš laiptų žemyn pusės
 
 <div class="description">
-<p>Iš šio koridoriaus sklinda mirtinas dvokas. Akmeninės sienos nusėtos sutrūkinėjusiomis, raudonomis dėmėmis, o senų kaulų takas veda gilyn į tunelį.</p>
+<p>Takas yra pilnas kaulų o sienos paraudusios nuo išdžiūvusio kraujo</p>
 
 </div>
 
-Kai žaidėjas pirmą kartą įžengia į vieną iš 5 pėdų kvadratų koridorių įėjimuose (žemėlapyje pažymėtų T), trys **gūlai** išnyra iš žemės vietose, pažymėtose S, ir puola.
+Atsistojus ant T prisikelia 2 arba 1 Ghoul'as ant S
 
 ![[Ghoulish Encounter Map.png]]
 > [!combat]- **Combat - Ghouls**
@@ -823,58 +823,59 @@ Kai žaidėjas pirmą kartą įžengia į vieną iš 5 pėdų kvadratų koridori
 > | 4 | Leiskite pulti tik vienam gūlui vienu metu |
 > | 6 | Leiskite pulti tik vienam gūlui vienu metu |
 
+![[Ghoul stats.png]]
 Gūlams puolant, jie beprasmiškai kartoja bet kurią ar visas šias frazes:
 
 * „Gražūs. Mes tokie gražūs."
 * „Mes tobuli. Mes nemirtingi."
-* „Padėkite mums gyventi amžinai."
+* „Padėkite mums gyventi a   mžinai."
 
 Jei žaidėjai eina toliau koridoriumi, perskaitykite:
-
-<div class="description">
-<p>Takas baigiasi tylios sankryžos centre. Nepaliaujamas giedojimas, kurį girdėjote nuo pat įžengimo į požemį, pastebimai garsesnis šiaurinėje sankryžos atšakoje.</p>
-</div>
 
 ### Laiptai Žemyn
 <span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Stairs Down (p. 218)</span>. Kai žaidėjai priartėja prie šios vietos, perskaitykite:
+
 
 <div class="description">
-<p>Tamsūs iškalto akmens laiptai leidžiasi į tamsą. Aišku, kad prislopinto giedojimo, kurį girdėjote, šaltinis yra apačioje.</p>
+<p>Tamsūs iškalto akmens laiptai leidžiasi į tamsą. Dabar aiškiai girdite kad giedojimas sklinda iš apačios.</p>
 </div>
 
 ### Tamsiojo Valdovo Šventovė
 <span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Darklord's Shrine (p. 218)</span>. Be to, kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
-<p>Šis kambarys nukabinėtas supelijusiais skeletais, kabančiais nuo surūdijusių pančių prie sienų, jų burnos žiojėja tyliais riksmais.</p>
-<p>Plačioje nišoje pietinėje sienoje stovi dažyta medinė statula, iškalta panašiai į išsekusį, blyškiaveidį vyrą, vilkintį gausiu juodu apsiaustu, jo blyški kairė ranka ilsisi ant šalia stovinčio vilko galvos. Statulos dešinė ranka laiko dūmų pilkumo krištolo rutulį, o jos nudažytas žvilgsnis spokso žemyn į jus, akyse šaltas ir žiaurus blyksnis.</p>
-<p>Penki peleniniai šešėliai išdeginti sienose, o suodžių žymės driekiasi per grindis statulos link.</p>
-<p>Kambarys turi išėjimus į vakarus ir šiaurę. Iš šiaurės girdisi giedojimas.</p>
+<p>Supelyję skeletai supančioti prie sienų, išsižiotomis burnomis ir žiūri į dažytą medinę statulą
+</p>
+<p>Statula atrodo kaip išsekęs, blyškiaveidis vyras, vilkintis juodu apsiaustu. Jo kairė ranka ilsisi ant šalia stovinčio vilko galvos. O dišinė ranka laiko, jau ne medinį, bet tikrai atrodantį **dūmų pilkumo krištolo rutulį**. Statulos žvilgsnis spokso žemyn į visą kambarį, jo akys šaltos ir žiaurios</p>
+<p>Prie jo ant sienų yra išdeginti kas atrodo kaip trys šešėliai, ir jie savo suodžiais driekiasi nuo sienos, per grindis, iki pačios statulos. Sudarančios jo šešėlių vaizdą.</p>
 </div>
 
-Žaidėjas, priartėjęs prie rutulio, gali girdėti daugybę balsų, šnabždančių šias frazes:
-
+**Priartėjęs prie krištolo rutulio**-  gali girdėti daugybę balsų, šnabždančių šias frazes:
 * „Jo žvilgsnis degina mus."
 * „Tamsiojo Valdovo akys visada stebi."
+Kai to klausaisi tavo šešėlis ima **raitytis** ir **sukiotis**, plėšytis, tarsi jis kankinasi ir bando pabėgti.
 
-Be to, to žaidėjo šešėlis ima raitytis ir sukiotis, jo kraštai darosi apiplyšę ir neryškūs, kol jis netvarkingai blaškosi per grindis. Žaidėjas, palietęs rutulį, jaučiasi taip, tarsi „tamsus, senovinis blogis" staiga būtų atsukęs į jį savo akį.
+**Palietęs rutulį** - tu jauti tarsi „tamsus, senovinis blogis" staiga atsuka į tave savo akį.
 
-Jei rutulys pašalinamas iš savo vietos, peleniniai **šešėliai** ant sienų ima judėti. Kiekvieną raundą iki dviejų šešėlių „pabunda", šaudami per sienas. Pabusdami jie murma ir dejuoja šias frazes:
-
+**Jei rutulys pašalinamas iš savo vietos** - šešėliai ant sienų ima judėti. (Kiekvieną raundą iki dviejų šešėlių „pabunda"). Pabusdami jie murma ir dejuoja šias frazes:
 * „Nešdinkitės iš šios vietos!"
 * „Nežvelkite į mus."
 * „Grąžinkite Tamsiojo Valdovo auką!"
 
-Kai visi šešėliai pabunda, jie puola, kiekvienas šešėlis mieliau taikydamasis į skirtingą žaidėją. Jei rutulys grąžinamas į savo vietą ant statulos, šešėliai grįžta į pradines pozicijas ir vėl tampa neaktyvūs.
+**Kai visi šešėliai pabunda** - jie puola, kiekvienas šešėlis mieliau taikydamasis į skirtingą žaidėją.
+**Jei rutulys grąžinamas į savo vietą** - ant statulos, šešėliai grįžta į pradines pozicijas ir vėl tampa neaktyvūs.
 
 Šešėliai įgyja šią papildomą savybę:
 
-***Light Sensitivity.*** Šešėlis yra imunus acid, cold, fire, lightning ir thunder damage, taip pat bludgeoning, piercing ir slashing damage, kol yra tamsoje. Šešėlis yra atsparus (resistant) tiems žalos tipams blausioje šviesoje, o ryškioje šviesoje tie žalos tipai jam kenkia įprastai.
+***Light Sensitivity.*** Šešėlis yra imunus **acid, cold, fire, lightning ir thunder damage, taip pat bludgeoning, piercing ir slashing damage, kol yra tamsoje**. Šešėlis yra atsparus (resistant) tiems žalos tipams blausioje šviesoje, o ryškioje šviesoje tie žalos tipai jam kenkia įprastai.
 
+![[shadow stats.png]]
+Strength reduction happens until short/long rest.
+Remind of search action
+![[hide action.png]]
+![[invisible condition.png]]
 > [!combat]- **Combat - Shadows**
 > **Kovos Lygis**: Crushing
 > **Numatomas Personažo Lygis**: 2
@@ -890,7 +891,7 @@ Kai visi šešėliai pabunda, jie puola, kiekvienas šešėlis mieliau taikydama
 ### Paslėptas Liukas
 <span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Hidden Trapdoor (p. 219)</span>. Kai žaidėjai suranda ir įžengia į šią vietą, perskaitykite:
+**Jei ieško paslapčių** - DC 10 Wisdom (Perception) check ir surandi slaptą liuką vedantį į medžiotojų menę.
 
 <div class="description">
 <p>Moliniai laiptai baigiasi ankšta aikštele. Šešios pėdos virš žemės pusiau supuvusios lubos iš glaudžiai suglaustų lentų laiko uždarytą medinį liuką, vedantį į viršutinį aukštą. Liukas užsklęstas iš šios pusės.</p>
@@ -898,26 +899,44 @@ Kai visi šešėliai pabunda, jie puola, kiekvienas šešėlis mieliau taikydama
 
 ### Kulto Vadovo Guolis
 <span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
-
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Cult Leaders' Den (p. 219)</span>. Tačiau pašalinkite **mimiką** iš šios vietos. Be to, kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
+ 
 <div class="description">
-<p>Šiame tyliame kambaryje stovi medinis stalas, iš šonų apsuptas dviejų aukštomis atkaltėmis kėdžių ir laikantis molinį ąsotį bei du bokalus. Virš stalo pakabintas neuždegtas ketaus sietynas. Dviejuose kameros kampuose stovi geležinės žvakidės, jų žvakės seniai ištirpusios. Trumpas koridorius šiauriniame kambario gale veda į patamsėjusią kamerą anapus.</p>
+<p>
+Medinis stalas, ant jo molinis ąsotis su dviem bokalais. Kampuose geležinės žvakidės su ištirpusiomis žvakėmis
+</p>
 </div>
 
 ### Kulto Vadovo Patalpos
 <span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Cult Leaders' Quarters (p. 219)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Šiame kambaryje stovi didelė medinio rėmo lova, jos plunksninis čiužinys supuvęs nuo metų nenaudojimo. Prie sienos kairėje stovi sena medinė spinta, išraižyta demoniškais veidais, o lovos gale tyliai stovi išblukusi medinė skrynia.</p>
-<p>Kambarį persmelkia pažįstamas mirties dvokas – tačiau kur kas stipresnis, susimaišęs su nuodingu kvapu, kuris su kiekvienu įkvėpimu užpildo jūsų plaučius.</p>
+<p>Šiame kambaryje stovi didelė medinio rėmo lova, su plunksniniu čiūžiniu, kuris yra jau supuvęs.
+</p>
+
+<p>Sena medinė spinta, išraižyta demoniškais veidais </p>
+<p>Prie lovos stovi išblukusi medinė skrynia.</p>
+<p>Kambaryje jaučiasi mirties dvokas, susimaišęs su nuodingu kvapu</p>
 </div>
 
-Spintoje yra keli seni apsiaustai, pora geležinių žvakidžių ir atidaryta dėžė su trisdešimčia deglų bei odiniu maišu, kuriame yra penkiolika žvakių. Puvėsių aromatas taip pat sklinda nuo poros supuvusių organų – pusiau suėsto kepenų ir apgraužtų žarnų – gulinčių paslėptų po apsiaustų kraštais.
+**Spintoje** - keli seni apsiaustai, pora geležinių žvakidžių ir atidaryta dėžė su 30 deglų bei odinis maišas su 15 žvakių. 
+Iš spintos sklinda puvėsių aromatas, nes apačioje guli pusiau suėstos kepenys ir apgraužtos žarnos.
 
-Sulankstytas skrynios viduje, ant kito jos turinio, guli **boneless** (<span class="citation">Van Richten's Guide to Ravenloft, p. 228)</span>, pagamintas iš atpažįstamos nuluptos Gustavo Dursto odos. Kai skrynia atidaroma, **boneless** iššoka pulti artimiausios būtybės.
+**Skrynioje** - ant viso kito skrynios turinio guli Gustavo Dursto oda. Ir ji tave puola. Kai skrynia atidaroma, **boneless** iššoka pulti artimiausios būtybės.
+
+**Lobis skrynioje** - 
+*  [cloak of protection](https://5e.tools/items.html#cloak%20of%20protection_dmg) (attune needed) - +1 AC ir +1 prie saving throws kai ją dėvi
+* 4  [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg) (50 gp ea) - Bonus Action -> 2d4+2
+*  [chain shirt](https://5e.tools/items.html#chain%20shirt_phb) (50 gp) - Medium armor, AC 13 + Dex mod (max 2)
+* [mess kit](https://5e.tools/items.html#mess%20kit_phb) (2sp) - Maisto darymui
+* [flask of alchemist's fire](https://5e.tools/items.html#alchemist's%20fire%20\(flask\)_phb) (50gp) - Užsidega kai paliečia orą. Action to throw 20ft. (Ranged attack improvised weapon). On hit, 1d4 fire dmg each turn. Can extinguish with dc10 dex check.
+*  [bullseye lantern](https://5e.tools/items.html#bullseye%20lantern_phb) (10gp) - bright light in 60 ft and dim light next 60ft. Burns for 6 hours, uses 1 flask of oil as fuel.
+* [set of thieves' tools](https://5e.tools/items.html#thieves'%20tools_phb)
+* (Knyga su geltonu odiniu viršeliu) Burtų knyga
+	* 1st level: [disguise self](https://5e.tools/spells.html#disguise%20self_phb), [identify](https://5e.tools/spells.html#identify_phb), [mage armor](https://5e.tools/spells.html#mage%20armor_phb), [magic missile](https://5e.tools/spells.html#magic%20missile_phb), [protection from evil and good](https://5e.tools/spells.html#protection%20from%20evil%20and%20good_phb)
+	* 2nd level: [darkvision](https://5e.tools/spells.html#darkvision_phb), [hold person](https://5e.tools/spells.html#hold%20person_phb), [invisibility](https://5e.tools/spells.html#invisibility_phb), [magic weapon](https://5e.tools/spells.html#magic%20weapon_phb)
+	* Trumpa sekcija gale, joje rašo: "Tiem kas suras šią knygą, nesekite giedojimo. Ne eikite gilyn. Nebetikiu kad išgyvensiu šią vietą. Mano vardas Marginalija. Noriu kad kas nors tai žinotų."
+
+![[Pasted image 20260826233754.png]]
 
 > [!combat]- **Combat - Boneless**
 > **Kovos Lygis**: Mild
@@ -939,45 +958,66 @@ Sulankstytas skrynios viduje, ant kito jos turinio, guli **boneless** (<span cla
 > | 4 | <ul><li>Sumažinkite boneless hit points iki 21.</li><li>Sumažinkite jo ***slam*** išpuolį ir ***crushing embrace*** veiksmą iki 4 (1d4+2) damage kiekvieną.</li></ul> |
 > | 6 | <ul><li>Padidinkite boneless hit points iki 31.</li><li>Padidinkite jo ***slam*** išpuolį ir ***crushing embrace*** veiksmą iki 6 (1d6+3) damage kiekvieną.</li></ul> |
 
-Jokie **ghasts** nepuola, jei žaidėjas paima kokius nors daiktus iš skrynios, ir už sienų nėra jokių paslėptų ertmių.
 ## A2g. Požemis
 ### Relikvijorius
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Reliquary (p. 219)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
-
 <div class="description">
-<p>Dulkėti akmeniniai laiptai leidžiasi pro aikštelę ir aplink posūkį, kol baigiasi šaltoje, stačiakampėje kameroje. Prie žemės glaudžiasi plonas, plaukiojantis rūkas, o mediniai skersiniai, laikantys lubas, dejuoja po namo ir požeminio komplekso svorio.</p>
-<p>Šio kambario sienos iškaltos mažomis, iškirstomis nišomis, kiekvienoje jų – keistas, šiurpus niekutis ar relikvija. Iš kameros veda koridorius su nukarusiomis lubomis, kuris pasisuka ir dingsta iš akių dešinėje. Už jo matote akmeninį šlaitą, besileidžiantį į juodą, drumzliną vandenį. Vaiduokliškas giedojimas, kurį girdite nuo pat įžengimo į rūsį, čia stipriausias ir, atrodo, sklinda iš kitos surūdijusių, uždarų grotų pusės.</p>
-<p>Pagaliau galite suprasti žodžius.</p>
-<p>Jie kartoja vėl ir vėl, nepaliaujamu refrenu:</p>
-<p>„Jis yra Senovinis."</p>
-<p>„Jis yra Žemė."</p>
+<p>Prie žemės glaudžiasi plonas, plaukiojantis rūkas, o mediniai skersiniai, laikantys lubas, dejuoja nuo namo ir požeminio komplekso svorio.</p>
+<p>Šio kambario sienos iškaltos mažomis nišomis, kiekvienoje jų – keistas, šiurpus niekutis ar relikvija. </p>
+<p>Veda du keliai, vienas iš jų yra 20 ft nuolydis į juodą drumzliną vandenį. Ir giedojimas kurį jūs pastoviai girdite, sklinda kaip tik iš ten.</p>
+<p>Matter of fact, jis taip arti, kad pagaliau galite suprasti žodžius.</p>
+<p>Jie kartoja vėl ir vėl, be perstojo:</p>
+<p>„Jis yra Senovinis." (He is the ancient)</p>
+<p>„Jis yra Žemė." (He is the land)</p>
 </div>
+- Maža mumifikuota geltona ranka su aštriais nagais (goblino ranka), pakabinta ant virvės kilpos
+- Peilis, išdrožtas iš žmogaus kaulo
+- Durklas su žiurkės kaukole išraižyta rankenoje
+- 20 cm skersmens lakuotas rutulys, padarytas iš notiko akies
+- Iš kaulo išdrožtas švento vandens šlakstiklis
+- Sulankstytas apsiaustas, susiūtas iš ghoulo odos
+- Prie lazdos pririšta išdžiūvusi varlė (galima supainioti su _pavertimo lazdele_)
+- Maišelis, pilnas šikšnosparnių mėšlo
+- Nukirstas raganos pirštas
+- 15 cm aukščio medinė mumijos figūrėlė, sukryžiavusi rankas ant krūtinės
+- Geležinis pakabukas, papuoštas velnio veidu
+- Susitraukusi, suvytusi halflingo galva
+- Maža medinė skrynelė su išdžiūvusiu vilko liežuviu
+
 
 ### Kalėjimas
 <span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Prison (p. 219)</span>. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
-<p>Grandinių žvangesys susilieja su tyliu, vos juntamu šnaresiu, kai apsukate posūkį į ilgą, patamsėjusį požemį. Nuo sienų kantriai kabo surūdiję pančiai, tarsi laukdami, kada vėl įsikąs į kalinių kūnus.</p>
+<p>Visur kabo surūdiję pančiai, tarsi laukia savo sekančių aukų</p>
 </div>
 
-### Grotos
+**DC 15 Wisdom (Perception)** - aptinka slaptas duris, mažytė niša, kurią patraukus atsidaro durys (į ritualų kambarį)
+
+**X pažymėtoje vietoje** - yra prirakintas skeletas, juodu sektantų primenančiu apsiaustu. Ant vieno iš jo pirštų 25gp vertas aukso žiedas.
+
+### Pakeliamos Grotos
 <span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
 
-Ši vieta iš esmės tokia, kokia aprašyta <span class="citation">Portcullis (p. 219)</span>. Kai žaidėjai priartėja prie šios vietos, perskaitykite:
+
 
 <div class="description">
-<p>Grindys paskendusios po dviejų pėdų tamsiu, drumzlinu vandeniu, kuris teliūskuoja aplink jūsų blauzdas ir batus. Tunelį priekyje užtveria surūdijusios geležinės grotos. Už jų geležinių virbų galite įžvelgti tamsų pusiau paskendusios kameros kontūrą, pakeltą akmeninį postamentą ir tirštą, riedantį rūko debesį.</p>
+<p>
+Grindys paskendusios po 2 pėdų tamsiu, drumzlinu vandeniu, jums kažkur iki blauzdų. Praėjimą toliau blokuoja surūdijusios pakeliamos geležinės grotos. Už jų matosi tamsoje paskendęs žymiai erdvesnis kambarys su pedestalu viduje išlindusiu iš vandens ir riedantis rūko debesis..</p>
+<p>
+Jei teisingoje pozicijoje, šone taip pat matai medinį ratą šone
+</p>
 </div>
 
-Medinis ratas, atidarantis grotas, lieka vakarinėje vartų pusėje (t. y., pusėje, atsuktoje į [[#Ritualų Kambarys]]). Tačiau grandininis grotų atidarymo mechanizmas sulūžo, neleisdamas žaidėjams eiti toliau, kol jie jo nepataisys (pvz., naudodami Rouzės _mending_ cantrip) arba nepakels grotų rankomis. (Jei žaidėjai pakelia grotas rankomis ir tuomet paleidžia, jų svoris priverčia jas vėl užsidaryti, nebent jos yra parembtos.)
+Gali būti pakeltas su **20 DC strength (Athletics) check**
+
+Medinis ratas, atidarantis grotas, lieka vakarinėje vartų pusėje (t. y., pusėje, atsuktoje į [[#Ritualų Kambarys]]). Tačiau **grandininis grotų atidarymo mechanizmas sulūžo**, neleisdamas žaidėjams eiti toliau, kol jie jo nepataisys (pvz., naudodami Rouzės **_mending_ cantrip**) arba nepakels grotų rankomis. (Jei žaidėjai pakelia grotas rankomis ir tuomet paleidžia, jų svoris priverčia jas vėl užsidaryti, nebent jos yra paremtos.)
 ### Ritualų Kambarys
 <span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
 
-Šis kambarys iš esmės toks, koks aprašytas <span class="citation">Ritual Chamber (p. 219)</span>. Vanduo yra 2 pėdų gylio ir turėtų būti laikomas sunkia vietove (difficult terrain) Medium ar mažesnėms būtybėms. Lipimas iš baseino ant atbrailų taip pat laikomas sunkia vietove. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
+Vanduo yra 2 pėdų gylio ir turėtų būti laikomas sunkia vietove (**difficult terrain** (1 ft = 2 ft cost)) **Medium** ar mažesnėms būtybėms. Lipimas iš baseino ant atbrailų taip pat laikomas sunkia vietove. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
 <p>Lygios mūrinės šio keturiasdešimties pėdų kvadrato kambario sienos suteikia puikią akustiką. Lubas laiko beveidžiai akmeniniai stulpai, o didžiąją grindų dalį dengia drumzlinas vanduo. Laiptai veda aukštyn į sausas akmenines atbrailas, besiglaudžiančias prie sienų. Kambario viduryje dar vieni laiptai kyla, formuodami aštuonkampį postamentą, kuris taip pat pakyla virš vandens. Surūdijusios grandinės su pančiais kabo nuo lubų tiesiai virš akmeninio altoriaus, pastatyto ant postamento. Altorius išraižytas bjauriais griebiančių gūlų atvaizdais ir suteptas džiūvusiu krauju. Ant jo guli mažas, baltas ryšulys, apsuptas pulsuojančių, mėsingų čiuptuvų.</p>
@@ -1039,7 +1079,7 @@ Būtybė, praryta pirmojo gumulo pavidalo, gali girdėti silpną kūdikio verksm
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Hit Points</strong> 56 (11d10 + 33)
 <br>
 <strong>Speed</strong> 20 ft.
 <hr>
@@ -1077,9 +1117,9 @@ Būtybė, praryta pirmojo gumulo pavidalo, gali girdėti silpną kūdikio verksm
 <p><strong><em>The Graveborn's Defense.</em></strong> Kai gumulo hit points nukrenta iki 0, jis išspjauna kiekvieną šiuo metu jo prarytą būtybę. (Tos būtybės atsiranda prone tuščioje erdvėje per 5 pėdas nuo gumulo.) Mėsos gumulas prasiplėšia, atskleisdamas šonkaulių narvo ertmę, kurioje yra Valteris, ir iš tos ertmės ištiesdamas kelis čiuptuvus. Tuomet gumulo statistika akimirksniu pakeičiama jo antrojo pavidalo statistika. Jo iniciatyvos skaičius nesikeičia. Perteklinė žala neperkeliama į naują pavidalą, tačiau jis išlaiko visas būsenas, kurias turėjo ankstesniame pavidale.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Mėsos gumulas atlieka du išpuolius. Vieną iš tų išpuolių jis gali pakeisti <strong><em>engulf</em></strong>. Jei aktyvi jo <strong><em>heavy sleeper</em></strong> savybė, jis negali naudoti savo <strong><em>slam</em></strong> išpuolio daugiau nei kartą, ir negali naudoti <strong><em>engulf</em></strong> tą patį ėjimą, kai naudoja <strong><em>slam</em></strong>.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, arba 10 (2d6 + 3) bludgeoning damage, jei aktyvi gumulo <strong><em>heavy sleeper</em></strong> savybė. Jei išpuolis pataiko į Medium ar mažesnį taikinį, taikinys tampa grappled (escape DC 13).</p>
-<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., iki dviejų taikinių, stovinčių per 5 ft. vienas nuo kito. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<p><strong><em>Engulf.</em></strong> Mėsos gumulas bando praryti jo grappled Medium ar mažesnę būtybę, priversdamas tą būtybę atlikti DC 13 Strength saving throw. Nesėkmės atveju praryta būtybė tampa blinded, restrained ir negali kvėpuoti, bei kiekvieno savo ėjimo pradžioje turi sėkmingai atlikti DC 13 Constitution saving throw arba patiria 8 (2d4 + 3) bludgeoning damage. Jei gumulas juda, praryta būtybė juda kartu su juo. Gumulas vienu metu gali turėti prarijęs tik vieną būtybę. Praryta būtybė kiekvieno savo ėjimo pabaigoje gali atlikti DC 13 Strength saving throw, sėkmės atveju išsivaduodama. (Išsivadavusi būtybė nebėra grappled.)</p>
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d6 + 1) bludgeoning damage, arba 6 (2d4 + 1) bludgeoning damage, jei aktyvi gumulo <strong><em>heavy sleeper</em></strong> savybė. Jei išpuolis pataiko į Medium ar mažesnį taikinį, taikinys tampa grappled (escape DC 13).</p>
+<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., iki dviejų taikinių, stovinčių per 5 ft. vienas nuo kito. <em>Hit:</em> 3 (1d4 + 1) piercing damage.
+<p><strong><em>Engulf.</em></strong> Mėsos gumulas bando praryti jo grappled Medium ar mažesnę būtybę, priversdamas tą būtybę atlikti DC 13 Strength saving throw. Nesėkmės atveju praryta būtybė tampa blinded, restrained ir negali kvėpuoti, bei kiekvieno savo ėjimo pradžioje turi sėkmingai atlikti DC 13 Constitution saving throw arba patiria 6 (2d4 + 1) bludgeoning damage. Jei gumulas juda, praryta būtybė juda kartu su juo. Gumulas vienu metu gali turėti prarijęs tik vieną būtybę. Praryta būtybė kiekvieno savo ėjimo pabaigoje gali atlikti DC 13 Strength saving throw, sėkmės atveju išsivaduodama. (Išsivadavusi būtybė nebėra grappled.)</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Rupture.</em></strong> Mėsos gumulas išsviedžia pūliuojančios mėsos pūslę, kuri pataiko į tašką per 20 pėdų nuo gumulo ir sprogsta, aptaškydama kiekvieną būtybę per 5 pėdas ėdriu krauju bei pūliais. Taikinys turi sėkmingai atlikti DC 13 Constitution saving throw arba tampa poisoned iki mėsos gumulo kito ėjimo pradžios.</p>
 <p><strong><em>Quake.</em></strong> Mėsos gumulas trenkiasi į grindis, priversdamas kambarį drebėti. Kiekviena būtybė per 10 pėdų nuo gumulo turi sėkmingai atlikti DC 13 Strength saving throw arba parkrinta prone.</p>
@@ -1096,7 +1136,7 @@ Būtybė, praryta pirmojo gumulo pavidalo, gali girdėti silpną kūdikio verksm
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Hit Points</strong> 56 (11d10 + 33)
 <br>
 <strong>Speed</strong> 20 ft.
 <hr>
@@ -1134,10 +1174,10 @@ Būtybė, praryta pirmojo gumulo pavidalo, gali girdėti silpną kūdikio verksm
 <p><strong><em>Mother's Lullaby.</em></strong> Jei žaidėjas panaudoja savo action, kad niūniuotų ar grotų *Valsą Klarai*, ir sėkmingai atlieka DC 10 Charisma (Performance) patikrinimą, gumulas atidengia savo širdį ir negali naudoti savo <strong><em>withdraw</em></strong> reaction iki to žaidėjo kito ėjimo pradžios.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Mėsos gumulas atlieka tris išpuolius, arba du išpuolius, jei aktyvi jo <strong><em>heavy sleeper</em></strong> savybė.</p>
-<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, arba 7 (1d8 + 3) bludgeoning damage, jei aktyvi gumulo <strong><em>heavy sleeper</em></strong> savybė. Jei taikinys yra būtybė, ji turi sėkmingai atlikti DC 13 Strength saving throw arba yra pritraukiama iki 15 pėdų link gumulo.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>
+<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 9 (2d6 + 2) bludgeoning damage, arba 4 (1d4 + 2) bludgeoning damage, jei aktyvi gumulo <strong><em>heavy sleeper</em></strong> savybė. Jei taikinys yra būtybė, ji turi sėkmingai atlikti DC 13 Strength saving throw arba yra pritraukiama iki 15 pėdų link gumulo.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (2d4 + 2) piercing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Gore Spray.</em></strong> Gumulas išspjauna kraują ir mėsą 15 pėdų kūgiu. Kiekviena būtybė toje zonoje turi atlikti DC 13 Dexterity saving throw. Nesėkmės atveju būtybė patiria 7 (2d6) necrotic damage ir tampa blinded iki gumulo kito ėjimo pabaigos. Sėkmės atveju būtybė patiria perpus mažiau žalos ir netampa blinded. Šio gebėjimo naudojimas atidengia gumulo širdį, leidžiant ją pulti.</p>
+<p><strong><em>Gore Spray.</em></strong> Gumulas išspjauna kraują ir mėsą 15 pėdų kūgiu. Kiekviena būtybė toje zonoje turi atlikti DC 13 Dexterity saving throw. Nesėkmės atveju būtybė patiria 5 (2d4) necrotic damage ir tampa blinded iki gumulo kito ėjimo pabaigos. Sėkmės atveju būtybė patiria perpus mažiau žalos ir netampa blinded. Šio gebėjimo naudojimas atidengia gumulo širdį, leidžiant ją pulti.</p>
 <p><strong><em>Wail.</em></strong> Kūdikio Valterio Dursto lavonas paleidžia veriantį klyksmą. Kiekviena būtybė, galinti girdėti klyksmą per 30 pėdų nuo gumulo, turi sėkmingai atlikti DC 10 Constitution saving throw arba patiria 2 (1d4) psychic damage ir tampa deafened iki gumulo kito ėjimo pabaigos. Šio gebėjimo naudojimas atidengia gumulo širdį, leidžiant ją pulti.</p>
 <h3>Reaction</h3>
 <p>Mėsos gumulas per raundą gali atlikti iki trijų reactions, tačiau ne daugiau nei vieną per ėjimą. Jei efektas ar būsena neleistų jam atlikti reactions, jis vietoj to praranda vieną reaction.</p>
