@@ -936,7 +936,7 @@ Iš spintos sklinda puvėsių aromatas, nes apačioje guli pusiau suėstos kepen
 	* 2nd level: [darkvision](https://5e.tools/spells.html#darkvision_phb), [hold person](https://5e.tools/spells.html#hold%20person_phb), [invisibility](https://5e.tools/spells.html#invisibility_phb), [magic weapon](https://5e.tools/spells.html#magic%20weapon_phb)
 	* Trumpa sekcija gale, joje rašo: "Tiem kas suras šią knygą, nesekite giedojimo. Ne eikite gilyn. Nebetikiu kad išgyvensiu šią vietą. Mano vardas Marginalija. Noriu kad kas nors tai žinotų."
 
-![[Pasted image 20260826233754.png]]
+![[Boneless stats.png]]
 
 > [!combat]- **Combat - Boneless**
 > **Kovos Lygis**: Mild
@@ -1234,6 +1234,7 @@ Jei žaidėjai bando apeiti ar pulti Gustavą, aplink jį pakyla sklandančių n
 > | 4 | <ul><li>Sumažinkite Gustavo hit points iki 18.</li><li>Sumažinkite jo ***forceful slam*** išpuolį iki 8 (3d4+1) force damage, o jo ***telekinetic thrust*** veiksmo išpuolį – iki 4 (1d8) bludgeoning damage.</li></ul> |
 > | 6 | <ul><li>Padidinkite Gustavo hit points iki 26.</li><li>Padidinkite jo ***forceful slam*** išpuolį iki 12 (3d6+2) force damage, o jo ***telekinetic thrust*** veiksmo išpuolį – iki 6 (1d12) bludgeoning damage.</li></ul> |
 
+![[Poltergeist stast.png]]
 Žaidėjai gali įtikinti Gustavą pasitraukti į šalį sėkmingai atlikę DC 20 Charisma (Intimidation) patikrinimą. Arba, jei žaidėjai užsimena apie Gustavo istoriją su Elizabeta ir Klara, jie gali įtikinti jį pasitraukti DC 10 Charisma (Persuasion) patikrinimu, sėkmingai automatiškai, jei parodo jam empatiją ar gerumą arba jei paprašo Rouzės ir Torno dvasių padėti jų prašymui.
 
 Jei žaidėjams pavyksta įtikinti Gustavą pasitraukti, jis įspėja juos, kad „kiti jos tarnai" laukia pasaloje priekyje, kad užtvertų žaidėjams pabėgimo kelią. „Nebijokite jų," – sako jis. „Vienintelė jų galia yra baimė." Tuomet jis išnyksta.
