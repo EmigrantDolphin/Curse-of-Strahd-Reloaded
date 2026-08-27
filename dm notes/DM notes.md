@@ -76,6 +76,7 @@ Visą laik gyventi siaubo atmosferoje tampa sunku, tai karts nuo karto reik ir p
 #### Vaizdas
 * Paruošti laiškus
 * Paruošti nuotraukas
+* Muzika namui: https://www.youtube.com/watch?v=I0rIBXLrzlE
 * Muzika požemiui https://www.youtube.com/watch?v=JjNIwJqlLEM&list=RDJjNIwJqlLEM&start_radio=1
 
 #### Intro žaidėjams

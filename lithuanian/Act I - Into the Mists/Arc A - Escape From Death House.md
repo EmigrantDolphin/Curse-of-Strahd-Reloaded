@@ -88,7 +88,7 @@ Jei vienas ar daugiau jūsų žaidėjų naudoja [[Running the Adventure#Nuotykio
 ### Įėjimas
 <span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
 
-Ant sienos kabo dekoratyvinis skydas su malūno atvaizdu raudoname fone. Aplink šį šydą yra pakabinti įrėminti aristokratų portretai.
+Ant sienos kabo dekoratyvinis skydas su malūno atvaizdu raudoname fone. Aplink šį šydą yra pakabinti įrėminti aristokratų portretai, (visi yra vyrai).
 Raudonmedžio durys veda į namo vidų 
 
 > [!lore]+ **Strahdas ir Kultas**
@@ -1020,22 +1020,25 @@ Medinis ratas, atidarantis grotas, lieka vakarinėje vartų pusėje (t. y., pus�
 Vanduo yra 2 pėdų gylio ir turėtų būti laikomas sunkia vietove (**difficult terrain** (1 ft = 2 ft cost)) **Medium** ar mažesnėms būtybėms. Lipimas iš baseino ant atbrailų taip pat laikomas sunkia vietove. Kai žaidėjai įžengia į šį kambarį, perskaitykite:
 
 <div class="description">
-<p>Lygios mūrinės šio keturiasdešimties pėdų kvadrato kambario sienos suteikia puikią akustiką. Lubas laiko beveidžiai akmeniniai stulpai, o didžiąją grindų dalį dengia drumzlinas vanduo. Laiptai veda aukštyn į sausas akmenines atbrailas, besiglaudžiančias prie sienų. Kambario viduryje dar vieni laiptai kyla, formuodami aštuonkampį postamentą, kuris taip pat pakyla virš vandens. Surūdijusios grandinės su pančiais kabo nuo lubų tiesiai virš akmeninio altoriaus, pastatyto ant postamento. Altorius išraižytas bjauriais griebiančių gūlų atvaizdais ir suteptas džiūvusiu krauju. Ant jo guli mažas, baltas ryšulys, apsuptas pulsuojančių, mėsingų čiuptuvų.</p>
+<p>Sienos lygios, suteikiančios gerą akustiką. </p>
+<p>Lubas laiko akmeniniai stulpai</p>
+<p>Didžiąją grindų dalį dengia drumzlinas vanduo. </p>
+<p>Kambario viduryje  yra pakylą. Ant jos stovi akmeninis altorius, o virš jo kabo surūdyjusios grandinės su pančiais. Altorius išraižytas bjauriais ghoul'ų atvaizdais ir suteptas išdžiūvusiu krauju. Ant jo guli mažas, baltas ryšulys, apsuptas pulsuojančių, mėsingų čiuptuvų.</p>
 <p>Čiuptuvai driekiasi iki angos tolimojoje sienoje, vedančios į tamsų urvą, jų mėsingos masės jungiasi su tamsiu, gremėzdišku šešėliu, gulinčiu viduje, jo ištinusi masė kyla ir leidžiasi lėtu, virpančiu ritmu.</p>
 <p>Vos tik įžengiate į kamerą, vaiduokliškas giedojimas, kurį girdėjote, staiga nutyla.</p>
 </div>
 
-Žaidėjas, priartėjęs prie altoriaus, mato, kad žodžiai „MAITINKITE JĮ" išraižyti jo plokščiame akmeniniame paviršiuje tiesiai po baltu ryšuliu, apsupti kelių mėsingų čiuptuvų su įsodintais žmogaus dantimis. Čiuptuvai priklauso **mėsos gumului** (žr. žemiau), kuris pabunda ir puola, jei čiuptuvai sužalojami.
+**Priartėjęs prie altoriaus**, mato and jo išraižytus žodžius "maitinkite jį". Prie žodžių guli baltas ryšulys apsuptas čiuptuvų. (Sužeidus čiuptuvą mėsos gumulas puola).
 
-Ryšulys ant altoriaus yra kūdikio, suvystyto vystyklais, dydžio ir formos. Jei jis išvyniojamas, žaidėjai vietoj to randa jame surūdijusį, dantytą durklą, raudonai suteptą senovišku krauju.
+**Ryšulys ant altoriaus** - dydis - suvystyto kūdikio. **Viduje**, surūdijusį, dantytą durklą, suteptas raudonu senovišku krauju.
 
-Tamsus šešėlis urve yra **mėsos gumulas**, kuriame yra Valterio dvasia ir palaikai.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> Tai ištinusi, išpampusi kaulų, mėsos ir kraujo krūva, kuri tarsi kvėpuoja, jos masei kylant ir leidžiantis. Žaidėjas, ją stebintis, daro išvadą, kad ji, atrodo, miega.
+Tamsus šešėlis urve yra **mėsos gumulas**, kuriame yra Valterio dvasia ir palaikai.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> Tai ištinusi, išpampusi kaulų, mėsos ir kraujo krūva, kuri tarsi kvėpuoja, jos masei kylant ir leidžiantis. Žaidėjas, ją stebintis, daro išvadą, kad ji, atrodo, **miega**.
 
-Kultistų šešėliai, aprašyti <span class="citation">"One Must Die!" (p. 220)</span>, nepasirodo, kai žaidėjas užlipa ant altoriaus. Vietoj to žaidėjai turi du pasirinkimus: paaukoti gyvą būtybę ant altoriaus arba pulti mėsos gumulą.
+Paaukoti gyvą būtybę ant altoriaus arba pulti mėsos gumulą.
 
-Jei būtybė paaukojama ant altoriaus, mėsos gumulo čiuptuvai priima jos lavoną ir nutempia jį į gumulo guolį. Ten gumulas jį netvarkingai suryja, prieš grąžindamas savo čiuptuvus atgal prie altoriaus. Gumulo maitinimas neišlaisvina žaidėjų, nes jo alkio numalšinti neįmanoma.
+Jei būtybė **paaukojama ant altoriaus**, mėsos gumulo čiuptuvai priima jos lavoną ir nutempia jį į gumulo guolį. Ten gumulas jį netvarkingai suryja, prieš grąžindamas savo čiuptuvus atgal prie altoriaus. Gumulo maitinimas neišlaisvina žaidėjų, nes jo alkio numalšinti neįmanoma.
 
-Mėsos gumulas pabunda, jei yra puolamas. Kai tai įvyksta, jo cypiantis kauksmas priverčia žemę drebėti, nusiųsdamas [[#Grotos]] trenksmu žemyn, jei jos buvo atidarytos, ir sugadindamas už jų atidarymą atsakingą mechanizmą.
+**Mėsos gumulas pabunda**,  - jo cypiantis kauksmas priverčia žemą sudrebėti, o tai uždaro grotas ir sulaužo mechanizma. (if applicable)
 
 Kovoje mėsos gumulas pradeda savo pirmuoju pavidalu, **mėsos gumulu**. Vieną minutę po pabudimo mėsos gumulo **_heavy sleeper_** savybė sumažina jo ***multiattack*** veiksmų galią abiem pavidalais. Jei puolamas miegodamas, mėsos gumulas turės ***Surprised*** būseną.
 
