@@ -164,7 +164,7 @@ Dabar, kaip naujasis gaujos vadas ir ištikimas Strahdo tarnas, Kirilas veda sav
 
 Gintaro Šventyklos liekanos nėra sąmoningos taip, kaip dauguma įsivaizduoja; kaip nykstantys mirusių dievų likučiai, jos yra tik piktavalės galios nuolaužos, plačiau aprašytos <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>, <span class="citation">Amber Sarcophagi (p. 191)</span> ir <span class="citation">X33. Amber Vaults (p. 191)</span>.
 
-Vis dėlto ne viskas, kas gali amžinai gulėti, yra mirę. Iš savo gintaro kapų šalčio šios liekanos sapnuoja apie galią, kurią kadaise valdė – ir apie kelią į atnaujintą apoteozę. Jų gintaro sarkofagų skeveldros išbarstytos po visą Barovijos žemę, kiekviena skeveldra nešiojanti psichinį ryšį su liekana, kurią kadaise įkalino. Per šias skeveldras liekanos gali šnabždėti iškrypimo žodžius, žadėdamos galią be kainos. Tai melas: nėra galios be kainos, o tamsos nuoplaišos, kurias siūlo liekanos, iškreipia ir perkeičia savo gavėjus – iš pradžių subtiliai, tačiau laikui bėgant vis siaubingiau augdamos.
+Vis dėlto ne viskas, kas gali amžinai gulėti, yra mirę. Iš savo gintaro kapų šalčio šios liekanos sapnuoja apie galią, kurią kadaise valdė – ir apie kelią į atnaujintą apoteozę. Jų gintaro sarkofagų skeveldros išbarstytos po visą Barovijos žemę, kiekviena skeveldra nešiojanti psichinį ryšį su liekana, kurią kadaise įkalino. Per šias skeveldras liekanos gali šnabždėti korupcijos žodžius, žadėdamos galią be kainos. Tai melas: nėra galios be kainos, o tamsos nuoplaišos, kurias siūlo liekanos, iškreipia ir perkeičia savo gavėjus – iš pradžių subtiliai, tačiau laikui bėgant vis siaubingiau augdamos.
 
 Elizabeta Durst iš Mirties Namų kadaise nešiojo vieną iš šių gintaro skeveldrų; Izekas Strazni iš Vallakio šiandien turi vieną. Tačiau šios skeveldros yra tik vartai – per mažus galios ragavimus liekanos tikisi privilioti savo aukas prie pačios Gintaro Šventyklos. Ten liekanos gali pasiūlyti savo didžiausias tamsiąsias dovanas – ir taip pasiglemžti savo tikrąją kainą ir prizą: aukos sielos nuolaužą.
 
@@ -232,7 +232,7 @@ Tuo tarpu, barovijiečių pabėgėliai buvo pridėti už Vallakio sienų, siekia
 
 „Gerieji" Soldavo Kalnų Žmonės buvo pridėti, siekiant suteikti žaidėjams prasmingą galimybę sužinoti pamišusių Vakarykščiosios Kalvos druidų istoriją ir įtraukti žaidėjus į Fanų Ponių siužeto liniją – pasakojimo šaką, kuri dabar vaidina esminį vaidmenį galutiniame Strahdo plane.
 
-Galiausiai, naujausia vilkolakių gaujos istorija buvo atnaujinta, siekiant ją stipriau susieti su neseno Strahdo pabudimo pasakojimu, o gintaro liekanoms buvo suteiktos „gintaro skeveldros," siekiant supažindinti žaidėjus su jų iškrypimu kur kas ankstesniu laiko momentu nei originaliame modulyje.
+Galiausiai, naujausia vilkolakių gaujos istorija buvo atnaujinta, siekiant ją stipriau susieti su neseno Strahdo pabudimo pasakojimu, o gintaro liekanoms buvo suteiktos „gintaro skeveldros," siekiant supažindinti žaidėjus su jų korupcija kur kas ankstesniu laiko momentu nei originaliame modulyje.
 
 ***Religijos.*** Ezros kultas buvo pridėtas prie kampanijos, siekiant suteikti daugiau gilumo Fionos Wachter charakteriui ir iš anksto numatyti tikrąją Tamsiųjų Galių prigimtį prieš Ireenai jas sutinkant ir joms pasipriešinant savo charakterio lanko kulminacijoje.
 

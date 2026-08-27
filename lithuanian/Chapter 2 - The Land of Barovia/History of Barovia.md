@@ -16,7 +16,7 @@ Dvi iš Ponių apdovanojo savo ištikimiausius garbintojus likantropijos dovana:
 
 Kartu Audėja, Medžiotoja ir Ieškotoja tapo žinomos kaip Trys Ponios. Joms pagerbti Pirmoji Tauta pastatė tris šventas šventyklas, arba fanus, gamtos galios vietose – Pelkės Faną, Miško Faną ir Kalno Faną.[^1] Šie fanai tarnavo kaip deivių galios kanalai, leisdami joms vaikščioti tarp savo garbintojų ir prisirišti prie žemės, kurią mylėjo.
 
-Tačiau Pirmoji Tauta nepastatė šventyklos Sapnuotojai, per daug bijodama jos niūrios srities, kad įsileistų ją į savo palapines ir maldas. Apkartusi ir įsiutusi, Sapnuotoja pasidavė pavydui ir žavesiui – o Motinos Nakties, didžiosios tamsos deivės, šnabždesiai įviliojo ją į iškrypimą.
+Tačiau Pirmoji Tauta nepastatė šventyklos Sapnuotojai, per daug bijodama jos niūrios srities, kad įsileistų ją į savo palapines ir maldas. Apkartusi ir įsiutusi, Sapnuotoja pasidavė pavydui ir žavesiui – o Motinos Nakties, didžiosios tamsos deivės, šnabždesiai įviliojo ją į sugedimą.
 
 Sapnuotoja atsisakė savo vietos tarp seserų ir tapo Rajūne – šešėline, iškreipta būtybe, kurios alkis neturėjo ribų. Jos ledinės nagos siekė Pirmosios Tautos dvasių, paversdamos sapnus begalinėmis košmarais, kai ji pasiglemždavo pačias jų sielas.
 
@@ -26,13 +26,13 @@ Nors Pirmoji Tauta pirmoji pasisavino slėnį, ji toli gražu nebuvo paskutinė.
 
 Kai piktosios jėgos ėmė siekti pasisavinti liekanų galią, magai nusprendė patys saugoti Šventyklą ir nutiesė kelią nuo Šventyklos per kalnus, kad galėtų gabenti atsargas. Jai apsaugoti jie pastatė gynybinius įtvirtinimus, aprašytus <span class="citation">T1. Gatehouse Portcullis</span>, <span class="citation">T2. Demon Statues</span> ir <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, išilgai vingiuotos Tsolenkos perėjos.
 
-Tačiau šie įtvirtinimai negalėjo apsaugoti pačių magų nuo liekanų iškrypimo. Kai kuriems magams atsisakius tradicijų ir leidus smalsumui juos užvaldyti, prasidėjo paranoja ir tarpusavio kova. Per tris kartas visi magai žuvo, palikdami tik savo vaiduoklius klaidžioti koridoriais.
+Tačiau šie įtvirtinimai negalėjo apsaugoti pačių magų nuo liekanų korupcijos. Kai kuriems magams atsisakius tradicijų ir leidus smalsumui juos užvaldyti, prasidėjo paranoja ir tarpusavio kova. Per tris kartas visi magai žuvo, palikdami tik savo vaiduoklius klaidžioti koridoriais.
 ## Pirmosios Tautos Žlugimas
 Septynios Pirmosios Tautos gentys ilgą laiką gyveno atskirai viena nuo kitos, kol vieną dieną jaunas, impulsyvus karys, vardu Kavanas, įžengė į Šnabždančiąją Sieną, trokšdamas įkelti koją į jos uždraustus rūkus. Rūke Kavanas išvydo didybę – *savo* didybę – ir išėjo su gilia bei baisia ambicija.
 
 Kavanas tapo savo genties karvedžiu ir nuvedė savo žmones nuo Balinoko kalnų šlaitų, kariaudamas kruviną karą, kad suvienytų Pirmąją Tautą po viena vėliava. Rajūnei šnabždant jam į ausį per Šnabždančiosios Sienos rūką, jis pavogė Medžiotojos šventąją ietį iš Miško Fano ir pamerkė ją kraujo tvenkinyje, kad palenktų jos galią savo valiai. Su Motinos Nakties palaiminimu Kavano ietis gėrė kraują iš jo priešų ir maitino jų jėga savo valdytoją; už tai Kavanas buvo vadinamas Kraujageriu, o jo ietis – *Kraujadygliu*.
 
-Kavano užkariavimai suvienijo gentis, bet sulaužė jų šventąją taiką. Ponių žodžiai vėjuje tapo liūdni ir tylūs, kai jų kunigai – druidai, atlikdavę šventuosius ritualus – atsidūrė Kavano karių kastos savivalės ir paniekos valioje. Wolfir pabėgo į miškus, o varnalakiai – į kalnus. Bijodami iškrypimo, kurį Kavanas galėjo joms sukelti, vyriausieji Audėjos druidai patikėjo jos gyvybę teikiančius brangakmenius varnalakiams saugoti, užtikrindami, kad jų galios paslaptys mirs kartu su jais.
+Kavano užkariavimai suvienijo gentis, bet sulaužė jų šventąją taiką. Ponių žodžiai vėjuje tapo liūdni ir tylūs, kai jų kunigai – druidai, atlikdavę šventuosius ritualus – atsidūrė Kavano karių kastos savivalės ir paniekos valioje. Wolfir pabėgo į miškus, o varnalakiai – į kalnus. Bijodami korupcijos, kurią Kavanas galėjo joms sukelti, vyriausieji Audėjos druidai patikėjo jos gyvybę teikiančius brangakmenius varnalakiams saugoti, užtikrindami, kad jų galios paslaptys mirs kartu su jais.
 
 Kavanas valdė Pirmąją Tautą geležine ranka, tačiau gyveno pakankamai ilgai, kad išvystų savo imperijos žlugimą. Kavano gyvenimo saulėlydyje, kai jo vaikai vaidijosi ir kovojo dėl sosto, į slėnį nusileido nauja jėga: karalius Dostronas, žiaurus ir ambicingas monarchas, aprašytas <span class="citation">Crypt 34: King Dostron the Hellborn (p. 92)</span>, siekė pasisavinti Barovijos spindesį savo netolimai karalystei. Jis įsiveržė į slėnį, išžudė jo gyventojus ir be jokios pagarbos išniekino jų šventąsias vietas.
 

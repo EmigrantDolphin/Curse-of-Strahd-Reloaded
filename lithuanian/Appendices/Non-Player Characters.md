@@ -138,7 +138,7 @@
 
 ***Emocijos.*** Dažniausios Ponios Evos emocijos yra pralinksmėjimas, iškilmingumas, susirūpinimas ir apmąstymas.
 
-***Motyvacijos.*** Ponia Eva nori pamatyti Barovijos žemę išgydytą ir išlaisvintą nuo Strahdo iškrypimo.
+***Motyvacijos.*** Ponia Eva nori pamatyti Barovijos žemę išgydytą ir išlaisvintą nuo Strahdo korupcijos.
 
 ***Įkvėpimai.*** Vaidindami Ponią Evą, įsivaizduokite Senolę (Doctor Strange) ir Likimo Deives (Heraklis).
 
@@ -810,7 +810,7 @@
 
 ***Ryšiai.*** Rahadinas yra Ravenlofto Pilies valdytojas, Strahdo von Zarovičiaus įbrolis, prieblandos elfo Kazimiero Velikovo pusbrolis, velionio prieblandos elfų princo Erevano Lövenharto sūnus (ašmens, kuris vėliau taps *Saulės Ašmeniu*, pirmojo savininko) ir prieblandos elfų moterų žudikas (išskyrus **klykuolę** Patriną Velikov, kurią nužudė jos brolis Kazimieras).
 
-### Prieš Iškrypimą
+### Prieš Korupciją
 
 <div class="statblock">
 <h2>Rahadinas, Pilies Valdytojas</h2>
@@ -936,7 +936,7 @@
 <p><strong><em>Amulet of Ravenloft (1/day, tik Ravenlofto Pilyje).</em></strong> Kai Rahadino hit points sumažinami iki 50 ar mažiau, jis gali panaudoti savo reaction, kad nutrauktų visus jį šiuo metu veikiančius efektus, ir panaudoti <em>Amulet of Ravenloft</em> (žr. žemiau). Jei jo hit points buvo sumažinti iki 0, jis vietoj to nukrenta iki 1 hit point ir patiria vidinę traumą, kaip aprašyta <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. Tuomet jis gali nusijudinti iki savo greičio, nesukeldamas opportunity attacks.</p>
 </div>
 
-### Po Iškrypimo
+### Po Korupcijos
 <div class="statblock">
 <h2>Rahadinas, Gintaro Paliestas</h2>
 <em>Medium humanoid (elf), lawful evil</em>
@@ -998,7 +998,7 @@
 </div>
 
 <div class="statblock">
-<h2>Rahadinas, Iškrypėlis</h2>
+<h2>Rahadinas, Sugadintasis</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
