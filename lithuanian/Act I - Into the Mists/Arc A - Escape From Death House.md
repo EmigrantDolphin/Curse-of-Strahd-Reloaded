@@ -718,7 +718,7 @@ Skrynios gali būti atidarytos su thieves tools ir DC 15 Dex check.
 25B - 3 samaniniai agatai (10gp each)
 25C - juodas odinis akies raištis su įsiutu karleonu jame (50gp)
 25D - šukos su sidabriniais spygliukais (25 gp)
-25E - Knyga purvinu juodu odiniu viršeliu. Pasirašytas dienoraštis "Draša" vardu. Jame vardų sąrašas su aprašymais kas įvyko jo aukojimo metu. "smarkiai priešinosi", "raminamųjų neduota" ir visi baigiasi fraze "Atiduotas Valteriui"
+25E - Knyga purvinu juodu odiniu viršeliu. Pasirašytas dienoraštis "Draša" vardu. Jame vardų sąrašas su aprašymais kas įvyko jų aukojimo metu. "smarkiai priešinosi", "raminamųjų neduota" ir visi baigiasi fraze "Atiduotas Valteriui"
 
 
 ### Paslėpta Duobė su Smaigais
@@ -739,7 +739,7 @@ Skrynios gali būti atidarytos su thieves tools ir DC 15 Dex check.
 <span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
 
 <div class="description">
-<p>Šiame kambaryje stovi paprastas medinis stalas, iš šonų apsuptas ilgų suolų. Ant purvinų grindų išmėtyti supelyję humanoidų kaulai. Šį kambarį užpildo tirštas puvėsių ir kraujo dvokas, toks kad jaučiate jį ant liežuvio.</p>
+<p>Šiame kambaryje stovi paprastas medinis stalas, iš šonų apsuptas ilgų suolų. Ant purvinų grindų išmėtyti supelyję humanoidų kaulai. Šiam kambaryje jaučiasi tirštas puvėsių ir kraujo dvokas, toks kad jaučiate jį ant liežuvio.</p>
 <p>
 Kambario gale, nišoje, yra sukrauta krūva supelyjusių kaulų. Tiek daug kad sukuria kaulų piramidę</p>
 </div>
@@ -800,7 +800,7 @@ Primink kad giedojimas garsesnis iš laiptų žemyn pusės
 
 </div>
 
-Atsistojus ant T prisikelia 2 arba 1 Ghoul'as ant S
+Atsistojus ant T prisikelia 1 Ghoul'as ant S
 
 ![[Ghoulish Encounter Map.png]]
 > [!combat]- **Combat - Ghouls**
@@ -828,7 +828,7 @@ Gūlams puolant, jie beprasmiškai kartoja bet kurią ar visas šias frazes:
 
 * „Gražūs. Mes tokie gražūs."
 * „Mes tobuli. Mes nemirtingi."
-* „Padėkite mums gyventi a   mžinai."
+* „Padėkite mums gyventi amžinai."
 
 Jei žaidėjai eina toliau koridoriumi, perskaitykite:
 
@@ -864,6 +864,8 @@ Kai to klausaisi tavo šešėlis ima **raitytis** ir **sukiotis**, plėšytis, t
 * „Nežvelkite į mus."
 * „Grąžinkite Tamsiojo Valdovo auką!"
 
+**The [crystal orb](https://5e.tools/items.html#orb_phb) is worth 25 gp**. It can be used as an arcane focus but is not magical.
+
 **Kai visi šešėliai pabunda** - jie puola, kiekvienas šešėlis mieliau taikydamasis į skirtingą žaidėją.
 **Jei rutulys grąžinamas į savo vietą** - ant statulos, šešėliai grįžta į pradines pozicijas ir vėl tampa neaktyvūs.
 
@@ -894,9 +896,11 @@ Remind of search action
 **Jei ieško paslapčių** - DC 10 Wisdom (Perception) check ir surandi slaptą liuką vedantį į medžiotojų menę.
 
 <div class="description">
-<p>Moliniai laiptai baigiasi ankšta aikštele. Šešios pėdos virš žemės pusiau supuvusios lubos iš glaudžiai suglaustų lentų laiko uždarytą medinį liuką, vedantį į viršutinį aukštą. Liukas užsklęstas iš šios pusės.</p>
+<p>Moliniai laiptai veda prie kopečių. </p>
 </div>
-
+* Šešios pėdos lipimo.
+* Užlipi iki liuko užrakinto už sklęstės tavo pusėje.
+* Atidarius atsirandi medžiotojų menėje.
 ### Kulto Vadovo Guolis
 <span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
  
@@ -921,7 +925,7 @@ Medinis stalas, ant jo molinis ąsotis su dviem bokalais. Kampuose geležinės �
 **Spintoje** - keli seni apsiaustai, pora geležinių žvakidžių ir atidaryta dėžė su 30 deglų bei odinis maišas su 15 žvakių. 
 Iš spintos sklinda puvėsių aromatas, nes apačioje guli pusiau suėstos kepenys ir apgraužtos žarnos.
 
-**Skrynioje** - ant viso kito skrynios turinio guli Gustavo Dursto oda. Ir ji tave puola. Kai skrynia atidaroma, **boneless** iššoka pulti artimiausios būtybės.
+**Skrynioje** - žmogaus nulupta oda (kojos, rankos, subinė, galva su plaukais, guli tarsi numesti rūbai. Po oda matosi kiti daiktai. Bet nespėji įsižiūrėt, jo galva pasisuka į tave, atpažįsti Gustavo Dursto veidą ir jis tave puola).
 
 **Lobis skrynioje** - 
 *  [cloak of protection](https://5e.tools/items.html#cloak%20of%20protection_dmg) (attune needed) - +1 AC ir +1 prie saving throws kai ją dėvi
@@ -934,7 +938,7 @@ Iš spintos sklinda puvėsių aromatas, nes apačioje guli pusiau suėstos kepen
 * (Knyga su geltonu odiniu viršeliu) Burtų knyga
 	* 1st level: [disguise self](https://5e.tools/spells.html#disguise%20self_phb), [identify](https://5e.tools/spells.html#identify_phb), [mage armor](https://5e.tools/spells.html#mage%20armor_phb), [magic missile](https://5e.tools/spells.html#magic%20missile_phb), [protection from evil and good](https://5e.tools/spells.html#protection%20from%20evil%20and%20good_phb)
 	* 2nd level: [darkvision](https://5e.tools/spells.html#darkvision_phb), [hold person](https://5e.tools/spells.html#hold%20person_phb), [invisibility](https://5e.tools/spells.html#invisibility_phb), [magic weapon](https://5e.tools/spells.html#magic%20weapon_phb)
-	* Trumpa sekcija gale, joje rašo: "Tiem kas suras šią knygą, nesekite giedojimo. Ne eikite gilyn. Nebetikiu kad išgyvensiu šią vietą. Mano vardas Marginalija. Noriu kad kas nors tai žinotų."
+	* Trumpa sekcija gale, joje rašo: "Tiem kas suras šią knygą, nesekite giedojimo. Ne eikite gilyn. Nebetikiu kad išgyvensiu šią prakeiktą vietą. Mano vardas Marginalija. Noriu kad kas nors tai žinotų."
 
 ![[Boneless stats.png]]
 
@@ -963,7 +967,9 @@ Iš spintos sklinda puvėsių aromatas, nes apačioje guli pusiau suėstos kepen
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
 
 <div class="description">
-<p>Prie žemės glaudžiasi plonas, plaukiojantis rūkas, o mediniai skersiniai, laikantys lubas, dejuoja nuo namo ir požeminio komplekso svorio.</p>
+Nusileidžiat į gan erdvią vietą
+<p>Prie žemės plaukioja plonas rūkas</p>
+<p> Medinės kolonos, laikantys lubas, dejuoja nuo namo ir požeminio komplekso svorio.</p>
 <p>Šio kambario sienos iškaltos mažomis nišomis, kiekvienoje jų – keistas, šiurpus niekutis ar relikvija. </p>
 <p>Veda du keliai, vienas iš jų yra 20 ft nuolydis į juodą drumzliną vandenį. Ir giedojimas kurį jūs pastoviai girdite, sklinda kaip tik iš ten.</p>
 <p>Matter of fact, jis taip arti, kad pagaliau galite suprasti žodžius.</p>
@@ -1005,7 +1011,7 @@ Iš spintos sklinda puvėsių aromatas, nes apačioje guli pusiau suėstos kepen
 
 <div class="description">
 <p>
-Grindys paskendusios po 2 pėdų tamsiu, drumzlinu vandeniu, jums kažkur iki blauzdų. Praėjimą toliau blokuoja surūdijusios pakeliamos geležinės grotos. Už jų matosi tamsoje paskendęs žymiai erdvesnis kambarys su pedestalu viduje išlindusiu iš vandens ir riedantis rūko debesis..</p>
+Grindys paskendusios po 2 pėdų tamsiu, drumzlinu vandeniu, jums kažkur iki blauzdų. Praėjimą toliau blokuoja surūdijusios pakeliamos geležinės grotos. Už jų matosi tamsoje paskendęs žymiai erdvesnis kambarys su pedestalu viduje išlindusiu iš vandens. Viskas sklendi rūke</p>
 <p>
 Jei teisingoje pozicijoje, šone taip pat matai medinį ratą šone
 </p>
