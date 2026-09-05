@@ -1,2 +1,11 @@
 Rasa - tikėjimas
 Kukliame žmonių kaimelyje gyveno pora. Daugelį metų jie bandė susilaukti vaikų. Vieną ankstyvą pavasario rytą pievoje šalia namų jie rado kūdikį. Kad ir kas ją ten atnešė, nepaliko nei raštelio, nei pėdsakų – tik medalioną, kuriame atvaizduotas saulėtekis, ir naujagimę elfę tviskančią rytmečio rasoje. Pora ją taip ir praminė: Rasa. Apart kasdienių kaimo darbų Rasa buvo ruošiama tarnystei Aušros Dievo bažnyčioje. Tačiau tėvams pasenus užklupo gyvenimo rūpesčiai ir nebeliko tam laiko. Prieš mirtį mama ilgai ir sunkiai sirgo. Po mamos, ilgai netrukus teko palaidoti ir tėtį. **Metams bėgant elfė išlydėjo anapilin visus, kuriuos pažinojo,** ir daugeliui iš jų padėjo sutikti mirtį, numalšindama skausmus ar tiesiog būdama jų draugijoje. Tokiu būdu Rasa atrado save **tarnaujant kitam dievui – tam, kuris prižiūri slenkstį tarp gyvybės ir mirties.**
+
+### Combat info
+
+Domain: Grave Domain
+
+**Circle of Mortality** - When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
+**Circle of Mortality** - you learn the [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+**Eyes of the Grave** - As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+**Channel Divinity: Path to the Grave** - As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.
