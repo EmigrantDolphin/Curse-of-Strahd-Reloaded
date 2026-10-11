@@ -1,0 +1,9 @@
+# Grappling
+
+When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.  
+  
+The target of your grapple must be no more than one [size](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_18) larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a [Strength (Athletics) check](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_13) contested by the target’s Strength (Athletics) or [Dexterity (Acrobatics) check](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_18) (the target chooses the ability to use). If you succeed, you subject the target to the [grappled](https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_5) condition (see [Conditions](https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#content) ). The condition specifies the things that end it, and you can release the target whenever you like (no action required).  
+  
+**Escaping a Grapple**: A grappled creature can use its action to escape. To do so, it must succeed on a [Strength (Athletics)](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_13) or [Dexterity (Acrobatics) check](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_18) contested by your Strength (Athletics) check.  
+  
+**Moving a Grappled Creature**: When you [move](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_9), you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more [sizes](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_18) smaller than you.

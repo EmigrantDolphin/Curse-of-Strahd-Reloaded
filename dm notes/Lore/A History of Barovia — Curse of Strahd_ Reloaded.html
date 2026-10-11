@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>A History of Barovia — Curse of Strahd: Reloaded</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#ebe7ec; --bg2:#f6f3f6; --ink:#2a2230; --soft:#5d5264; --rule:#cbc2cf;
+  --moss:#4f6b3f; --silver:#566476; --blood:#8e1d28; --violet:#5e4478; --mist:#66646f; --amber:#9a6512;
+  --glow:rgba(154,101,18,.18);
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#1f1a23; --bg2:#29232e; --ink:#ebe4ec; --soft:#b2a7b7; --rule:#453b4c;
+    --moss:#8ea676; --silver:#a9b6c4; --blood:#c9434f; --violet:#a888c2; --mist:#a3a1ae; --amber:#e0a33a;
+    --glow:rgba(224,163,58,.22);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#1f1a23; --bg2:#29232e; --ink:#ebe4ec; --soft:#b2a7b7; --rule:#453b4c;
+  --moss:#8ea676; --silver:#a9b6c4; --blood:#c9434f; --violet:#a888c2; --mist:#a3a1ae; --amber:#e0a33a;
+  --glow:rgba(224,163,58,.22);
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Alegreya",Georgia,"Times New Roman",serif;
+  font-size:1.0625rem;line-height:1.6;
+}
+a{color:inherit}
+a:focus-visible{outline:2px solid var(--amber);outline-offset:3px;border-radius:2px}
+
+/* ---------- hero ---------- */
+header{
+  position:relative;overflow:hidden;
+  padding:5.5rem 1.5rem 3.5rem;text-align:center;
+}
+header::before{ /* the mists */
+  content:"";position:absolute;inset:auto -20% -40% -20%;height:90%;
+  background:
+    radial-gradient(ellipse 40% 50% at 20% 60%, color-mix(in srgb,var(--mist) 22%,transparent), transparent 70%),
+    radial-gradient(ellipse 45% 45% at 75% 70%, color-mix(in srgb,var(--mist) 18%,transparent), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 90%, color-mix(in srgb,var(--mist) 25%,transparent), transparent 70%);
+  filter:blur(8px);pointer-events:none;
+  animation:drift 22s ease-in-out infinite alternate;
+}
+@keyframes drift{from{transform:translateX(-3%)}to{transform:translateX(3%)}}
+@media (prefers-reduced-motion:reduce){header::before{animation:none}}
+.kicker{font-family:"IM Fell English",Georgia,serif;font-style:italic;color:var(--soft);font-size:1.15rem;margin:0 0 .4rem;position:relative}
+h1{
+  font-family:"IM Fell English",Georgia,serif;font-weight:400;
+  font-size:clamp(3.4rem,11vw,7.5rem);line-height:.95;margin:0;letter-spacing:.01em;position:relative;
+}
+.sub{max-width:34rem;margin:1.25rem auto 0;color:var(--soft);position:relative}
+.calendar{
+  max-width:36rem;margin:2rem auto 0;position:relative;
+  font-size:.95rem;color:var(--soft);
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.8rem 0;
+}
+.calendar b{color:var(--ink);font-weight:500}
+
+/* ---------- era nav ---------- */
+nav{
+  position:sticky;top:0;z-index:5;
+  background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
+  padding-top:env(safe-area-inset-top,0px);
+  border-bottom:1px solid var(--rule);
+}
+nav ol{
+  list-style:none;margin:0 auto;padding:.55rem 1rem;max-width:64rem;
+  display:flex;gap:.35rem 1.1rem;justify-content:center;flex-wrap:wrap;
+  font-family:"IM Fell English",Georgia,serif;font-size:1rem;
+}
+nav a{text-decoration:none;display:inline-flex;align-items:center;gap:.45rem;color:var(--soft)}
+nav a:hover{color:var(--ink)}
+nav a i{width:.55rem;height:.55rem;transform:rotate(45deg);background:var(--c);display:inline-block}
+
+/* ---------- ladies ---------- */
+.ladies{max-width:58rem;margin:3.5rem auto 0;padding:0 1.5rem}
+.ladies h2{font-family:"IM Fell English",Georgia,serif;font-weight:400;font-size:1.9rem;text-align:center;margin:0}
+.ladies p.lede{text-align:center;color:var(--soft);max-width:34rem;margin:.4rem auto 1.6rem}
+.sisters{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.sister{background:var(--bg2);padding:1.1rem 1rem 1.2rem;text-align:center}
+.sister svg{width:2.2rem;height:2.2rem;color:var(--moss);display:block;margin:0 auto .4rem}
+.sister h3{font-family:"IM Fell English",Georgia,serif;font-weight:400;font-size:1.3rem;margin:0}
+.sister .season{font-style:italic;color:var(--soft);font-size:.95rem}
+.sister p{margin:.45rem 0 0;font-size:.93rem;line-height:1.45}
+.sister.fallen{background:color-mix(in srgb,var(--bg2) 70%,var(--violet) 8%)}
+.sister.fallen svg{color:var(--violet)}
+@media (max-width:760px){.sisters{grid-template-columns:repeat(2,1fr)}}
+
+/* ---------- timeline ---------- */
+main{max-width:64rem;margin:0 auto;padding:3rem 1.25rem 4rem;position:relative}
+.spine{
+  position:absolute;top:3rem;bottom:4rem;left:50%;width:3px;transform:translateX(-50%);
+  background:linear-gradient(to bottom,
+    var(--moss) 0%, var(--moss) 24%,
+    var(--silver) 30%, var(--silver) 40%,
+    var(--blood) 44%, var(--blood) 60%,
+    var(--violet) 63%, var(--violet) 78%,
+    var(--mist) 81%, var(--mist) 90%,
+    var(--amber) 93%, var(--amber) 100%);
+  border-radius:3px;opacity:.85;
+}
+.era{position:relative;text-align:center;margin:3.5rem 0 2rem;scroll-margin-top:4rem}
+.era:first-of-type{margin-top:0}
+.era-plate{
+  display:inline-block;position:relative;background:var(--bg);
+  padding:1rem 1.6rem .9rem;border:1px solid var(--c);max-width:30rem;
+}
+.era-plate::before,.era-plate::after{
+  content:"";position:absolute;top:50%;width:.6rem;height:.6rem;background:var(--c);transform:translateY(-50%) rotate(45deg);
+}
+.era-plate::before{left:-.32rem}.era-plate::after{right:-.32rem}
+.era h2{font-family:"IM Fell English",Georgia,serif;font-weight:400;font-size:clamp(1.7rem,4vw,2.3rem);margin:0;line-height:1.1;color:var(--c)}
+.era .range{font-family:"IM Fell English",Georgia,serif;font-style:italic;font-size:1.1rem;color:var(--soft)}
+.era p{margin:.35rem 0 0;font-size:.95rem;color:var(--soft)}
+
+.events{list-style:none;margin:0;padding:0}
+.ev{position:relative;width:50%;padding:.2rem 2.4rem 1.8rem 0;text-align:right}
+.ev:nth-child(even){margin-left:50%;padding:.2rem 0 1.8rem 2.4rem;text-align:left}
+.ev::before{ /* node */
+  content:"";position:absolute;top:.72rem;right:-.4rem;width:.8rem;height:.8rem;
+  background:var(--bg);border:2px solid var(--c);transform:rotate(45deg);
+}
+.ev:nth-child(even)::before{right:auto;left:-.4rem}
+.ev.major::before{width:1.1rem;height:1.1rem;right:-.55rem;top:.6rem;background:var(--c)}
+.ev.major:nth-child(even)::before{left:-.55rem}
+.ev.amber::before{border-color:var(--amber);box-shadow:0 0 0 6px var(--glow),0 0 18px 4px var(--glow)}
+.ev.amber.major::before{background:var(--amber)}
+.date{font-family:"IM Fell English",Georgia,serif;font-size:1.35rem;line-height:1.2;color:var(--c);display:block}
+.date em{font-size:1rem;color:var(--soft)}
+.ev h3{font-family:"IM Fell English",Georgia,serif;font-weight:400;font-size:1.35rem;line-height:1.2;margin:.1rem 0 .3rem}
+.ev.major h3{font-size:1.6rem}
+.ev p{margin:0;max-width:27rem;display:inline-block;text-align:left}
+.ev.amber h3{text-shadow:0 0 18px var(--glow)}
+
+@media (max-width:720px){
+  .spine{left:1.35rem;transform:none}
+  .ev,.ev:nth-child(even){width:auto;margin-left:0;padding:.2rem 0 1.6rem 2.6rem;text-align:left}
+  .ev::before,.ev:nth-child(even)::before{left:.05rem;right:auto}
+  .ev.major::before,.ev.major:nth-child(even)::before{left:-.1rem}
+  .era{text-align:left;padding-left:0}
+  .era-plate{margin-left:0}
+  .era-plate::before{left:.08rem}
+  main{padding-left:1rem}
+}
+
+/* ---------- legend + footer ---------- */
+.legend{
+  display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;justify-content:center;
+  font-size:.92rem;color:var(--soft);margin-top:1.4rem;position:relative;
+}
+.legend span{display:inline-flex;align-items:center;gap:.5rem}
+.lg{width:.75rem;height:.75rem;transform:rotate(45deg);display:inline-block;border:2px solid var(--soft)}
+.lg.maj{background:var(--soft)}
+.lg.amb{border-color:var(--amber);background:var(--amber);box-shadow:0 0 0 4px var(--glow)}
+footer{
+  max-width:40rem;margin:0 auto;padding:2rem 1.5rem 3.5rem;text-align:center;
+  font-size:.9rem;color:var(--soft);border-top:1px solid var(--rule);
+}
+footer p{margin:.4rem 0}
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">From the First Folk to the siege of the village</p>
+  <h1>Barovia</h1>
+  <p class="sub">A timeline of the valley’s history as told in <em>Curse of Strahd: Reloaded</em> — four thousand years of goddesses, vestiges, conquerors and the Mists.</p>
+  <p class="calendar"><b>BU</b> counts years Before Unification; <b>BC</b> is the Barovian Calendar, which begins in 1 BC with King Barov I’s founding of Zarovia. Dates marked <em>c.</em> are worked out from the text’s relative timings (“two thousand years later”, “forty years after…”).</p>
+  <div class="legend">
+    <span><i class="lg"></i> Event</span>
+    <span><i class="lg maj"></i> Turning point</span>
+    <span><i class="lg amb"></i> Touched by the vestiges</span>
+  </div>
+</header>
+
+<nav aria-label="Eras">
+  <ol id="eranav"></ol>
+</nav>
+
+<section class="ladies" aria-labelledby="ladies-h">
+  <h2 id="ladies-h">The Rozana</h2>
+  <p class="lede">The four sister goddesses the First Folk brought into the valley, each ruling a season.</p>
+  <div class="sisters">
+    <div class="sister">
+      <svg viewBox="0 0 40 40" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><ellipse cx="20" cy="22" rx="4.5" ry="6" fill="currentColor"/><circle cx="20" cy="13.5" r="2.8" fill="currentColor"/><path d="M16 19 8 13 5 18M16 22 6 22 3 27M16 25 8 30 6 35M24 19 32 13 35 18M24 22 34 22 37 27M24 25 32 30 34 35"/></svg>
+      <h3>The Weaver</h3><div class="season">Spring · the spider</div>
+      <p>Eldest sister. Birth, family and new growth; maker of the three life-giving gems.</p>
+    </div>
+    <div class="sister">
+      <svg viewBox="0 0 40 40" aria-hidden="true" fill="currentColor"><path d="M9 7l6 7h10l6-7-1 11 3 6-8 9h-10l-8-9 3-6z"/><circle cx="16" cy="21" r="1.4" fill="var(--bg2)"/><circle cx="24" cy="21" r="1.4" fill="var(--bg2)"/></svg>
+      <h3>The Huntress</h3><div class="season">Summer · the wolf</div>
+      <p>Hunting, war and young passion. The wolfir ran in her Wild Hunt.</p>
+    </div>
+    <div class="sister">
+      <svg viewBox="0 0 40 40" aria-hidden="true" fill="currentColor"><path d="M4 19c6-6 13-8 19-6l5-4 3 3-2 3c3 3 5 7 7 12-6-2-10-2-14 0l-3 8-3-7c-4-1-8-4-12-9z"/><circle cx="28" cy="11.5" r="1" fill="var(--bg2)"/></svg>
+      <h3>The Seeker</h3><div class="season">Autumn · the raven</div>
+      <p>Foresight, harvest and the wisdom of age. The wereravens served her will.</p>
+    </div>
+    <div class="sister fallen">
+      <svg viewBox="0 0 40 40" aria-hidden="true" fill="currentColor"><path d="M20 12c-3-6-12-8-15-4-2 4 2 11 10 12-6 2-8 8-5 10 3 2 8-2 10-8 2 6 7 10 10 8 3-2 1-8-5-10 8-1 12-8 10-12-3-4-12-2-15 4z"/><rect x="19.2" y="11" width="1.6" height="21" rx=".8"/></svg>
+      <h3>The Dreamer</h3><div class="season">Winter · the butterfly</div>
+      <p>Rest, hope and the grave. Given no shrine, she fell — and became the Devourer.</p>
+    </div>
+  </div>
+</section>
+
+<main id="timeline">
+  <div class="spine" aria-hidden="true"></div>
+</main>
+
+<footer>
+  <p>Compiled from the “History of Barovia” chapter of <a href="https://www.strahdreloaded.com/Chapter+2+-+The+Land+of+Barovia/History+of+Barovia"><em>Curse of Strahd: Reloaded</em></a> by DragnaCarta, a revised guide to Wizards of the Coast’s <em>Curse of Strahd</em>.</p>
+  <p>Spoilers for the whole campaign lie above. Keep it behind the DM screen.</p>
+</footer>
+
+<script>
+const ERAS = [
+ { id:"ancient", name:"The Ancient Era", range:"c. 3,000 BU – 0 BC", c:"--moss",
+   note:"Goddesses, a fallen sister, and the first cracks in the valley’s heart.",
+   ev:[
+    {d:"c. 3,000 BU", t:"The First Folk come to the valley", b:"Nomadic hunter-gatherers cross the Balinok Mountains into the valley they name Girvisa, “fertile land,” bringing with them the worship of the four Rozana.", m:1},
+    {d:"Time immemorial", t:"Shrines are raised to the Ladies Three", b:"The First Folk build the Swamp, Forest and Mountain Fanes at places of natural power, anchoring the Weaver, Huntress and Seeker to the land. The Weaver gifts her priests three gems; wereravens and wolfir take up the Seeker’s and Huntress’s gifts."},
+    {d:"Time immemorial", t:"The Devourer is born", b:"Denied any shrine out of fear of her grim domain, the Dreamer festers in envy. Mother Night’s whispers corrupt her, and she becomes the Devourer, turning dreams to nightmares and feeding on souls.", a:1},
+    {d:"Time immemorial", t:"The Devourer is slain", b:"Her three sisters strike her down. Her body becomes the Whispering Wall, a tower of mist beside Yester Hill; her severed divine spark falls among the snows of Mount Ghakis. Memory of the Dreamer fades from the world.", m:1, a:1},
+    {d:"c. 1,000 BU", t:"A secret society of wizards seals the spark", b:"Two millennia after the First Folk arrived, wizards serving a nameless god of secrets follow the Devourer’s lingering power to the mountain. They lock her spark in amber and found the Amber Temple to imprison her and other dead, hateful gods in amber sarcophagi.", m:1, a:1},
+    {d:"Three generations on", t:"The Temple falls silent", b:"The wizards wall off Tsolenka Pass against intruders, but can’t guard against themselves. Curiosity gives way to corruption, paranoia and infighting, until only their ghosts walk the halls.", a:1},
+    {d:"c. 500 BU", t:"Kavan the Blood-Drinker", b:"A young warrior walks into the forbidden Whispering Wall and comes out consumed by ambition. He unites the seven tribes by war, steals the Huntress’s spear from the Forest Fane and bends it into Bloodthorn. The druids hide the Weaver’s gems with the wereravens.", a:1},
+    {d:"c. 450 BU", t:"King Dostron invades", b:"A foreign king massacres the First Folk, desecrates their holy places and breaks the Ladies’ power. He raises a stone fortress on the eastern mountain and is buried beneath it thirty years later. The Rozana’s valley is left with a crack in its heart.", m:1}
+   ]},
+ { id:"founding", name:"The Founding Era", range:"1 – 345 BC", c:"--silver",
+   note:"House von Zarovich rises, falls, and rises again, while outsiders settle the valley.",
+   ev:[
+    {d:"1 BC", t:"The Kingdom of Zarovia is founded", b:"More than four centuries after Dostron’s death, King Barov von Zarovich I unites several city-states into Zarovia. The Barovian Calendar starts here.", m:1},
+    {d:"c. 200 BC", t:"Zarovia fractures", b:"After two prosperous centuries, civil strife and invaders break the kingdom and drive House von Zarovich into exile."},
+    {d:"c. 300 BC", t:"Barov II’s holy war", b:"A century into the exile, Barov II raises an army to reclaim his line’s kingdom. Saint Andral grants him the old crown, and the reconquest becomes a crusade of the Morninglord."},
+    {d:"Late Founding Era", t:"The dusk elves fall; the Brightblade is forged", b:"Aided by the exiled elf Rahadin, Barov conquers the dusk elves in a year. From Prince Löwenhart’s shattered moonblade he forges the Brightblade, and Baba Lysaga seals the prince’s spirit inside."},
+    {d:"Late Founding Era", t:"Strahd is born", b:"Baba Lysaga is banished for her unhealthy devotion to the infant prince. Strahd joins his father’s army as a squire at seven and rises to general; he is twenty-six when his brother Sergei is born."},
+    {d:"Late Founding Era", t:"Saint Markovia builds her abbey", b:"Opposing Andral’s blessing of Barov’s wars, Markovia raises an abbey on a spur of Mount Baratok as a refuge. The trading post beneath it grows into the hamlet that will become Krezk."},
+    {d:"Late Founding Era", t:"The Order of the Silver Dragon", b:"The silver dragon Argynvost learns of the Amber Temple and founds an order of knights at Argynvostholt, sworn in secret to keep the Temple’s prisoners sealed.", a:1},
+    {d:"Late Founding Era", t:"The Wizard of Wines", b:"Descendants of the wereravens reshape the Weaver’s gems to grow grapes and open a winery, crediting it to a fictional mage to hide the source of its bounty."}
+   ]},
+ { id:"blood", name:"The Era of Blood", range:"346 – 351 BC", c:"--blood",
+   note:"Five years in which Strahd conquers the valley, binds himself to it, and dies.",
+   ev:[
+    {d:"346 BC", t:"Strahd inherits a war", b:"Barov II dies. Strahd refuses the crown, gives the Brightblade to Sergei, crushes a dusk elf rebellion and within six months has pushed past the old borders of Zarovia."},
+    {d:"346 BC · winter", t:"The Battle of the Luna River", b:"Strahd’s army pursues the Order into the valley. Vladimir Horngaard, Sir Godfrey and nearly every knight fall; Argynvost dies in his own manor and his skull is taken as a trophy.", m:1},
+    {d:"347 BC", t:"The valley is named Barovia", b:"Strahd settles his conquest, naming it for Barov I. Vallaki, Krezk and the village of Barovia are founded, the Dursts build their mill, and the Krezkovs are given the winery."},
+    {d:"c. 348 BC", t:"Strahd refuses the vestiges", b:"Patrina Velikovna leads Strahd to the Amber Temple and the promise of undying life. He hears the offers of Tenebrous, Zhudun and the Vampyr — and turns every one of them down.", a:1},
+    {d:"c. 348 BC", t:"Castle Ravenloft rises", b:"Built in just over a year atop the ruins of Dostron’s fortress and named for Queen Ravenovia, who dies on the road there. The architect-mage Khazan stays on, raising a tower in Lake Baratok."},
+    {d:"c. 349 BC", t:"Strahd becomes the land", b:"When the dragon’s skull goes up on the wall, Vladimir rises as a revenant with his knights. Fearing another Dostron, First Folk elders lead Strahd to the three fanes; by blood ritual he binds each one to his soul.", m:1},
+    {d:"c. 350 BC", t:"Sergei and Tatyana", b:"Both brothers fall for Tatyana Federovna. Forced to choose, Sergei gives up his office as Most High Priest, and the couple become engaged."},
+    {d:"351 BC", t:"The wedding and the Mists", b:"The Dark Powers offer Strahd an amber shard; he accepts the Vampyr, kills Sergei and chases Tatyana over the cliff. Leo Dilisnya’s traitors kill him, and he rises a vampire as Barovia is torn away into the first domain of the Mists.", m:1, a:1}
+   ]},
+ { id:"dark", name:"The Dark Era", range:"352 – 599 BC", c:"--violet",
+   note:"The vampire learns his limits, collects his dead, and plots an escape.",
+   ev:[
+    {d:"351 BC", t:"Katarina becomes Madam Eva", b:"Strahd’s Vistani half-sister trades her youth to the Seeker, the last of the Ladies Three, for the power to undo his evil. The Heart of Sorrow forms above the castle from his first victims."},
+    {d:"c. 351–352 BC", t:"Patrina, Markovia, and the lost blade", b:"The dusk elves stone Patrina before she can wed Strahd. Saint Markovia’s crusade dies at the castle, and her abbey soon falls to madness. Strahd has Khazan destroy the Brightblade — but its hilt escapes."},
+    {d:"352 BC", t:"Death House", b:"An amber shard in a grain shipment finds Elisabeth Durst. Her cult worships Strahd until, a year after the Mists fell, he turns them away; later he slays them all for stealing his prey.", a:1},
+    {d:"c. 353 BC", t:"Khazan the lich", b:"After losing his wife and child, Khazan becomes a lich and marches on Ravenloft, then agrees to advise Strahd instead. His failed attempt at demilichdom destroys him and tears a hidden door in the Mists.", a:1},
+    {d:"c. 391 BC", t:"Marina Ulrich and the fall of Berez", b:"Forty years after Tatyana’s death, her first reincarnation slips from Strahd through the Mists’ whispers. Berez becomes a ruin, soon claimed by Baba Lysaga."},
+    {d:"c. 406 BC", t:"The Martikovs reclaim the winery", b:"By marriage into the Krezkov family, the wereravens quietly win back the vineyards their ancestors planted."},
+    {d:"588 BC", t:"The Abbot arrives", b:"The deva Ithuriel reopens the Abbey of Saint Markovia to tend the sick, but under Strahd’s influence slowly falls into madness."},
+    {d:"c. 590s BC", t:"The Devourer is bound in the Heart", b:"Madam Eva foretells a Grand Conjunction, a moment when the Mists will thin. Strahd tears the Devourer’s vestige from the Amber Temple, seals it in the Heart of Sorrow and wires the fanes into a weapon to break free.", m:1, a:1}
+   ]},
+ { id:"dormant", name:"The Dormant Era", range:"600 – 735 BC", c:"--mist",
+   note:"The Devil sleeps. His spawn run wild and new heroes rise.",
+   ev:[
+    {d:"c. 600 BC", t:"Strahd’s hundred-year sleep", b:"Weary of his subjects, Strahd retires to his tomb. While he sleeps, the Heart of Sorrow slowly drinks the land’s energy.", m:1},
+    {d:"Dormant Era", t:"The Holy Symbol of Ravenkind", b:"The paladin Lugdana, Ismark the Great and Livius Martikov steal the Sigil of the Sun from Ravenloft’s crypts and purge vampire nests across the valley. Livius founds the Keepers of the Feather."},
+    {d:"25 years later", t:"Chernovog at Yester Hill", b:"Baba Zelenna’s cult breaks Strahd’s bond to the Forest Fane to summon the demon Chernovog. Lugdana slays him but dies of her wounds, and the Holy Symbol is lost."},
+    {d:"Late Dormant Era", t:"Van Richten’s vengeance", b:"After the Radanavich Vistani sell his son to a vampire, Rudolph van Richten enters Barovia through Khazan’s hidden door and loosens the lich’s undead on their camp."},
+    {d:"Late Dormant Era", t:"Izek, Ireena, and a shard", b:"A dire wolf takes Izek Strazni’s arm; an amber shard gives him fire, and little Ireena flees into the woods with no memory. Later, a roc steals a winery gem at Madam Eva’s bidding.", a:1}
+   ]},
+ { id:"awakening", name:"Strahd’s Awakening", range:"735 BC – present", c:"--amber",
+   note:"The present day, and the eve of the campaign.",
+   ev:[
+    {d:"735 BC", t:"Doru’s revolt wakes the Devil", b:"Doru leads a mob, with Van Richten in disguise, against Castle Ravenloft. They only wake Strahd, who spares Doru and the bard Escher to make them vampire spawn.", m:1},
+    {d:"735 BC", t:"Rahadin’s proclamation", b:"The village of Barovia is given ninety days before Strahd’s wrath. Vallaki shuts its gates, the hags settle at Old Bonegrinder, and Kasimir seeks the Amber Temple at his sister’s urging."},
+    {d:"Present", t:"The siege of Barovia", b:"The undead army falls on the village night after night. Ismark is mocked as “the Lesser” — and far away in Daggerford, a band of travelers is about to be drawn into the Mists.", m:1}
+   ]}
+];
+
+const nav = document.getElementById("eranav");
+const main = document.getElementById("timeline");
+const esc = s => s.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+
+ERAS.forEach(era => {
+  const col = `var(${era.c})`;
+  nav.insertAdjacentHTML("beforeend",
+    `<li><a href="#${era.id}" style="--c:${col}"><i></i>${esc(era.name.replace(/^The /,""))}</a></li>`);
+
+  const sec = document.createElement("section");
+  sec.setAttribute("aria-labelledby", era.id + "-h");
+  sec.innerHTML = `
+    <div class="era" id="${era.id}" style="--c:${col}">
+      <div class="era-plate">
+        <h2 id="${era.id}-h">${esc(era.name)}</h2>
+        <div class="range">${esc(era.range)}</div>
+        <p>${esc(era.note)}</p>
+      </div>
+    </div>
+    <ol class="events">
+      ${era.ev.map(e => `
+        <li class="ev${e.m ? " major" : ""}${e.a ? " amber" : ""}" style="--c:${col}">
+          <span class="date">${esc(e.d)}</span>
+          <h3>${esc(e.t)}</h3>
+          <p>${esc(e.b)}</p>
+        </li>`).join("")}
+    </ol>`;
+  main.appendChild(sec);
+});
+</script>
+</body>
+</html>

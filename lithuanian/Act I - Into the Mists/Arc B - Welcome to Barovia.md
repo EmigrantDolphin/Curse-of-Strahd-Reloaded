@@ -10,26 +10,40 @@ Kitą rytą Ismarkas paprašo žaidėjų padėti nunešti jų tėvo palaikus į 
 
 > [!design]+ **Projektavimo Pastaba: Atvykimas į Barioviją**
 > Žaidėjų atvykimas į Barovijos kaimą buvo iš esmės perdirbtas, siekiant sukurti stiprų kampaniją įžiebiantį įvykį, užtikrinant, kad jie turėtų nedelsiamą ir konkrečią priežastį ieškoti Ponios Evos Tarokka būrimo, galimybę užmegzti santykius su Barovijos kaimo gyventojais ir asmeninį suinteresuotumą pamatyti Strahdą nugalėtą.
-# B1. Senasis Svalicho Kelias
+# B1. Senasis Svalicho Kelias (prie bokšto)
 <span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
 Kelionė nuo [[Arc A - Escape From Death House#A3. Už Mirties Namų|bokšto]] iki [[#B2. Barovijos Vartai]] yra dviejų mylių ilgio ir trunka keturiasdešimt minučių.
 
-Ši scena skleidžiasi taip, kaip aprašyta <span class="citation">Old Svalich Road (p. 33)</span>.
+Nuo bokšto veda kelias į vieną pusę link barovijos vartų. Jei užlipę virš medžių gali matyti iš tolo kažkokią konstrukciją. DC 13 perception atpažįsta kaip kažkokius vartus, bet detaliu iš šio tolio nesimato.
 # B2. Barovijos Vartai
 <span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
 
-Ši scena skleidžiasi taip, kaip aprašyta <span class="citation">Gates of Barovia (p. 34)</span>.
+Priėjus prie vartų, rūkas už jūsų suvalgo kelią kuriuo ėjote. Vartai yra didžiūliai metaliniai ir prie jų stovi dvi gigantiškos skulptūros kurios pasitinka jus mirtina tyla.
+(show image)
 
-Kelionė nuo Barovijos Vartų iki [[#B3. Svalicho Miškai]] yra ketvirčio mylios ilgio ir trunka penkias minutes.
+Jie buvo uždaryti bet kai priėjote jie su girgždančiu ir cypiančiu garsu atsidarė.
+
+**Kai praeina** - vartai greitai užsidaro.
+
+![[Pasted image 20260913205951.png]]
 # B3. Svalicho Miškai
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-Ši scena prasideda taip, kaip aprašyta <span class="citation">Svalich Woods (p. 34)</span>. Tačiau kai žaidėjai randa Dalvano Olenskio lavoną, jis nelaiko suglamžyto voko, o jo drabužiai atrodo suplėšyti erškėčių ir spyglių, o ne nagų. Jis, atrodo, neturi jokių matomų žaizdų, tačiau sėkmingas DC 10 Wisdom (Medicine) patikrinimas atskleidžia, kad jis mirė iš išsekimo.
+<div class="description">
+<p>Už vartų miškas nenatūraliai sutankėjęs. </p>
+</div>
 
-Vietoj voko Dalvanas dabar laiko seną, aptemusį varinį kompasą. Kol jis lieka arti Barovijos slėnio krašto, jo rodyklė keistai virpa net laikoma nejudinamai.
+**Einant keliu**: Highest passive wisdom (perception) pastebį mirties kvapą sklindantį kažkur iš kelio šono.
 
-Dalvano ranka, laikanti kompasą, ištiesta netoliese esančio medžio kryptimi, ant kurio yra trylika brūkšnelių ir rodyklė, rodanti gilyn į mišką, palei kelią, kuris atrodo gerai išmintas takas.
+<div class="description">
+<p>Bjaurus kvapas atveda jus prie žmogaus lavono, pusiau paskendusio krūmynuose. Jaunuolis, regis, buvo iš paprastų žmonių. Jo purvini drabužiai suplėšyti erškėčių ir spyglių. Prie kūno jau triūsė varnos. Akivaizdu, kad vyras negyvas jau kelias dienas. Vienoje rankoje jis laiko varinį kompasą kurio rodyklė virpa.</p>
+</div>
+
+**DC 10 Wisdom (Medicine)** check atskleidžia kad jis mirė iš išsekimo.
+**Kompasas**: Kol jis lieka arti Barovijos slėnio krašto, jo rodyklė keistai virpa net laikoma nejudinamai.
+
+**DC 10 Intelligence (Investigation)**:  Dalvano ranka, laikanti kompasą, ištiesta netoliese esančio medžio kryptimi, ant kurio yra trylika brūkšnelių ir rodyklė, rodanti gilyn į mišką, palei kelią, kuris atrodo gerai išmintas takas.
 
 > [!lore]+ **Kas Nutiko Dalvanui?**
 >
@@ -46,18 +60,18 @@ Dalvano ranka, laikanti kompasą, ištiesta netoliese esančio medžio kryptimi,
 >[!info]+ **Dalvano Kompasas**
 >Kaip ir visi kompasai Barovijoje, Dalvano kompasas keistai elgiasi artėdamas prie Barovijos slėnio krašto apylinkių – pavyzdžiui, prie Vakarykščiosios Kalvos [[Arc J - The Stolen Gem]] metu ar link Gakio kalno viršūnės [[Arc S - A Sword of Sunlight]] metu. Kadangi anapus Barioviją juosiančių Rūkų nėra jokios tikros „magnetinės šiaurės", kompaso, artėjančio prie slėnio krašto, rodyklė ima virpėti ir galiausiai pašėlusiai suktis, kuo arčiau jis prieina. (Šis keistas elgesys baigiasi, kai kompasas patraukiamas nuo slėnio krašto.)
 
-Jei žaidėjai seka taku rodyklės kryptimi, jie netrukus prieina antrą medį, ant kurio yra dar trylika brūkšnelių ir rodyklė, rodanti toliau tako kryptimi. Tako pakraštyje čia guli **arklio** lavonas, kuris yra panašios irimo būsenos kaip ir Dalvano.
+Jei žaidėjai seka **taku** rodyklės kryptimi, jie netrukus prieina **antrą medį**, ant kurio yra dar trylika brūkšnelių ir rodyklė, rodanti toliau tako kryptimi. Tako pakraštyje čia guli **arklio lavonas**, kuris yra panašios irimo būsenos kaip ir Dalvano.
 
-Jei žaidėjai toliau seka taku rodyklių kryptimi, jie prieina trečią medį, ant kurio yra dar trylika brūkšnelių ir rodyklė, rodanti toliau tako kryptimi, kuris regimai dingsta neįveikiamo rūko sienoje.
+Jei žaidėjai toliau seka taku rodyklių kryptimi, jie prieina **trečią medį,** ant kurio yra dar trylika brūkšnelių ir rodyklė, rodanti toliau tako kryptimi, kuris **regimai dingsta neįveikiamo rūko sienoje**.
 
-Rūkas yra dalis Rūkų, kurie supa ir įkalina Barioviją. Jei žaidėjai atsinešė Dalvano kompasą, rodyklė dabar pašėlusiai sukasi ratais.
+Rūkas yra dalis Rūkų, kurie supa ir įkalina Barioviją. Jei žaidėjai atsinešė Dalvano kompasą, rodyklė dabar **pašėlusiai sukasi ratais**.
 
-Jei žaidėjai seka taku pro rūką, po 2d4 minučių jie išnyra nepažįstamoje Svalicho Miškų dalyje. Kaskart, kai žaidėjai išnyra iš rūko sienos aplink Barioviją, jie turi atlikti DC 5 Constitution saving throw arba gauna 1 exhaustion lygį, nes rūkas išsunkia jų energiją ir gyvybines jėgas. (DC padidėja 5 taškais kaskart, kai žaidėjai vėl pereina pro rūką, ir atsistato po ilgo poilsio.)
+**Rūko mechanika -** Jei žaidėjai seka taku pro rūką, po 2d4 minučių jie išnyra nepažįstamoje Svalicho Miškų dalyje. Kaskart, kai žaidėjai išnyra iš rūko sienos aplink Barioviją, jie turi atlikti DC 5 Constitution saving throw arba gauna 1 exhaustion lygį, nes rūkas išsunkia jų energiją ir gyvybines jėgas. (DC padidėja 5 taškais kaskart, kai žaidėjai vėl pereina pro rūką, ir atsistato po ilgo poilsio.)
 
-Išnirę iš rūko, žaidėjai gali pamatyti ketvirtą medį, ant kurio yra dar trylika brūkšnelių ir rodyklė, rodanti toliau tako kryptimi. Be to, ketvirtasis medis, atrodo, turi raižinį, o iš jo kamieno kyšo daiktas. Jei žaidėjai jį apžiūri, perskaitykite:
+Išnirę iš rūko, žaidėjai gali pamatyti **ketvirtą medį**, ant kurio yra dar trylika brūkšnelių ir rodyklė, rodanti toliau tako kryptimi. Be to, **ketvirtasis medis, atrodo, turi raižinį, o iš jo kamieno kyšo daiktas. Jei žaidėjai jį apžiūri, perskaitykite:**
 
 <div class="description">
-<p>Kažkas įsmeigė seną durklą į šio seno, gumbuoto medžio kamieną. Šalia jo – grubus raižinys, vaizduojantis figūrą ant arklio, tiesiai virš dviejų grubiai iškaltų žodžių eilučių:</p>
+<p>Į medį įsmeigtas durklas. Šalia jo – grubus raižinys, vaizduojantis figūrą ant arklio, ir virš jo iškalti žodžiai:</p>
 <p>„RAITELIS JOJA."</p>
 <p>„REGĖTOJA KALBĖJO TIESĄ."</p>
 </div>
@@ -76,10 +90,11 @@ Jei žaidėjai tuomet palieka Dalvano lavoną ir sugrįžta, jie randa, kad tiek
 Žaidėjai išnyra iš Svalicho Miškų vieną mylią ir dvidešimt minučių po to, kai paliko Dalvano lavoną. Kai jie tai padaro, perskaitykite:
 
 <div class="description">
-<p>Tamsūs miškai atsitraukia, atverdami rūku apgaubtą, niūrų slėnį, nusėtą tirštais rūko debesimis.</p>
-<p>Riedantys perkūnijos debesys meta pilką šešėlį ant žemės apačioje, o šaltoje, pilkoje šviesoje nesimato jokios saulės. Amžinai žaliuojantys medžiai kopia į slėnį gaubiančių kalnų šlaitus. Šiaurėje kyla akmeningas kalnas su medžių kuokštais; pietuose sniegu apsnigta viršūnė su nelygiais šlaitais valdingai stūkso virš žemės apačioje.</p>
-<p>Purvinas kelias tęsiasi pirmyn, eidamas per pageltusias žoles ir dirbamus laukus, kol pasiekia mažą, kuklią gyvenvietę, susigūžusią žemėje. Palei kelią per slėnį teka upė, tokia skaidri kaip mėlynas žiemos dangus.</p>
-<p>Toli virš kaimo stūkso tamsi, iškreipta pilis, stovinti vieniša ant stačios akmens uolos. Akimirkai tolima žaibo ietis sutraška, nutviekdama stūksančią tvirtovę aštriomis šviesomis ir šešėliais – ir tuomet atslenka tirštas rūko sluoksnis, paslėpdamas kaimą bei pilį nuo akių.</p>
+<p>Dangus kiek matote yra debesuotas, ir šaltoje, pilkoje šviesoje nesimato jokios saulės.
+Ši proskyna yra pripildyta rūko kuris juda iš vienos vietos iki kitos.<p>
+<p>Jūsų kelias tęsiasi per dirbamus laukus, kol pasiekia mažą, kuklią gyvenvietę. Palei kelią teka labai skaidri upė</p>
+<p>Tolumoje matote daug žaliuojančių medžių, o už jų atsiveria snieguoti kalnai. </p>
+<p>Virš kaimo ant kalno stovi vieniša pilis ir akimirkai sužaibuoja ir nutvieskia šią pilį aštriomis šviesomis ir šešėliais</p>
 </div>
 
 Kelionė nuo čia iki kaimo pakraščių yra dviejų mylių ilgio ir trunka keturiasdešimt minučių.
@@ -88,12 +103,19 @@ Kelionė nuo čia iki kaimo pakraščių yra dviejų mylių ilgio ir trunka ketu
 > [!info]+ **Sutvirtintas Kaimas**
 > Barovijos kaimas buvo smarkiai sutvirtintas, siekiant apsiginti nuo Strahdo naktinės apgulties. Barikados, sudarytos iš rąstų, lentų ir sulaužytų baldų, buvo pastatytos prie kiekvieno pagrindinio įėjimo į gyvenvietę, o papildomos užtvaros iškeltos kiekvienoje alėjoje ar tarpe tarp kaimiečių namų. Aplink kaimą iškastas griovys ir prismaigstyta aštrių baslių, o šauliai patruliuoja ant stogų visomis dienos ir nakties valandomis.
 ## B5a. Barikada
-Ši scena iš esmės skleidžiasi taip, kaip aprašyta <span class="citation">Approaching the Village (p. 41)</span>. Tačiau pakeiskite aprašymą taip:
 
+Jei atidaro namo duris, resolve encounter: [[Barovijos kaimo taisyklės#**House Occupants**|House occupants]]
+
+Parduotuvės visos uždarytos ir išlootintos, namai padengti nagų žymių.
+ 
+ Tačiau pakeiskite aprašymą taip:
+
+Kai prieina arčiau kaimo
 <div class="description">
-<p>Rytui įsibėgėjant, o apniukusiam dangui šviesėjant iki blankiai niūriai pilkos spalvos, kaimo pakraščiai išryškėja aiškiau. Gyvenvietę juosia platus žeminis griovys, penkių pėdų pločio ir tokio pat gylio, su šimtais nusmailintų medinių baslių, kyšančių iš žemės viduje tarsi dantytos iltys. Priekyje, šalia aukštos apanglėjusios medienos krūvos, kelias tęsiasi per laikiną medinį tiltą, o purvina žemė anapus užleidžia vietą slidiems, šlapiems grindinio akmenims.</p>
+<p>Gyvenvietę juosia platus iškastas griovys, penkių pėdų pločio ir tokio pat gylio, su šimtais mediniais kuolais, kyšančių iš žemės viduje.</p>
 <p>Palei gatves netvarkingai stovi medinės barikados. Aplinkiniai statiniai nusėti apdegimo žymėmis ir įpjovomis, o keliuose pastatuose matyti iš dalies įgriuvę stogai ar sienos, leidžiantys šaltam, šliaužiančiam rūkui tyliai plūsti į vidų.</p>
-<p>Aukštos kaimo trobesių formos stūkso viršuje, iškilusios iš tiršto rūko, kuris glaudžiasi prie žemės. Arbaletais ginkluotos figūros patruliuoja senais stogais viršuje, o pusė tuzino persekiojamai atrodančių kaimiečių taiso trisdešimties pėdų ilgio barikadą, užtveriančią pagrindinę gatvę. Darbui vadovauja aukštas, plačiapetis vyras iki pečių siekiančiais šviesiais plaukais ir ryškaus žandikaulio, prie klubo prisisegęs seną ilgąjį kalaviją ir vilkintis skardiniais šarvais virš apykaklinio švarko. Netoliese ant vieno iš stogų tupi varnas mėlynai nudažytų sparnų galiukais, su akivaizdžiu susidomėjimu stebintis, kas vyksta apačioje.</p>
+<p>Ant stogų patruliuoja figūros su arbaletais, o keli persigandę kaimiečiai taiso trisdešimties pėdų ilgio barikadą, užtveriančią pagrindinę gatvę.</p>
+<p>Darbui vadovauja aukštas, plačiapetis vyras iki pečių siekiančiais šviesiais plaukais ir ryškaus žandikaulio, prie klubo prisisegęs seną ilgą kalaviją (longsword) ir vilkintis skardiniais šarvais. Netoliese ant vieno iš stogų tupi varnas mėlynai nudažytų sparnų galiukais, su akivaizdžiu susidomėjimu stebintis, kas vyksta apačioje.</p>
 </div>
 
 ![[Ismark.png]]
@@ -124,9 +146,9 @@ Vyras yra Ismarkas Kolianovičius, kuris iš esmės toks, koks aprašytas <span 
 <p>Moteris ant stogų šaukia jums: „Stot! Prisistatykite – ar esate mirę, ar gyvi?" Jos bendražygis, niūriai atrodantis vyras odiniais šarvais, krusteli link arbaleto prie savo klubo.</p>
 </div>
 
-Kereza įtariai žiūri į žaidėjus, manydama, kad jie yra persirengę vampyrai, zombiai ar gūlai. Nepaisant žaidėjų atsakymo, Ismarkas įsikiša, švelniai bardamas Kerezą už jos paranoją ir su geru humoru nuramindamas kitus barovijiečius, kad žaidėjai akivaizdžiai gyvi, „lygiai kaip mes."
+Kereza įtariai žiūri į žaidėjus, manydama, kad jie yra persirengę vampyrai, zombiai ar gūlai. Nepaisant žaidėjų atsakymo, **Ismarkas įsikiša, švelniai bardamas Kerezą už jos paranoją ir su geru humoru nuramindamas kitus barovijiečius, kad žaidėjai akivaizdžiai gyvi, „lygiai kaip mes."**
 
-Tuomet Ismarkas maloniai pakviečia žaidėjus už barikados pro nuimamą sekciją ir juos pasveikina. Tačiau jis prisipažįsta bijąs, kad jie atvyko blogu metu, pasidalindamas, kad kaimą pastarąsias kelias naktis apgula nemirusiųjų orda.
+Tuomet Ismarkas maloniai pakviečia žaidėjus už barikados pro nuimamą sekciją ir juos pasveikina. **Tačiau jis prisipažįsta bijąs, kad jie atvyko blogu metu**, pasidalindamas, kad kaimą pastarąsias kelias naktis užpuola nemirusiųjų orda.
 
 Patvirtinęs, kad barikada beveik sutaisyta, Ismarkas pakviečia žaidėjus prisijungti prie jo Vynmedžio Kraujo Smuklėje miesto centre, kur jie galės pasikalbėti plačiau ir kartu išgerti. („Turime bent tris valandas iki sutemų," – sako jis, prisimerkęs žvelgdamas į pilką dangų viršuje. „Turėtų užtekti laiko, kol mirusieji sugrįš.")
 
@@ -134,7 +156,9 @@ Jei žaidėjai sutinka, Murielė seka paskui juos į miesto aikštę, likdama or
 
 > [!abstract]+ **Varnas**
 > Ismarkas nežino, kad mėlynsparnis varnas yra varnalakis, ir nežino, ar kas nors davė jam vardą. Tačiau jis tiki, kad varno buvimas yra geras ženklas, ir gali pasidalinti prietaru apie varnus, aprašytu <span class="citation">Beliefs and Superstitions (p. 28)</span>. (Šiuo prietaru tiki visi barovijiečiai, ne tik vistanai.)
+**Varnos**: neša savyje pasiklydusias sielas, todėl jų žudymas yra bad luck
 
+****
 > [!design]+ **Projektavimo Pastaba: Įžengimas į Kaimą**
 > Ši scena buvo parašyta taip, kad iškart perteiktų kaimiečių atsargumą, įtvirtintų Ismarką kaip užuojautą keliantį sąjungininką ir pristatytų **varnalakę** Murielę Vinshaw bei Barovijos varnus, taip iš anksto užsimenant apie Plunksnos Sargus.
 >
@@ -142,10 +166,13 @@ Jei žaidėjai sutinka, Murielė seka paskui juos į miesto aikštę, likdama or
 ## B5b. Miesto Aikštė
 Žaidėjams ir Ismarkui einant per kaimo gatves, perskaitykite:
 
+
 <div class="description">
-<p>Nuvargę kaimiečiai persekiojamomis akimis stebi jus einant, jų drabužiai tamsiai suteršti purvu ar krauju, o rankos niekada ne per toli nuo lanko, kirvio ar šakės. Ismarkas kiekvieną pasveikina vardu. Keli prieina prie jo, tyliai kalbėdami prislopintais balsais, prieš vėl pasitraukdami į dejuojančius namus ar niūrias alėjas aplink jus.</p>
+<p>Kaimiečiai nuvargusiais ir atsargiais žvilgsniais stebi jus einant, jų drabužiai tamsiai suteršti purvu ar krauju, o rankos niekada nebūna per toli nuo lanko, kirvio ar šakės. </p>
+<p>Ismarkas kiekvieną pasveikina vardu. Keli prieina prie jo, tyliai kalbėdami prislopintais balsais,  vėl pasitraukdami į dejuojančius namus ar niūrias alėjas aplink jus.</p>
 <p>Ismarkas veda jus pro antrą, didesnę barikadą, kurią saugo niūriaveidžiai kaimiečiai su vėzdais ir ietimis. Už jos stovi sena, apskilusi akmeninė statula mažos miesto aikštės centre, vaizduojanti vyrą odiniais šarvais, laikantį kalaviją. Aplink ją įrengta daugiau nei tuzinas laikinų palapinių ir laužaviečių, kuriuose glaudžiasi nuvargusi jaunų, senų ir ligotai atrodančių kaimiečių minia.</p>
 </div>
+
 
 Pridėkite Vynmedžio Kraujo Smuklės išorės aprašymą, pateiktą <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
 
@@ -157,44 +184,44 @@ Jei žaidėjai klausia apie statulą, Ismarkas gali pasidalinti šia informacija
 * Gyvenime Ismarkas Antonovičius, taip pat žinomas kaip Ismarkas Didysis, buvo galingas karys ir Barovijos kaimo burmistras. Savo jėgų žydėjime jis kovojo su daugybe vampyrų ir kitų nemirėlių, likusių po to, kai Strahdas dingo iš viešumos. Galiausiai jis žuvo, gindamas gaudyklių medžiotojų grupę nuo baisiojo vilko puolimo, sulaukęs 44 metų, o jo garbei lauke buvo pastatyta statula.
 * Ismarkas Antonovičius buvo Ismarko Kolianovičiaus prosenelis. Ismarko tėvas Kolianas davė jam šį vardą, tikėdamasis, kad jis vieną dieną taps didžiu kariu.
 ## B5c. Vynmedžio Kraujo Smuklė
-Ši vieta iš esmės tokia, kokia aprašyta <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. Tačiau vietoj Alenkos, Mirabelės ir Sorvijos – trijų vistanų, randamų čia originaliame modulyje – Arikas yra vienintelis smuklės savininkas ir šeimininkas. (Alenkos, Mirabelės ir Sorvijos smuklėje nėra, nes jos pabėgo iš kaimo į Tser Tvenkinį dieną prieš prasidedant apgulčiai.)
+Ši vieta iš esmės tokia, kokia aprašyta <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. Arikas yra vienintelis smuklės savininkas ir šeimininkas.
 
 Įžengęs į smuklę, Ismarkas sumoka Arikui, kad šis atneštų jiems gėrimų. Žaidėjams su juo atsisėdus, Ismarkas atsiprašo už kaimo būklę ir klausia, kaip jie atsidūrė slėnyje. „Turite turėti tūkstantį klausimų," – užjaučiančiai sako jis. „Mielai atsakysiu į tiek, kiek galėsiu."
 
 Ismarkas gali pasidalinti šia informacija:
 
-* Žaidėjai įžengė į Barovijos žemę – valdą, apsuptą mirtino rūko ir valdomą Strahdo von Zarovičiaus, galingo vampyro, kuris iki neseniai snaudė Ravenlofto Pilyje.
-* Rūkai retkarčiais atgabena svetimšalius į Barioviją. (Ismarkas nieko nežino apie Mirties Namus, bet miglotai prisimena pasakojimus apie neįprastus būdus, kuriais keliauninkai atvyko į slėnį.) Vos tik svetimšalis įžengia į Barioviją, iš jos nebėra išėjimo.
-* Prieš kiek daugiau nei tris mėnesius vyras, vardu Doru, kaimo kunigo sūnus, sukėlė maištą prieš pilį, tikėdamasis išlaisvinti slėnį iš jo kalėjimo rūkuose. Jų sukilimas žlugo, pažadindamas Strahdą iš snaudulio ir paskatindamas vampyrą prisiekti kerštą kaimui apačioje.
-* Keliasdešimt barovijiečių pabėgo į Vallakio miestą, esantį beveik dienos kelio atstumu į vakarus. Likusieji pasiliko kaime, pasiryžę ginti savo namus ir tuos, kurie negalėjo leistis į kelionę.
-* Prieš šešias naktis Strahdo nemirusiųjų pajėgos ėmė pulti miestą. Kiekvieną naktį barovijiečiai atmuša kelias mirusiųjų bangas – ir kiekvieną naktį orda vis labiau priartėja prie kaimo gynybos pralaužimo.
-* Daugelis barovijiečių bijo, kad kaimas pasmerktas. Nemirėliai užplūdo miškus šiaurėje, vakaruose ir pietuose, užtverdami Senąjį Svalicho Kelią tuoj už Ivlio upės. Rūkams užtveriant kelią į rytus, kaimas faktiškai atkirstas nuo pasaulio, paliktas išgyventi savarankiškai – arba žūti.
+* Žaidėjai įžengė į **Barovijos žemę** – valdą, apsuptą mirtino rūko ir valdomą Strahdo von Zarovičiaus, galingo vampyro, kuris iki neseniai snaudė Ravenlofto Pilyje.
+* **Rūkai retkarčiais atgabena svetimšalius į Barioviją**. (Ismarkas nieko nežino apie Mirties Namus, bet miglotai prisimena pasakojimus apie neįprastus būdus, kuriais keliauninkai atvyko į slėnį.) Vos tik svetimšalis įžengia į Barioviją, iš jos **nebėra išėjimo.**
+* Prieš kiek daugiau nei tris mėnesius vyras, vardu **Doru**, kaimo kunigo sūnus, **sukėlė maištą prieš pilį**, t**ikėdamasis išlaisvinti slėnį iš jo kalėjimo rūkuose.** Jų sukilimas žlugo, **pažadindamas** Strahdą iš snaudulio ir paskatindamas vampyrą prisiekti **kerštą** kaimui apačioje.
+* Keliasdešimt barovijiečių **pabėgo į Vallakio miestą**, esantį beveik dienos kelio atstumu į vakarus. **Likusieji** pasiliko kaime, pasiryžę **ginti** savo namus ir tuos, **kurie negalėjo leistis į kelionę.**
+* **Prieš šešias naktis** Strahdo nemirusiųjų pajėgos ėmė **pulti miestą**. Kiekvieną naktį **barovijiečiai atmuša kelias mirusiųjų bangas** – ir kiekvieną naktį orda vis labiau priartėja prie kaimo gynybos pralaužimo.
+* Daugelis barovijiečių bijo, kad kaimas pasmerktas. **Nemirėliai užplūdo miškus šiaurėje, vakaruose ir pietuose**, užtverdami Senąjį Svalicho Kelią tuoj už Ivlio upės. Rūkams užtveriant kelią į rytus, kaimas faktiškai atkirstas nuo pasaulio, paliktas išgyventi savarankiškai – arba žūti.
 
 [[Non-Player Characters#Ismark Kolyanovich|Ismarkas]] taip pat gali papasakoti kaimo naujausią istoriją bei didžiąją dalį informacijos, esančios <span class="citation">Roleplaying Ismark (p. 43)</span> ir <span class="citation">Barovian Lore (p. 26)</span>. Tačiau Ismarkas nemini „pamišusio burtininko" ir neužsimena, kad vistanai tarnauja Strahdui. (Atkreipkite dėmesį, kad Ismarko tėvas, burmistras Kolianas Indirovičius, tebėra gyvas – nors ir sužeistas – burmistro dvare, o Ismarko sesuo Ireena Koliana dar nėra Strahdo įkąsta.)
 ### Bildrato Įniršis
 Netrukus po to, kai Ismarkas pradeda atsakinėti į žaidėjų klausimus, perskaitykite:
 
 <div class="description">
-<p>Kažkas trenkiasi į netoliese esantį stalą – ir garsas patraukia jūsų dėmesį į netoli sėdintį vyrą, kurio suspaustas kumštis trūkčioja ant medinio stalo paviršiaus. Jis kresnas, riebaluotais retėjančiais žilstelėjusiais plaukais ir lopytu, gerokai nudėvėtu švarku. Jo veidą darko paniekos grimasa, kai jis atsuka savo tamsias akis į jūsų grupę. „Kvaila užduotis – dėti viltis į Ismarką <em>Mažąjį</em>," – sukriokia jis, akims užsibūnant ant kiekvieno iš jūsų. „Geriau ieškokite geresnės draugijos, kad neatsidurtumėte žemėje kartu su paskutiniais kvailiais, kurie juo patikėjo."</p>
+<p>Kažkas trenkiasi į netoliese esantį stalą – ir garsas patraukia jūsų dėmesį į netoli sėdintį vyrą, kurio suspaustas kumštis trūkčioja ant medinio stalo paviršiaus. Jis kresnas, riebaluotais retėjančiais žilstelėjusiais plaukais ir lopytu, gerokai nudėvėtu švarku. Jo veidą darko paniekos grimasa, kai jis atsuka savo tamsias akis į jūsų grupę. „Kvailas sprendimas – dėti viltis į Ismarką <em>Mažąjį</em>," – sukriokia jis, akims užsibūnant ant kiekvieno iš jūsų. „Geriau ieškokite geresnės draugijos, kad neatsidurtumėte žemėje kartu su paskutiniais kvailiais, kurie juo patikėjo."</p>
 </div>
 
 ![[Bildrath_transparent.png]]
 <span class="credit">"Bildrath" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Vyras yra Bildratas Kantemiras, <span class="citation">Bildrath's Mercantile (p. 43)</span> savininkas. Jei kuris nors iš žaidėjų atrodo suinteresuotas su juo pasikalbėti plačiau, jis pakviečia juos vietoj to atsisėsti prie jo stalo, kad išgirstų „tikrąją šios kruvinos žemės istoriją". „Vynas – šūdas," – niurna jis, stumdamas vyno ąsotį per stalą, „bet toks ir viskas kita."
+Vyras yra Bildratas Kantemiras, <span class="citation">Bildrath's Mercantile (p. 43)</span> savininkas. Jei kuris nors iš žaidėjų atrodo suinteresuotas su juo pasikalbėti plačiau, jis pakviečia juos vietoj to atsisėsti prie jo stalo, kad išgirstų „tikrąją šios kruvinos žemės istoriją". „Vynas – šūdas," – niurna jis, stumdamas vyno ąsotį per stalą, „bet ir viskas yra šūdas."
 
-Jei paklausiama apie Bildrato teiginį dėl „paskutinių kvailių, kurie juo patikėjo", Ismarkas susiraukia. „Jis teisus, kad manęs nekenčia," – tyliai sako jis. „Aš paprašiau kitų kaimiečių likti ir ginti mūsų namus. Buvau arogantiškas ir kvailas – nesuvokiau, kokie galingi iš tiesų yra Velnias ir jo padarai." Jis užsimerkia. „Dabar dešimtys mano draugų ir kaimynų dingę – o aš vis dar čia."
+Jei paklausiama apie Bildrato teiginį dėl „paskutinių kvailių, kurie juo patikėjo", Ismarkas susiraukia. „Jis teisus, kad manęs nekenčia," – tyliai sako jis. „Aš paprašiau kitų kaimiečių likti ir ginti mūsų namus. Buvau arogantiškas ir kvailas – nesuvokiau, kokie galingi iš tiesų yra Velnias ir jo padarai." Jis užsimerkia. „Dabar dešimtys mano draugų ir kaimynų nebėr su mumis – o aš vis dar čia."
 
 Jei vienas ar daugiau žaidėjų prisijungia prie jo, Bildratas gali pasidalinti šia informacija:
 
-* Prieš kiek daugiau nei tris mėnesius būrys būsimų „revoliucionierių" nužygiavo į Ravenlofto Pilį „nužudyti vampyro". Doru, kunigo Donavičiaus, kaimo kunigo, sūnus, „prikimšo jų galvas pasakomis" apie Rūkų išsklaidymą ir Saulės sugrąžinimą į Barioviją.
-* Nė vienas iš revoliucionierių niekada negrįžo. Po kelių dienų į kaimą atvyko prieblandos odos elfas ir paskelbė, kad kaimas turi devyniasdešimt dienų susitaikyti su dievais, prieš Ravenlofto Pilies valdovui – dabar pabudusiam po šimto metų snaudulio – išreikalaujant atgailą už jų nepaklusnumą.
-* Kai kurie kaimiečiai išvyko. Daugelis kitų norėjo išvykti. Tačiau Ismarkas pasakė skambią kalbą kaimo aikštėje priešais Ismarko Didžiojo statulą, pažadėdamas kaimiečiams, kad tie, kurie pasiliks, stos ir gins savo namus. „Kokia to niekšo įžūlybė," – šaiposi Bildratas. „Stovėti priešais savo prosenelio statulą, tarsi būtų vertas *dešimtadalio* jo."
-* Bildratas norėjo išvykti – tačiau jo sesuo Marta ir jos vyras Dragomiras nusprendė pasilikti su savo sūnumi Parivimplu, įkvėpti Ismarko žodžių. Nenorėdamas palikti šeimos, Bildratas taip pat pasiliko. „Jie manė, kad kausis gindami tai, kas jų," – sunkiai išspaudžia jis, mirksėdamas ašaras. „Prakeikti *idiotai* turėjo bėgti ir niekada neatsigręžti."
-* Devyniasdešimt dienų po to, kai elfas paskelbė savo pranešimą, atėjo nemirėliai, plūsdami dešimtimis stiprių ordų iš Svalicho Miško. Kaimiečiai atsikovojo, gindami gatves barikadomis, kalavijais ir strėlėmis. „Bet mirusieji vis ėjo," – kriokia Bildratas. „Ir Marta—" Jis nutyla. (Bildratas prarado Martą ir Dragomirą per puolimus ir kaltina Ismarką dėl to, kad šis nesugebėjo jų apsaugoti, palikdamas Parivimplą – Bildrato sūnėną – našlaičiu.)
+* Prieš kiek daugiau nei tris mėnesius būrys būsimų „**revoliucionierių**" nužygiavo į Ravenlofto Pilį „**nužudyti vampyro**". Doru, kunigo Donavičiaus, kaimo kunigo, sūnus, „**prikimšo jų galvas pasakomis**" **apie Rūkų išsklaidymą ir Saulės sugrąžinimą į Barioviją**.
+* **Nė vienas iš revoliucionierių niekada negrįžo**. Po kelių dienų į kaimą atvyko **pilkos odos elfas ir paskelb**ė, kad kaimas turi **devyniasdešimt dienų susitaikyti su dievais,** prieš Ravenlofto Pilies valdovui – dabar pabudusiam p**o šimto metų** snaudulio – keršijant už jų nepaklusnumą.
+* Kai kurie kaimiečiai išvyko. Daugelis kitų norėjo išvykti. Tačiau **Ismarkas pasakė skambią kalbą kaimo aikštėje priešais Ismarko Didžiojo statulą**, pažadėdamas kaimiečiams, kad tie, kurie pasiliks, stos ir gins savo namus. „**Kokia to niekšo įžūlybė**," – šaiposi Bildratas. „**Stovėti priešais savo prosenelio statulą, tarsi būtų vertas *dešimtadalio* jo.**"
+* Bildratas norėjo išvykti – tačiau jo **sesuo Marta ir jos vyras Dragomiras nusprendė pasilikti su savo sūnumi Parivimplu,** įkvėpti Ismarko žodžių. **Nenorėdamas palikti šeimos**, Bildratas taip pat pasiliko. „**Jie manė, kad kausis gindami tai, kas jų**," – sunkiai išspaudžia jis, mirksėdamas ašaras. „**Prakeikti *idiotai* turėjo bėgti ir niekada neatsigręžti**."
+* Devyniasdešimt dienų po to, kai elfas paskelbė savo pranešimą, atėjo nemirėliai, plūsdami iš Svalicho Miško. **Kaimiečiai atsikovojo, gindami gatves barikadomis, kalavijais ir strėlėmis**. „Bet mirusieji vis ėjo," – kriokia Bildratas. „**Ir Marta—" Jis nutyla.** (Bildratas prarado Martą ir Dragomirą per puolimus ir kaltina Ismarką dėl to, kad šis nesugebėjo jų apsaugoti, palikdamas Parivimplą – Bildrato sūnėną – našlaičiu.)
 
-Atgavęs savitvardą, Bildratas įspėja žaidėjus, kad kaimas pasmerktas, ir tikriausiai kartu su juo visa Barovija. „Nėra jokios saulės, kurią būtų galima sugrąžinti," – spjauna jis. „Nėra pabėgimo iš rūkų. Tai Pragaras, dabar ir per amžius. Kuo greičiau jūs visi tai priimsite, tuo geriau jums bus."
-### Merės Žinia
+Atgavęs savitvardą, **Bildratas įspėja** žaidėjus, kad **kaimas pasmerktas**, ir tikriausiai **kartu su juo visa Barovija**. „**Nėra jokios saulės, kurią būtų galima sugrąžinti**," – spjauna jis. „**Nėra pabėgimo iš rūkų**. Tai **Pragaras**, dabar ir per amžius. Kuo greičiau jūs visi tai **priimsite, tuo geriau jums bus.**"
+### Mary Žinia
 Žaidėjų pokalbiams su [[Non-Player Characters#Ismark Kolyanovich|Ismarku]] ir Bildratu einant į pabaigą, perskaitykite:
 
 <div class="description">
@@ -211,7 +238,7 @@ Smuklė iškart nutyla, o Ismarko akys susiraukšlėja iš nerimo. Jis pareiški
 
 Tuo metu Bildratas suurzgia ir spjauna: „Dar daugiau tuščių pažadų, Kolianovičiau?" Jis atsisuka į žaidėjus, piktai žvelgdamas. „Ar jūs kada nors matėte kažką tokio žiauraus?"
 
-Kai žaidėjai turi progą pasisakyti, Bildratas atkakliai tvirtina: „Niekas negali išgyventi vienas tuose keliuose. Mergaitė dingusi, Mere. Man gaila." Tuomet Merė pratrūksta ašaromis.
+Kai žaidėjai turi progą pasisakyti, Bildratas atkakliai tvirtina: „Niekas negali išgyventi vienas tuose keliuose. Mergaitės su mumis nebėra, Mary. Man gaila." Tuomet Mary pratrūksta ašaromis.
 
 Nebent žaidėjai įsikištų, toliau skleidžiasi ši seka:
 
@@ -235,13 +262,13 @@ Nusiraminusi Merė nusišluosto akis, padėkoja Ismarkui (ir žaidėjams, jei ji
 > Strahdą, atrodo, prajuokino Gertrudos drąsa, ir jis pakvietė ją į Ravenlofto Pilį „aptarti reparacijų plačiau". Suvokdama, kad tai kvietimas, kurio negali atmesti, Gertruda nenoromis sutiko jį lydėti.
 > Nuo tada Gertruda liko „garbinga viešnia" pilyje, nors tapo aišku, kad Strahdas neketina leisti jai palikti savo kambarių – juo labiau pačios tvirtovės.
 ### Ismarko Prašymas
-Merei išėjus, Ismarkas paprašo jų tą naktį padėti ginti rytinę kaimo barikadą. „Patinka tai mums ar ne, mes visi šiame reikale kartu," – niūriai sako jis. „Kuo daugiau rankų, tuo geriau. Nežinau, ar galiu pažadėti monetų, bet galiu pažadėti, kad tai padės mums visiems išgyventi naktį – įskaitant ir jus pačius." Mainais už žaidėjų pagalbą Ismarkas mielai siūlo jiems nakvynę ir maistą savo šeimos namuose. (Vynmedžio Kraujo Smuklė neturi nuomojamų kambarių.)
+Merei išėjus, Ismarkas paprašo jų tą naktį padėti ginti rytinę kaimo barikadą. „**Patinka tai mums ar ne, mes visi šiame reikale kartu**," – niūriai sako jis. „**Kuo daugiau rankų, tuo geriau. Nežinau, ar galiu pažadėti monetų, bet galiu pažadėti, kad tai padės mums visiems išgyventi naktį – įskaitant ir jus pačius**." Mainais už žaidėjų pagalbą Ismarkas mielai siūlo jiems **nakvynę ir maistą savo šeimos namuose**. (Vynmedžio Kraujo Smuklė neturi nuomojamų kambarių.)
 
 Jei žaidėjai sutinka padėti ginti miestą, Ismarkas yra be galo dėkingas. Jis paprašo jų pirmiausia paimti dėžę „ugnies butelių" iš savo sesers Ireenos, kuri prižiūri pietinio kaimo perimetro gynybą iš jų namų, <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. (Ismarkas, kuris turi grįžti prie vakarinių barikadų ruoštis mirusiųjų sugrįžimui, negali skirti tam laiko pats.) Jei paklausiama, Ismarkas gali paaiškinti, kad „ugnies butelis" yra distiliuoto vyno butelis su skudurine dagtimi, skirtas uždegti ir sviesti į artėjančius nemirėlius.
 
 Kai žaidėjai paims ugnies butelių dėžę ir turės progą pailsėti dvare, Ismarkas jiems sako, jie turėtų nunešti ugnies butelius į rytinę barikadą – vietą, kur jie pirmą kartą įžengė į kaimą – kur jie budės visą naktį.
 ## B5d. Burmistro Dvaras
-Ši vieta iš esmės tokia, kokia aprašyta <span class="citation">Burgomaster's Mansion (p. 44)</span>. Tačiau burmistras Kolianas Indirovičius dar nėra nužudytas, o Ireenai dar nėra įkąsta.
+Dvaras kaip ir visi namai apdegintas su nagų žymėm, langai išdaužyti ir užkalti lentomis. Žemė išvaikščiota ir žolės sumindžytos. (DC 11 wisdom perception parodo kad pėdsakai žmonių ir vilkų).
 ### Įtūžusi Minia
 Kai žaidėjai atvyksta, jie randa dešimties barovijiečių **commoners** minią, susirinkusią prie dvaro. Pridėkite šį tekstą šios vietos aprašymo pabaigoje:
 
@@ -406,7 +433,7 @@ Kai žaidėjai pasiruošę išvykti, Ireena atneša iš spintos medinę dėžę 
 ## B5e. Bildrato Krautuvė
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Jei žaidėjai nusprendžia ją aplankyti prieš eidami į [[#B5f. Rytinė Barikada]], ši vieta iš esmės tokia, kokia aprašyta <span class="citation">Bildrath's Mercantile (p. 43)</span>. Tačiau užuot pardavinėjęs daiktus už dešimt kartų didesnę kainą, nei nurodyta _Player's Handbook_, Bildratas parduoda juos tik už dvigubą kainą, remdamasis neseniai įvykusiais ekonominiais sukrėtimais.
+Jei žaidėjai nusprendžia ją aplankyti prieš eidami į [[#B5f. Rytinė Barikada]], ši vieta iš esmės tokia, kokia aprašyta <span class="citation">Bildrath's Mercantile (p. 43)</span>. Tačiau užuot pardavinėjęs daiktus už dešimt kartų didesnę kainą, nei nurodyta **_Player's Handbook_ 150**, Bildratas parduoda juos tik už dvigubą kainą, remdamasis neseniai įvykusiais ekonominiais sukrėtimais.
 
 Jei kurie nors žaidėjai buvo jam malonūs smuklėje, tiems žaidėjams jis vietoj to parduoda daiktus normalia kaina, nurodyta *Player's Handbook* – ypatingas pasiūlymas, tik jiems. Jei kurie nors žaidėjai smuklėje gynė Ismarką, Bildratas piktai į juos žvelgia ir vietoj to parduoda tiems žaidėjams daiktus už penkis kartus didesnę kainą, nei nurodyta _Player's Handbook_, pikdžiugiškai vadindamas ją „ypatingu pasiūlymu" miesto „didžiojo didvyrio" draugams.
 

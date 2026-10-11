@@ -1204,7 +1204,7 @@ Kai žaidėjai kitą kartą pajuda link išėjimo, perskaitykite:
 
 <div class="description">
 <p>Orą perskrodžia gerklinis dejavimas – ir priešais jus materializuojasi siaubinga šmėkla: Elizabetos Durst dvasia, jos kadaise gražūs bruožai dabar groteskiškai iškreipti. Jos žvilgantys plaukai – laukinė, susivėlusi netvarka, oda mirtinai išbalusi, o lūpos atsitraukusios, atskleisdamos aštrius, pageltusius dantis. Ant virvutės aplink jos šmėklišką kaklą grėsmingai švyti gintaro skeveldra, kurios gelmėse sukasi šešėlinis kuokštas.</p>
-<p>Dvasia sklendžia aukštai virš grindų, įdubusios akys liepsnoja pykčiu, o burna iškreipta urzgime. „Galbūt išvengėte mano augintinio," – sukriokia ji, – „bet aš sugriausiu šiuos namus, prieš leisdama jums pabėgti." Ji atmeta galvą atgal ir paleidžia kraują stingdantį klyksmą, kuris atsimuša į akmenines sienas – ir priverčia pačius namo pamatus drebėti.</p>
+<p>Dvasia sklendžia aukštai virš grindų, įdubusios akys liepsnoja pykčiu, o burna iškreipta urzgime. „Jūs išvengėte mano augintinio," – sukriokia ji, – „bet aš, jums išeiti, neleidžiu. Jūs pasiliksit čia pūti kartu su manimi." Ji atmeta galvą atgal ir paleidžia kraują stingdantį klyksmą, kuris atsimuša į akmenines sienas – ir priverčia pačius namo pamatus drebėti.</p>
 <p>Toli viršuje senovinis laikrodis ima mušti, garsui augant iki griausmingos kakofonijos. Dulkės ir nuolaužos krinta lietumi, grindims drebant po jumis, o medinėms lubų sijoms imant skilinėti ir trūkinėti. Elizabetos dvasia įsmeigia į jus laukinę šypseną – ir tuomet išsisklaido ore, palikdama tik pikdžiugiško juoko aidus, kol namas dunda, slenka ir dejuoja.</p>
 </div>
 
@@ -1244,6 +1244,10 @@ Jei žaidėjai bando apeiti ar pulti Gustavą, aplink jį pakyla sklandančių n
 > | 6 | <ul><li>Padidinkite Gustavo hit points iki 26.</li><li>Padidinkite jo ***forceful slam*** išpuolį iki 12 (3d6+2) force damage, o jo ***telekinetic thrust*** veiksmo išpuolį – iki 6 (1d12) bludgeoning damage.</li></ul> |
 
 ![[Poltergeist stast.png]]
+**Kova** 
+* Aplink pakyla skeveldros. "Telekinetic Thrust" juos meta 30ft liniją ir 1 žmogus pakeliui gauna 1d8 bludgeoning dmg.
+
+
 Žaidėjai gali įtikinti Gustavą pasitraukti į šalį sėkmingai atlikę DC 20 Charisma (Intimidation) patikrinimą. Arba, jei žaidėjai užsimena apie Gustavo istoriją su Elizabeta ir Klara, jie gali įtikinti jį pasitraukti DC 10 Charisma (Persuasion) patikrinimu, sėkmingai automatiškai, jei parodo jam empatiją ar gerumą arba jei paprašo Rouzės ir Torno dvasių padėti jų prašymui.
 
 Jei žaidėjams pavyksta įtikinti Gustavą pasitraukti, jis įspėja juos, kad „kiti jos tarnai" laukia pasaloje priekyje, kad užtvertų žaidėjams pabėgimo kelią. „Nebijokite jų," – sako jis. „Vienintelė jų galia yra baimė." Tuomet jis išnyksta.
