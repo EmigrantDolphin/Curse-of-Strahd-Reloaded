@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Foggy Map — Fog of War</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;text y='.9em' font-size='90'&gt;🌫️&lt;/text&gt;&lt;/svg&gt;">
+</head>
+<body>
+  <header id="toolbar">
+    <div class="toolbar-group brand">
+      <span class="logo">🌫️</span>
+      <span class="title">Foggy&nbsp;Map</span>
+    </div>
+
+    <div class="toolbar-group">
+      <button id="btn-upload" class="btn" title="Upload a map image (O)">📂 Open map</button>
+      <input type="file" id="file-input" accept="image/*" hidden>
+    </div>
+
+    <div class="toolbar-group" id="tools">
+      <button class="btn tool" data-tool="reveal" title="Reveal brush (B)">🖌️ Reveal</button>
+      <button class="btn tool" data-tool="hide" title="Hide brush (H)">🌁 Hide</button>
+      <button class="btn tool" data-tool="pan" title="Pan (P, or hold Space / middle mouse)">✋ Pan</button>
+      <button class="btn tool" data-tool="measure" title="Measure distance (M)">📏</button>
+      <button class="btn tool" data-tool="aoe" title="Area of effect markers (A)">💥 AoE</button>
+    </div>
+
+    <div class="toolbar-group">
+      <button id="btn-grid" class="btn toggle" title="Toggle grid overlay (G)">🔲 Grid</button>
+      <button id="btn-grid-settings" class="btn" title="Grid settings (calibrate, distance scale)">⚙️</button>
+      <button id="btn-add-token" class="btn" title="Add a token at the center of the view (N)">➕ Token</button>
+    </div>
+
+    <div class="toolbar-group">
+      <label class="slider-label" title="Brush size ([ and ] to adjust)">
+        Brush
+        <input type="range" id="brush-size" min="5" max="300" value="60">
+        <span id="brush-size-value">60</span>
+      </label>
+    </div>
+
+    <div class="toolbar-group">
+      <button id="btn-undo" class="btn" title="Undo (Ctrl+Z)">↩️</button>
+      <button id="btn-redo" class="btn" title="Redo (Ctrl+Y)">↪️</button>
+      <button id="btn-cover-all" class="btn" title="Cover the whole map in fog">🌫️ Cover all</button>
+      <button id="btn-reveal-all" class="btn" title="Remove all fog">☀️ Reveal all</button>
+    </div>
+
+    <div class="toolbar-group">
+      <button id="btn-player-view" class="btn toggle" title="Toggle player view: fog becomes fully opaque (V)">🎭 Player view</button>
+      <button id="btn-share" class="btn" title="Share a live player view with another device">📡 Share</button>
+    </div>
+
+    <div class="toolbar-group">
+      <button id="btn-zoom-out" class="btn" title="Zoom out (-)">➖</button>
+      <button id="btn-zoom-fit" class="btn" title="Fit map to window (0)">⛶ Fit</button>
+      <button id="btn-zoom-in" class="btn" title="Zoom in (+)">➕</button>
+    </div>
+
+    <div class="toolbar-group">
+      <button id="btn-save-session" class="btn" title="Download map + fog as a session file">💾 Save</button>
+      <button id="btn-load-session" class="btn" title="Load a previously saved session file">📥 Load</button>
+      <input type="file" id="session-input" accept=".json,.foggymap,application/json" hidden>
+      <button id="btn-export-png" class="btn" title="Export the player view as a PNG">🖼️ Export PNG</button>
+    </div>
+  </header>
+
+  <main id="viewport">
+    <div id="stage">
+      <canvas id="map-canvas"></canvas>
+      <canvas id="grid-canvas"></canvas>
+      <svg id="aoe-layer" xmlns="http://www.w3.org/2000/svg"></svg>
+      <canvas id="fog-canvas"></canvas>
+      <div id="token-layer"></div>
+    </div>
+    <div id="rect-preview" hidden></div>
+    <div id="brush-cursor" hidden></div>
+    <canvas id="overlay-canvas"></canvas>
+    <div id="measure-label" hidden></div>
+
+    <div id="grid-panel" class="panel" hidden>
+      <h3>Grid settings
+        <button id="btn-grid-close" class="panel-close" title="Close">✕</button></h3>
+      <div class="panel-row">
+        <button id="btn-calibrate" class="btn">🎯 Calibrate</button>
+        <label class="inline">across
+          <input type="number" id="cal-cells" min="1" max="50" step="1" value="1">
+          cell(s)</label>
+      </div>
+      <p class="muted">Calibrate: drag a box along the map's printed grid,
+      spanning the number of cells above.</p>
+      <div class="panel-row">
+        <label class="inline">Cell size
+          <input type="number" id="grid-size" min="4" step="0.5"> px</label>
+      </div>
+      <div class="panel-row">
+        <label class="inline">Offset X
+          <input type="number" id="grid-off-x" step="1"></label>
+        <label class="inline">Y
+          <input type="number" id="grid-off-y" step="1"></label>
+      </div>
+      <div class="panel-row">
+        <label class="inline">Lines
+          <select id="grid-color">
+            <option value="dark">Dark</option>
+            <option value="light">Light</option>
+          </select></label>
+        <input type="range" id="grid-alpha" min="10" max="100" value="50"
+               title="Grid line opacity">
+      </div>
+      <div class="panel-row">
+        <label class="inline">1 cell =
+          <input type="number" id="grid-units" min="0" step="any" value="5">
+          <input type="text" id="grid-unit-label" value="ft" maxlength="8" class="tiny"></label>
+      </div>
+      <div class="panel-row">
+        <label class="inline">Diagonals
+          <select id="grid-diag">
+            <option value="euclidean">Euclidean</option>
+            <option value="dnd">D&amp;D 5e (diag = 1 cell)</option>
+          </select></label>
+      </div>
+      <div class="panel-row">
+        <label class="inline">
+          <input type="checkbox" id="grid-snap"> Snap tokens to grid</label>
+      </div>
+    </div>
+
+    <div id="share-panel" class="panel" hidden>
+      <h3>Live share
+        <button id="btn-share-close" class="panel-close" title="Close">✕</button></h3>
+      <div id="share-off">
+        <p class="muted">Stream a live, view-only player view to another
+        browser — another machine, a TV, a tablet. Players see the opaque
+        fog and only the tokens outside it.</p>
+        <button id="btn-share-start" class="btn">📡 Start sharing</button>
+      </div>
+      <div id="share-on" hidden>
+        <div class="panel-row">Room code:
+          <strong id="share-code" class="share-code"></strong></div>
+        <div class="panel-row">
+          <input type="text" id="share-link" readonly>
+          <button id="btn-copy-link" class="btn">Copy</button>
+        </div>
+        <p class="muted">Open this link on the player's device (or go to
+        player.html and enter the code).</p>
+        <div class="panel-row">
+          <span id="share-viewers" class="muted">0 viewers connected</span>
+        </div>
+        <div class="panel-row">
+          <label class="inline">
+            <input type="checkbox" id="share-edits" checked>
+            Players can move &amp; add tokens</label>
+        </div>
+        <div class="panel-row">
+          <button id="btn-share-stop" class="btn danger">⏹ Stop sharing</button>
+        </div>
+      </div>
+      <p class="muted">Peer-to-peer via WebRTC: anyone with the code can
+      watch while sharing is on. Both devices must stay online.</p>
+      <p id="share-error" class="muted" hidden></p>
+    </div>
+
+    <div id="aoe-panel" class="panel" hidden>
+      <h3>AoE markers
+        <button id="btn-aoe-close" class="panel-close" title="Close">✕</button></h3>
+      <div class="panel-row" id="aoe-shapes">
+        <button class="btn aoe-shape-btn" data-shape="circle" title="Circle / sphere">⬤</button>
+        <button class="btn aoe-shape-btn" data-shape="cone" title="Cone (D&amp;D style: width = length)">◢</button>
+        <button class="btn aoe-shape-btn" data-shape="square" title="Square / cube">◼</button>
+        <button class="btn aoe-shape-btn" data-shape="line" title="Line (one grid cell wide)">▬</button>
+      </div>
+      <div id="aoe-colors" class="swatches"></div>
+      <div class="panel-row">
+        <label class="inline">Opacity
+          <input type="range" id="aoe-opacity" min="10" max="80" value="35"></label>
+      </div>
+      <p class="muted">Drag on the map to place a marker (drag direction aims
+      cones, squares, and lines). Drag a marker to move it; click selects;
+      Delete or double-click removes; Esc deselects.</p>
+      <div class="panel-row">
+        <button id="btn-aoe-clear" class="btn danger">🧹 Clear all markers</button>
+      </div>
+    </div>
+
+    <div id="token-panel" class="panel" hidden>
+      <h3>Token
+        <button id="btn-token-close" class="panel-close" title="Close (Esc)">✕</button></h3>
+      <div class="panel-row">
+        <label class="inline">Label
+          <input type="text" id="token-label" maxlength="24"></label>
+      </div>
+      <div id="token-colors" class="swatches"></div>
+      <div class="panel-row">
+        <label class="inline">Size
+          <input type="range" id="token-size" min="10" max="400"></label>
+        <button id="btn-token-cell" class="btn" title="Resize to one grid cell">1 cell</button>
+      </div>
+      <div class="panel-row">
+        <label class="inline">Shape
+          <select id="token-shape">
+            <option value="circle">Circle</option>
+            <option value="square">Square</option>
+          </select></label>
+      </div>
+      <div class="panel-row">
+        <button id="btn-token-image" class="btn">🖼️ Set image…</button>
+        <button id="btn-token-clear-image" class="btn">✖ No image</button>
+        <input type="file" id="token-image-input" accept="image/*" hidden>
+      </div>
+      <div id="image-library" class="swatches"></div>
+      <p class="muted">Tip: drop an image file onto a token to set its
+      portrait. Click a library thumbnail to reuse one.</p>
+      <div class="panel-row">
+        <button id="btn-token-duplicate" class="btn">⧉ Duplicate</button>
+        <button id="btn-token-delete" class="btn danger">🗑 Delete</button>
+      </div>
+    </div>
+
+    <div id="drop-hint">
+      <div class="drop-hint-inner">
+        <div class="drop-hint-icon">🗺️</div>
+        <h1>Drop a map image here</h1>
+        <p>or click <strong>📂 Open map</strong> to choose a file.</p>
+        <p class="muted">The map starts fully covered in fog. Use the reveal
+        brush to uncover areas as your players explore. Your work is
+        autosaved in this browser.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer id="statusbar">
+    <span id="status-tool">Tool: Reveal brush</span>
+    <span id="status-zoom">Zoom: 100%</span>
+    <span id="status-save"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
