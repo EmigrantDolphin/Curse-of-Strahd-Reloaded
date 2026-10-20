@@ -270,16 +270,6 @@ Kai žaidėjai paims ugnies butelių dėžę ir turės progą pailsėti dvare, I
 ## B5d. Burmistro Dvaras
 Dvaras kaip ir visi namai apdegintas su nagų žymėm, langai išdaužyti ir užkalti lentomis. Žemė išvaikščiota ir žolės sumindžytos. (DC 11 wisdom perception parodo kad pėdsakai žmonių ir vilkų).
 ### Įtūžusi Minia
-Kai žaidėjai atvyksta, jie randa dešimties barovijiečių **commoners** minią, susirinkusią prie dvaro. Pridėkite šį tekstą šios vietos aprašymo pabaigoje:
-
-<div class="description">
-<p>Prie dvaro susirinko nedidelė kaimiečių minia, mosuojanti šakėmis, šluotomis ir kirviais. Priekyje stovi paprasta, pavargusiai atrodanti moteris, jos banguoti rudi plaukai surišti suglamžyta balta skarele.</p>
-<p>„Atiduok ją, Kolianai!" – šaukia ji. „Tavo gynyba sulaikė Velnią, bet nesustabdė jo rykštės. Metas imtis reikalų į savo rankas."</p>
-<p>Vyresnis vyras puošniais drabužiais, jo retėjantys žili plaukai traukiasi nuo kaktos, sunkiai remiasi į lazdą tarpduryje. Sunkūs, krauju permirkę tvarsčiai apjuosia jo pilvą, kaktą ir kairį kelį. Šalia jo stovi jauna moteris ilgais, raudonais plaukais ir plieniniais krūtinšarviais virš ilgarankovės pilkos tunikos, jos veidas išbalęs ir įtemptas. Prie šono makštyje kabo rapyra, o jos dešinė ranka sklando virš žvilgančios rankenos.</p>
-<p>„Eik namo, Alenka," – griausmingai sako vyras. „Ir jūs visi kiti. Kol aš esu burmistras, aš neleisiu šitos beprotybės."
-</div>
-
-Rudaplaukė moteris yra Alenka Konstantinova, vidutinio amžiaus barovijietė **commoner**. Vyresnis vyras yra burmistras Kolianas Indirovičius, **veteran** su keturiais exhaustion lygiais. Raudonplaukė jauna moteris yra Ireena Koliana, kuri iš esmės tokia, kokia aprašyta <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
 ![[Ireena.png]]
 <span class="credit">"Ireena Kolyana" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -302,6 +292,7 @@ Rudaplaukė moteris yra Alenka Konstantinova, vidutinio amžiaus barovijietė **
 >
 > ***Ryšiai.*** Ireena yra (žinanti) Ismarko Kolianovičiaus įseserė, (nežinanti) Izeko Strazni sesuo ir antroji (nežinanti) Tatjanos Federovnos reinkarnacija.
 
+
 > [!profile]+ **Profilis: Burmistras Kolianas Indirovičius**
 > **Vaidybos Informacija**
 > ***Rezonansas.*** Kolianas turėtų kelti jaukumą savo šiluma bei paguoda, prieraišumą ir užuojautą dėl savo užsispyrimo negalios akivaizdoje, ir pamalonintą jausmą savo nuoširdžiu susidomėjimu žaidėjų istorija bei įgūdžiais.
@@ -323,6 +314,18 @@ Rudaplaukė moteris yra Alenka Konstantinova, vidutinio amžiaus barovijietė **
 > Alenka yra Antono Konstantinovičiaus, barovijiečio, vedusio Dezdreldą Konstaninovą, sesuo. Prieš dvi naktis Antonas ir Dezdrelda paslaptingai dingo vidury nakties apgulties metu; jų kūnai taip ir nebuvo rasti. Jų netektis privedė Alenką prie sielvarto bei paranojos ir suteikė jai desperatišką poreikį bet kokiomis įmanomomis priemonėmis nutraukti apgultį.
 >
 > Alenkai nežinant, Antonas ir Dezdrelda yra Volentos Popofsky, vienos iš Strahdo vampyrių nuotakų, kaliniai Ravenlofto Pilyje. Žaidėjai vėliau sutiks Antoną kaip kaukėtą tarną [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] metu.
+
+Kai žaidėjai atvyksta, jie randa dešimties barovijiečių **commoners** minią, susirinkusią prie dvaro. Pridėkite šį tekstą šios vietos aprašymo pabaigoje:
+
+## 4th session start 
+
+### Maišto galimos pasėkmės
+* Kova prieš valstiečius
+* Valstiečių atkalbėjimas
+* Ireenos atidavimas valstiečiams ir paaukojimas Strahdui
+
+„Atiduok ją, Kolianai!" Tavo gynyba sulaikė Velnią, bet nesustabdė jo rykštės. Metas imtis reikalų į savo rankas."
+„Eik namo, Alenka," "Ir jūs visi kiti. Kol aš esu burmistras, aš neleisiu šitos beprotybės."
 
 Strahdo puolimų prieš kaimą privesti prie nevilties, Alenka ir minia tiki, kad reikia aukos ar atnašos, kad vampyras būtų numaldytas ir jo įtūžis nuramintas. Jei žaidėjai neįsikiša, skleidžiasi šis pokalbis:
 
