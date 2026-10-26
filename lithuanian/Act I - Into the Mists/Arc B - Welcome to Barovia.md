@@ -324,27 +324,52 @@ Kai žaidėjai atvyksta, jie randa dešimties barovijiečių **commoners** mini�
 * Valstiečių atkalbėjimas
 * Ireenos atidavimas valstiečiams ir paaukojimas Strahdui
 
-„Atiduok ją, Kolianai!" Tavo gynyba sulaikė Velnią, bet nesustabdė jo rykštės. Metas imtis reikalų į savo rankas."
-„Eik namo, Alenka," "Ir jūs visi kiti. Kol aš esu burmistras, aš neleisiu šitos beprotybės."
+
+Kolianas - supykęs
+Alenka - Neviltis, ieško atsakymų
+
+**Alenka** - Atiduok ją, Kolianai! Tavo gynyba sulaikė Velnią, bet nesustabdė jo rykštės. Metas imtis reikalų į savo rankas.
+**Kolijanas** - Eik namo, Alenka,
+**Kolijanas** - Ir jūs visi kiti. Kol aš esu burmistras, aš neleisiu šitos beprotybės.
 
 Strahdo puolimų prieš kaimą privesti prie nevilties, Alenka ir minia tiki, kad reikia aukos ar atnašos, kad vampyras būtų numaldytas ir jo įtūžis nuramintas. Jei žaidėjai neįsikiša, skleidžiasi šis pokalbis:
 
-* Alenka akmeniniu veidu praneša Kolianui, kad auka vampyrui yra ne beprotybė, o „sveikas protas". „Legendos sako, kad Velnias Strahdas mėgsta medžioti raudonplaukes moteris," – sako ji jam. „Jei jos kraujas galėtų pelnyti jo palankumą, kaip mes galime elgtis kitaip?"
-* Kolianas atsako, kad Alenka yra „kvailė", jei tiki, kad Ireenos – ar bet kurio kito – atidavimas numaldys Ravenlofto Pilies Velnią. „Tu graibaisi atsakymų pasaulyje, kuris jų neturi," – griaudėja jis. „Ir mes esame barovijiečiai. Mes nesigręžiame prieš savus."
-* Alenka atkerta, kad Ireena nėra tikra barovijietė – juk Kolianas rado ją klaidžiojančią miške netoli Ravenlofto Stulpakmenio, kai ji buvo vaikas. (Ireena ir Kolianas tai jau žino ir šiuo teiginiu nenustemba.) „Ji ne viena iš mūsų," – aštriai sako Alenka, – „ir jei tu rinksiesi ją vietoj mūsų, tai ir tu ne."
-* Du Alenkos bendražygiai žengia arčiau dvaro, mosuodami ginklais. Kolianas aiktelėja: „Kaip jūs drįstate," – žengia pirmyn ir vos nesugriūva nuo savo žaizdų. Ireena pagauna jį prieš jam nukrentant ir įsako miniai „nė piršto neliesti jos tėvo".
+**Alenka** - auka vampyrui yra ne beprotybė, o sveikas protas
+**Alenka** - Legendos sako, kad Velnias Strahdas mėgsta medžioti raudonplaukes moteris, jei jos kraujas galėtų pelnyti jo palankumą, kaip mes galime elgtis kitaip?
+**Kolianas** - Alenka, tu kvailė, jei tiki, kad Ireenos – ar bet kurio kito – atidavimas numaldys Ravenlofto Pilies Velnią. 
+**Kolianas** - Tu graibaisi atsakymų pasaulyje, kuris jų neturi
+**Kolianas** - Ir mes esame barovijiečiai. Mes nesigręžiame prieš savus.
+**Alenka** - Ireena nėra tikra barovijietė – juk radai ją klaidžiojančią miške netoli Ravenlofto pilies, kai ji buvo vaikas
+**Alenka** - Ji ne viena iš mūsų, ir jei tu rinksiesi ją vietoj mūsų, tai ir tu ne."
 
-Jei žaidėjai vis dar yra ten ir dar neįsikišo, Ireena maldauja jų pagalbos, Alenkos miniai artėjant.
+Du Alenkos bendražygiai žengia arčiau dvaro, mosuodami ginklais. 
 
-Jei žaidėjai įsikiša, Alenka, Kolianas ir Ireena priima juos su nepažįstamumu bei nuostaba, nors Alenka įtaria, kad jie gali būti „Velnio Strahdo" šnipai. (Jei paminimas Ismarko vardas, Ireena ir Kolianas nusiramina, nors Alenka spjauna ant žemės ir tyliai nusikeikia „Ismarkas Mažasis" po nosimi.)
+**Kolianas** - Kaip jūs drįstate!
 
-Žaidėjai gali išsklaidyti minią pateikdami pagrįstą argumentą ir sėkmingai atlikdami DC 10 Charisma (Persuasion) patikrinimą, atliekamą su advantage, jei žaidėjai pasiteirauja apie Alenkos dingusius šeimos narius ir parodo jai užuojautą. Žaidėjai taip pat gali išsklaidyti minią mosuodami savo ginklais ar magija ir sėkmingai atlikdami DC 10 Charisma (Intimidation) patikrinimą, atliekamą su advantage, jei jie užsimena apie savo neseniai vykusias kovas Mirties Namuose.
+Kolianas žengia pirmyn ir vos nesugriūva nuo savo žaizdų. Ireena pagauna jį prieš jam nukrentant.
 
-Jei žaidėjai atrodo pasiruošę pulti minią be provokacijos, Kolianas maldauja jų vengti smurto. „Jie sutrikę," – kimiai sako jis, – „bet jie vis tiek barovijiečiai."
+**Ireena** - Stot! Neleisiu jums ne pirštu paliesti mano tėvo! 
 
-Jei žaidėjams nepavyksta išsklaidyti minios, tačiau jie atsisako leisti paimti Ireeną, Alenka įsako jiems pasitraukti. Jei jie atsisako, ji nurodo miniai partrenkti juos be sąmonės, prieš pasiimant Ireeną.
+Ireena maldauja žaidėjų pagalbos, Alenkos miniai artėjant.
 
-Jei prasideda kova, Ireena prisijungia prie žaidėjų, gindama dvarą, o Kolianas maldauja kovotojų nieko nežudyti. Jei du barovijiečiai partrenkiami be sąmonės arba jei vienas nužudomas, likusieji pabėga.
+Jei žaidėjai įsikiša, Alenka, Kolianas ir Ireena priima juos su nepažįstamumu bei nuostaba, nors Alenka įtaria, kad jie gali būti „Velnio Strahdo" šnipai. 
+
+(Jei paminimas Ismarko vardas, Ireena ir Kolianas nusiramina, nors Alenka spjauna ant žemės ir tyliai nusikeikia „Ismarkas Mažasis" po nosimi.)
+
+Žaidėjai gali **išsklaidyti minią** pateikdami **pagrįstą argumentą** ir sėkmingai atlikdami **DC 10 Charisma (Persuasion)** patikrinimą, |||||  atliekamą su **advantage**, **jei žaidėjai pasiteirauja apie Alenkos dingusius šeimos narius ir parodo jai užuojautą.** 
+
+Žaidėjai taip pat gali išsklaidyti minią **mosuodami savo ginklais ar magija** ir sėkmingai atlikdami **DC 10 Charisma (Intimidation)** patikrinimą, atliekamą su **advantage**, **jei jie užsimena apie savo neseniai vykusias kovas Mirties Namuos
+
+Jei žaidėjai atrodo pasiruošę pulti minią be provokacijos, Kolianas maldauja jų vengti smurto. „**Jie sutrikę**," – kimiai sako jis, – „**bet jie vis tiek barovijiečiai.**"
+
+Jei žaidėjams **nepavyksta išsklaidyti minios**, tačiau jie atsisako leisti paimti Ireeną, **Alenka įsako jiems pasitraukti**. Jei jie atsisako, ji nurodo miniai **partrenkti juos be sąmonės**, prieš pasiimant Ireeną.
+**Alenka** - Kaimieičiai, į kovą! Tik nežudykite jų!
+
+Jei **prasideda kova**, **Ireena prisijungia prie žaidė**jų, gindama dvarą, o **Kolianas maldauja kovotojų nieko nežudyti**. 
+
+Jei **du barovijiečiai partrenkiami be sąmonės arba jei vienas nužudomas, likusieji pabėga**.
+
+TODO: stats for ireena, stats for commoners
 
 > [!info]+ **Nemirtina Žala**
 > Beatodairiškos barovijiečių eilinių mirtys atstums kaimiečius ir Ismarko šeimos narius. Žaidėjai, norintys išvengti barovijiečių žudymo, gali padaryti savo priešininkus incapacitated, kaip aprašyta <span class="citation">Knocking a Creature Out (*Player's Handbook*, p. 198)</span>. Jei žaidėjai nusprendžia to nedaryti, leiskite be sąmonės esantiems minios nariams atlikti death saving throws, kaip aprašyta <span class="citation">Monsters and Death (*Player's Handbook*, p. 198)</span>.
