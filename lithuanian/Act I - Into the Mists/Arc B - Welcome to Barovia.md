@@ -326,7 +326,7 @@ Kai žaidėjai atvyksta, jie randa dešimties barovijiečių **commoners** mini�
 
 
 Kolianas - supykęs
-Alenka - Neviltis, ieško atsakymų
+Alenka - Neviltis, ieško atsakymų. Jos brolis su jo žmona dingo be žinios prieš dvi dienas. Alenka netektyje, jai visai pohui, ji nori sustabdyti apgultį. (Antanas Konstantinoviččius, Dezdrelda Konstantinovna)
 
 **Alenka** - Atiduok ją, Kolianai! Tavo gynyba sulaikė Velnią, bet nesustabdė jo rykštės. Metas imtis reikalų į savo rankas.
 **Kolijanas** - Eik namo, Alenka,
@@ -335,11 +335,11 @@ Alenka - Neviltis, ieško atsakymų
 Strahdo puolimų prieš kaimą privesti prie nevilties, Alenka ir minia tiki, kad reikia aukos ar atnašos, kad vampyras būtų numaldytas ir jo įtūžis nuramintas. Jei žaidėjai neįsikiša, skleidžiasi šis pokalbis:
 
 **Alenka** - auka vampyrui yra ne beprotybė, o sveikas protas
-**Alenka** - Legendos sako, kad Velnias Strahdas mėgsta medžioti raudonplaukes moteris, jei jos kraujas galėtų pelnyti jo palankumą, kaip mes galime elgtis kitaip?
+**Alenka** - Jis mėgsta medžioti raudonplaukes moteris, taip sako legendos, jei jos kraujas galėtų pelnyti jo palankumą, kaip mes galime elgtis kitaip?
 **Kolianas** - Alenka, tu kvailė, jei tiki, kad Ireenos – ar bet kurio kito – atidavimas numaldys Ravenlofto Pilies Velnią. 
 **Kolianas** - Tu graibaisi atsakymų pasaulyje, kuris jų neturi
 **Kolianas** - Ir mes esame barovijiečiai. Mes nesigręžiame prieš savus.
-**Alenka** - Ireena nėra tikra barovijietė – juk radai ją klaidžiojančią miške netoli Ravenlofto pilies, kai ji buvo vaikas
+**Alenka** - Ireena nėra tikra barovijietė – juk radai ją miške netoli Ravenlofto pilies! (kai ji buvo vaikas)
 **Alenka** - Ji ne viena iš mūsų, ir jei tu rinksiesi ją vietoj mūsų, tai ir tu ne."
 
 Du Alenkos bendražygiai žengia arčiau dvaro, mosuodami ginklais. 

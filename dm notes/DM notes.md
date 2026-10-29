@@ -125,42 +125,17 @@ Pūvantis
 #### Uždrausti žodžiai
 Kažkokia
 Tokios
-### Pradžia
 
-Pristatai kaip visi po vieną ateina prie šio namo, lydimi skirtingais artefaktais kurie skiriasi savo navigacijos gebėjimais (šviesa, žemėlapis, kvapas)
-* Neminėk veikėjų vardų, arba kaip jie atrodo, tesiog kad jie lydimi, lyja lietus, rūke nieko nesimato, dunda griaustinis
-* Namas tarsi valdo šią vietą nes neprisileidžia rūko ir kovoja prieš lietų ir griaustinius
+## Žaidėjų story inventory
+* Rekomendacinis laiškas Kolijanovičiaus į Vallaki Ir Krezką
+> [!item]+ **Rekomendacinis Laiškas**
+> Žaidėjai, kurie pateikia Koliano rekomendacinį laišką baronui Vargui Vallakovičiui, lady Fionai Wachter iš Vallakio, burmistrui Dmitrijui Krezkovui iš Krezko per pirmąsias dešimt minučių nuo susitikimo su jais, arba jų tarnams ar šeimos nariams, turi advantage bet kuriam Charisma (Persuasion) patikrinimui, atliktam per tas dešimt minučių, jei tik patikrinimui apskritai įmanoma pavykti.
 
-> [!info]+ **Laikas Mirties Namuose**
->
-> Kai laikrodis išmuša šeštą, padėkite ant stalo priešais žaidėjus tris šešiasienius kauliukus, kiekvieną atverstą šešetu. Kiekvienas taškas ant kauliukų reiškia dvidešimt minučių iki vidurnakčio.
->
-> Žaidėjams tyrinėjant namą, mažinkite šį kauliukų laikrodį, kad parodytumėte laiko tėkmę, visada pradėdami nuo kauliuko, rodančio mažiausią skaičių. Jei mažiausias kauliukas rodo vienetą, galite jį sumažinti iki „nulio", tiesiog pašalindami jį iš grupės.
->
-> Kauliukų laikrodis skaičiuoja atgal taip, atspindėdamas bendrą laiką, kurį žaidėjai praleido name:
-> - Kaskart, kai žaidėjai patenka į naują namo ar požemio aukštą, sumažinkite kauliukų laikrodį vienetu.
-> - Kaskart, kai žaidėjai atlieka Perception ar Investigation patikrinimą, kad apieškotų visą kambarį, sumažinkite kauliukų laikrodį vienetu.
-> - Kaskart, kai žaidėjai užbaigia trumpą poilsį, sumažinkite kauliukų laikrodį trimis.
->
-> Pilna valanda praeina kaskart, kai kauliukas sumažėja nuo 4 iki 3, arba kaskart, kai kauliukas sumažėja nuo 1 iki 0. Senovinis laikrodis **Pagrindinėje Salėje** skamba kiekvieną valandą, ir jį girdėti visame name bei požemyje.
->
-> Kai laikrodis išmuša vidurnaktį, **mėsos gumulas** **Ritualų Kambaryje** pabunda ir traukia tiesiai pas žaidėjus, prireikus išeidamas pro **Paslėptą Liuką** į **Vilkų Guolį**, kad juos pasiektų. Nuo gumulo pabudimo iki akimirkos, kai jis pirmą kartą pasiekia žaidėjus, turėtų praeiti bent viena minutė, panaikinant jo *heavy sleeper* savybę ir leidžiant jam naudoti *multiattack* veiksmus.
+* 12 ugnies butelių.
 
-
-> [!info]+ **Poilsis Mirties Namuose**
->
-> Dėl vidurnakčio termino žaidėjams neįmanoma Mirties Namuose atlikti ilgo poilsio. Tačiau žaidėjams vis tiek gali prireikti trumpo poilsio. Kaskart, kai jie tai daro pagrindiniame name, jie patiria vieną ar daugiau iš šių apsėdimo reiškinių:
->
-> - Žaidėjas girdi žiurkes, landžiojančias aukštyn ir žemyn tarpsieniuose. Į kambarį įsiskverbia tirštas, dusinantis puvėsių dvokas.
-> - Žaidėjas girdi moters niūniavimą, sklindantį iš kitos uždarų durų pusės. Jei durys praveriamos, į jį atgal spokso šalta mėlyna akis, prieš išnykdama.
-> - Žaidėjas girdi žingsnius, besileidžiančius iš palėpės, kurie sustoja už jo durų, prieš nutoldami link bibliotekos. Netrukus po to iš bibliotekos girdisi girgždesys – slaptų durų garsas.
-> - Žaidėjas girdi pamišėlišką juoką, aidintį iš toli po namu.
-> - Žaidėjas girdi maldaujantį moters balsą dešinėje ausyje, prisiekiantį, kad „jis ne jo". Kitas, šaltesnis moters balsas kairėje žaidėjo ausyje nusišaipo ir sako: „Tu taip ir sakytum, tu maža *paleistuve*."
-
-> [!info]+ **Kelių Ability Checks Atlikimas**
->
-> Žaidėjams tyrinėjant Mirties Namus ir daugybę slaptų vietų Barovijos žemėje, nepamirškite **Multiple Ability Checks** taisyklės (<span class="citation">Dungeon Master's Guide, p. 237</span>). Pavyzdžiui, žaidėjas, apieškantis biblioteką, gali skirti 10 minučių ir automatiškai sėkmingai atlikti patikrinimą.
-
-![[134-deathhousedm.webp]]
-
-# Pasaulio taisyklės
+> [!item]+ **Ugnies Butelis**
+> Šis Purple Grapemash No. 3 butelis, pažymėtas Vynų Vedlio vyninės antspaudu, buvo distiliuotas, padidinant jo alkoholio kiekį, o jo kamštis buvo pašalintas ir pakeistas skudurine dagtimi.
+> 
+> Kaip action, būtybė gali panaudoti uždegtą deglą ar kitą ugnies šaltinį dagčiui uždegti, tuomet mesti butelį iki 20 pėdų, ir jis sudūžta smūgio metu. Atlikite ranged attack prieš būtybę ar objektą, laikydami butelį improvised weapon. Pataikius, taikinys patiria 1d4 fire damage kiekvieno savo ėjimo pradžioje.
+> 
+> Būtybė gali nutraukti šią žalą panaudodama savo action, kad atliktų DC 10 Dexterity patikrinimą liepsnoms užgesinti.

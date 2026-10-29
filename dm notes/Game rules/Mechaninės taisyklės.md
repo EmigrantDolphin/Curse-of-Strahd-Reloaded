@@ -24,3 +24,8 @@
 6	Death
 
 Long rest + food and drink reduces exhaustion by 1
+
+> [!info]+ **Kelių Ability Checks Atlikimas**
+>
+> Žaidėjams tyrinėjant Mirties Namus ir daugybę slaptų vietų Barovijos žemėje, nepamirškite **Multiple Ability Checks** taisyklės (<span class="citation">Dungeon Master's Guide, p. 237</span>). Pavyzdžiui, žaidėjas, apieškantis biblioteką, gali skirti 10 minučių ir automatiškai sėkmingai atlikti patikrinimą.
+
