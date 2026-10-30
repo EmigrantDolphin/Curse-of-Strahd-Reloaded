@@ -120,3 +120,29 @@ Laišką užantspauduoja vaškiniu ženklu: Ilgasis kalavijas priešais tekanči
 * **Išplėštas lapas**: TODO: print - Vienas iš žaidėjų savo kambaryje randa nuplėštą ištrauką. Kolijanas ir Ireena neatpažįsta šios ištraukos bet pamini kad Doru turėjo "Van Richteno Vadovas apie Vampyrus" kopiją, parašytą daktaro Rudolfo Van Richteno. 
 * **Maistas** - ropių ir triušienos troškinys. Ireena atsiprašo už skurdų maistą.
 * **Kai išvyksta** - Ireena atneša dvylika ugnies butelių. (History check ar atsimena Wizard of Wines vinery)
+
+
+
+# Bildrato Krautuvė
+
+Player handbook page 150
+##### Kainos
+* Dvigubai (Justina, Lauras)
+* Normali kaina jei jam žaidėjai buvo malonūs smuklėje. Ypatingas pasiūlymas.
+* Penkis kart jei smuklėje jam nepatiko (Tadas). "Ypatingas pasiūlymas didžiojo didvyrio draugužėliui"
+
+* Neseniai įvykę ekoniminiai sukrėtimai (siege/apgultis)
+
+#### Įvykiai
+
+###### Parivimplas
+* Įeina aukštas, stambus vyrukas, nešasi prekių dėžę. "Štai viskas ko prašei".
+* Kvailai domisi žaidėjais
+* Bildratas liepia grįžti į savo miegamajį ir netrukdyti pirkėjams.
+* Bounceris vengiantis smurto (grapple)
+
+
+# Bažnyčia
+TODO:
+
+
